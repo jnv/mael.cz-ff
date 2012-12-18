@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+  <link rel="stylesheet" href="css/layout.css" media="all">
+  <![endif]-->
+
+  <title><%= data.page.title %></title>
+
+  <%= stylesheet_link_tag "normalize", "all" %>
+  <!-- /ht Jeremy Keith - http://front.ie/mLXiaS -->
+  <%= stylesheet_link_tag "global", "all" %>
+  <%= stylesheet_link_tag "layout", "all and (min-width: 33.236em)" %>
+  <!-- 30em + (1.618em * 2) = 33.236em / Eliminates potential of horizontal scrolling in most cases -->
+</head>
+
+<body class="<%= page_classes %>">
+  <%= yield %>
+
+  <%= javascript_include_tag  "all" %>
+  <script>
+  var _gaq=[['_setAccount','UA-10953645-3'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
