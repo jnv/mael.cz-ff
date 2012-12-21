@@ -7,9 +7,9 @@
 
 body
   // +debug-vertical-alignment
+html
+  background-image: image-url('debut_dark.png')
 
-p
-  +trailer(1)
 
 #container
   padding: 1.618em
@@ -20,12 +20,19 @@ p
 
   h1, h2, h3
     letter-spacing: 0
+  h1
+    +adjust-font-size-to($scale-xxl)
+    +adjust-leading-to(0.6)
+
+  p
+    +trailer(1)
 
   section
     clear: both
 
   #about
     .description
+      +trailer(0)
       width: 19em
       float: left
       & + .description
