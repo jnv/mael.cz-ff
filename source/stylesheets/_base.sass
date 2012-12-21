@@ -1,12 +1,15 @@
 @import compass
 
+$color-bg: #333
+$color-fg: #fefefe
+$color-hi: #8BBD3F // PragoFFest Green
 
 @mixin respond-to($bear)
   @if $bear == baby
     @media only screen and (max-width: $break-small)
       @content
   @else if $bear == daddy
-    @media only screen and (min-width: 33.236em) //30em + (1.618em * 2) = 33.236em / Eliminates potential of horizontal scrolling in most cases
+    @media only screen and (min-width: 63.236em) //30em + (1.618em * 2) = 33.236em / Eliminates potential of horizontal scrolling in most cases
       @content
   @else if $bear == mummy
     @media only screen and (min-width: 30em) and (max-width: 63.236em)

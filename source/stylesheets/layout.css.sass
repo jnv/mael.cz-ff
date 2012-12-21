@@ -1,13 +1,39 @@
 @import base
+@import typography
 @import goldilocks/layout
 
 /* 8. CUSTOM LAYOUT & TYPOGRAPHY (Daddy bear)
 /*----------------------------------------------------------------------------------------*/
 
-//no respond
+body
+  // +debug-vertical-alignment
+
+p
+  +trailer(1)
+
+#container
+  padding: 1.618em
+  margin: 0 auto
+  max-width: 60em
+
+@include respond-to(daddy)
+
+  h1, h2, h3
+    letter-spacing: 0
+
+  section
+    clear: both
+
+  #about
+    .description
+      width: 19em
+      float: left
+      & + .description
+        padding-left: 1.5em
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 /*----------------------------------------------------------------------------------------*/
 
 @include respond-to(mummy)
-  //o hai
+  #container
+    width: 30em

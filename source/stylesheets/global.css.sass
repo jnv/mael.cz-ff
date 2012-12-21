@@ -1,12 +1,40 @@
 @import base
+@import typography
 @import goldilocks/global
 
 /* 5. GLOBAL LAYOUT & GLOBAL CUSTOM TYPOGRAPHY
 /*----------------------------------------------------------------------------------------*/
-@import typography
+
++establish-baseline
+
+html
+  background-color: $color-bg
+  color: $color-fg
+body
+  font-family: 'Open Sans', sans-serif
+
+a
+  color: $color-hi
+
+h1, h2, h3
+  font-weight: 300
+  +leader(0.5)
+  +trailer(0.5)
 
 #masthead
-  @include adjust-font-size-to(48px)
+  b
+    font-weight: 600
+
+h1, h2
+  +adjust-font-size-to($scale-xl)
+h3
+  +adjust-font-size-to($scale-l)
+
+h1, h2, h3
+  +adjust-leading-to(0.7)
 
 /* 6. CUSTOM LAYOUT & TYPOGRAPHY (Baby bear)
 /*----------------------------------------------------------------------------------------*/
+
+h1, h2, h3
+  letter-spacing: -2px
