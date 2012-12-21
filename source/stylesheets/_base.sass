@@ -1,8 +1,13 @@
 @import compass
 
+$font-color: #fafafa
+$loud-color: #8BBD3F // PragoFFest Green
+
 $color-bg: #343434
-$color-fg: #fafafa
-$color-hi: #8BBD3F // PragoFFest Green
+$color-fg: $font-color
+$color-hi: $loud-color // PragoFFest Green
+
+$default-border-radius: 2px
 
 @mixin respond-to($bear)
   @if $bear == baby

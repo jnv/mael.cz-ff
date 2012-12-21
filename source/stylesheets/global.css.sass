@@ -10,20 +10,20 @@
 html
   background-color: $color-bg
   color: $color-fg
-body
+body, button
   font-family: 'Open Sans', sans-serif
 
 a
   color: $color-hi
+  text-decoration: underline
+  &:hover
+    color: lighten($color-hi, 20%)
+
 
 h1, h2, h3
   font-weight: 300
   +leader(0.5)
   +trailer(0.5)
-
-#masthead
-  b
-    font-weight: 600
 
 h1, h2
   +adjust-font-size-to($scale-xl)
@@ -33,6 +33,26 @@ h3
 h1, h2, h3
   +adjust-leading-to(0.7)
 
+button, input
+  +adjust-font-size-to($scale-n)
+button
+  +contrasted($color-hi)
+  border: 0
+  +border-radius
+  &:hover
+    background-color: lighten($color-hi, 20%)
+input
+  border: 1px solid $color-bg
+  padding:
+    left: 1ex
+    right: 1ex
+  &:focus
+    border-color: $color-hi
+
+#masthead
+  b
+    font-weight: 600
+
 /* 6. CUSTOM LAYOUT & TYPOGRAPHY (Baby bear)
 /*----------------------------------------------------------------------------------------*/
 
@@ -41,3 +61,7 @@ h1, h2, h3
 
 #about .description
   +trailer(1)
+
+#masthead
+  background: $color-hi
+  padding: 1.618em

@@ -105,3 +105,9 @@ aside { width: 100%; }
 .cf:before, .cf:after { content: ""; display: block; }
 .cf:after { clear: both; }
 .ie6 .cf { zoom: 1; }
+
+/* 8. FORMS
+----------------------------------------------------------------------------------------*/
+input[type='submit'], label[for], select, button {
+  cursor: pointer;
+}
