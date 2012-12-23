@@ -1,5 +1,3 @@
-activate :livereload
-
 ###
 # Compass
 ###
@@ -55,8 +53,15 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+activate :livereload
+
 # Build-specific configuration
 configure :build do
+  compass_config do |config|
+    config.output_style = :compact
+    config.environment = :production
+  end
+
   # For example, change the Compass output style for deployment
   # activate :minify_css
 
