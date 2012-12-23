@@ -10,9 +10,11 @@ html
 
 #masthead
   padding: 1.618em
-  // background-image: image-url('masthead.jpg')
-  +background-size
-
+  #masthead-inner
+    margin:
+      left: auto
+      right: auto
+    max-width: 80em
 
 #container
   padding: 1.618em
@@ -33,16 +35,11 @@ html
   section
     clear: both
 
-  #masthead
-    max-width: 80em
-    margin:
-      left: auto
-      right: auto
-
   #about
     .description
       +trailer(0)
-      width: 19em
+      min-width: 19em
+      max-width: 31%
       float: left
       & + .description
         padding-left: 1.5em
