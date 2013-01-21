@@ -1,4 +1,5 @@
 activate :livereload
+activate :i18n, :langs => [:cs]
 
 ###
 # Compass
@@ -43,11 +44,11 @@ activate :livereload
 # activate :automatic_image_sizes
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def day_heading(day)
+    I18n.localize(day, locale: :cs, format: :weekday)
+  end
+end
 
 set :css_dir, 'stylesheets'
 
