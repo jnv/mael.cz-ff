@@ -1,0 +1,327 @@
+---
+2013-01-31:
+- :day: 2013-01-31
+  :description: Z každého rohu nás dnes sleduje několik kamer. Co vlastně umí? Co
+    naopak neumí? Jaké se používají technologie a jaká jsou jejich omezení? Měli bychom
+    se kamer bát? Přehledová přednáška přinese odpovědi na tyto i další otázky.
+  :author: Jiří Täuber "Boris"
+  :start: !ruby/object:DateTime 2013-01-31 18:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-01-31 19:00:00.000000000 +01:00
+  :length: 1h
+  :title: Big Brother
+- :day: 2013-01-31
+  :description: Existuje exaktní způsob, jak rozlišit demagoga od umírněného politika?
+    Je nějaký rozdíl mezi politickou a náboženskou demagogií?
+  :author: Milan Petrák
+  :start: !ruby/object:DateTime 2013-01-31 19:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-01-31 20:00:00.000000000 +01:00
+  :length: 1h
+  :title: Jak odhalit demagoga
+- :day: 2013-01-31
+  :description: Hrát 14 hodin denně. Nespat. Modlit se k Blizzardu. Lidé si často
+    myslí, že na to aby se stali opravdu dobrými v nějaké počítačové hře, tak musejí
+    dělat podobné šílenosti. Pravda je ale mnohem horší - je potřeba přemýšlet. V
+    této přednášce se dozvíte, jak toho dosáhnout co nejevektivněji
+  :author: Filip Štaffa
+  :start: !ruby/object:DateTime 2013-01-31 20:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-01-31 21:00:00.000000000 +01:00
+  :length: 1h
+  :title: Jak se stát nejlepším hráčem
+- :day: 2013-01-31
+  :description: Moderní time-management už není pouze managementem času, ale spíše
+    managementem našeho života. Seznámím vás s různorodými přístupy k organizaci času,
+    připojím i jejich zhodnocení na základě mojí zkušenosti.
+  :author: Michal Šmilauer
+  :start: !ruby/object:DateTime 2013-01-31 21:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-01-31 22:00:00.000000000 +01:00
+  :length: 1h
+  :title: Moderní Time-management
+- :day: 2013-01-31
+  :description: Každý z nás občas dělá rozhodnutí, nebo musí strpět rozhodnutí jiných.
+    Co vám s tím pomůže? Pokud bych vám měl dát jedno doporučení - buďte šílení. Vyplatí
+    se to. Na přednášce se dozvíte proč.
+  :author: Filip Štaffa
+  :start: !ruby/object:DateTime 2013-01-31 22:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-01-31 23:00:00.000000000 +01:00
+  :length: 1h
+  :title: Praktická teorie her
+2013-02-01:
+- :day: 2013-02-01
+  :description: Cítíte se sledováni? A musí to tak opravdu být? Vidí velký bratr opravdu
+    všechno? Přednáška o slabinách kamerových systémů napoví, kam oko kamery nedohlédne
+    a co nerozpozná.
+  :author: Jiří Täuber "Boris"
+  :start: !ruby/object:DateTime 2013-02-01 10:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 11:00:00.000000000 +01:00
+  :length: 1h
+  :title: Blind Brother
+- :day: 2013-02-01
+  :description: ! 'Také máte někdy dojem, že jste obklopeni světem který je obýván
+    idioty? Společné trochu moderované povídání o problémech, které by ve společnosti
+    tvořené myslícími lidmi nikdy neexistovaly a o tom, jak moc jsme sami na vině.
+    Malé varování: obsahuje i témata sexu, drog, politiky a dalších podobných.'
+  :author: Petr Mazák "Sirien"
+  :start: !ruby/object:DateTime 2013-02-01 11:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 13:00:00.000000000 +01:00
+  :length: 2h
+  :title: Demence naší společnosti
+- :day: 2013-02-01
+  :description: ! 'Aneb filipika proti hrám tzv. &#8222;sociálním.&#8220;
+
+    Máte krávu. Můžete na ní kliknout jednou za šest hodin. Proč byste to dělali?
+    Ptejte se 4 milionů hráčů FarmVille&#8230;
+
+    Mrkneme se na zoubek základním principům těchto her a zkusíme se zamyslet, zda
+    lze tento koncept využít i smysluplněji.'
+  :author: Jan Vlnas
+  :start: !ruby/object:DateTime 2013-02-01 13:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 14:00:00.000000000 +01:00
+  :length: 1h
+  :title: Klikati krávu
+- :day: 2013-02-01
+  :description: Aneb kolik tvarů máš, tolikrát si inteligentní materiále! Praktická
+    ukázka kovů s tvarovou pamětí bude záminkou k exkurzi do fyzikální podstaty jejich
+    výstředního chování a jejich aplikací v medicíně i technice. Též polymery s tvarovou
+    pamětí a krátce další materiály označované vznosně inteligentní
+  :author: Jaromír Kopeček
+  :start: !ruby/object:DateTime 2013-02-01 14:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 15:00:00.000000000 +01:00
+  :length: 1h
+  :title: Kovy s tvarovou pamětí
+- :day: 2013-02-01
+  :description: Očkování proti HPV - medicínský "šlágr"posledních let. Jaká je role
+    HPV ve vzniku gynekologických nádorů, především rakoviny čípku děložního? Proč
+    chodí ženy na preventivní prohlídky? Jaké jsou klady a zápory očkování proti HPV?
+    Může očkování nahradit prevenci?
+  :author: Miroslav Havlín
+  :start: !ruby/object:DateTime 2013-02-01 15:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 16:00:00.000000000 +01:00
+  :length: 1h
+  :title: Lidské papilomaviry (HPV)
+- :day: 2013-02-01
+  :description: Život na Zemi bude zničen! Může naše planeta uniknout ohnivému hrobu
+    v jícnu Slunce? Zapomeňte na Maye i Nostradama! Čeká nás předpověď počasí na příštích
+    deset miliard let, očima moderní vědy. Připravte se na apokalypsu, v níž se vypařují
+    planety, vybuchují hvězdy a srážejí se galaxie!
+  :author: Tomáš Petrásek
+  :start: !ruby/object:DateTime 2013-02-01 16:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 17:00:00.000000000 +01:00
+  :length: 1h
+  :title: Zánik Země
+- :day: 2013-02-01
+  :description: Kdo byl tajemený Zarathuštra a co o něm víme? Proč se zooastriánům
+    říká uctívači ohně? Jak jejich nauka o posvátnosti živlů ovlivňovala a ovlivňuje
+    způsob pohřbívání? Co se stalo se zoroastriány po příchodu islámu? Jak se má historický
+    Zarathuštra ke stejnojmenné postavě filosofie Nietzscheho?
+  :author: Štěpán Mairovský
+  :start: !ruby/object:DateTime 2013-02-01 17:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 18:00:00.000000000 +01:00
+  :length: 1h
+  :title: Následovníci Zarathuštry-uctívači ohně
+- :day: 2013-02-01
+  :description: Jak se v minulosti vyvíjel astronomický výzkum v českých zemích (zejména
+    v 19. a 20. století)
+  :author: Petra Hyklová
+  :start: !ruby/object:DateTime 2013-02-01 18:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 19:00:00.000000000 +01:00
+  :length: 1h
+  :title: Novodobé dějiny české astronomie
+- :day: 2013-02-01
+  :description: Je feminismus hnutím 19.století či má význam i ve století 21.? O co
+    feministkám a feministkám dnes vlastně jde? Má feminismus svou duchovní dimenzi?
+    Co je ekofeminismus? Co je hnutí mužů a jaký je jeho vztah k feminismu? Železný
+    Jan a sedm kroků k mužství Steve Biddulpha? Česká Liga otevřených mužů
+  :author: Štěpán Mairovský
+  :start: !ruby/object:DateTime 2013-02-01 19:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 20:00:00.000000000 +01:00
+  :length: 1h
+  :title: Feminismus, ekofeminismus a hnutí mužů
+- :day: 2013-02-01
+  :description: Aneb Hledáme jiné intelience. Jestli existují jiné inteligentní bytosti
+    - tak kde k čertu jsou? Mimozemské civilizace měly miliardy let pro svůj vznik,
+    rozvoj a šíření - tak proč nevidíme žádné nepopiratelné známky jejich existence?
+    Existuje, nebo existovala, nějaká jiná inteligence i na Zemi?
+  :author: Tomáš Petrásek
+  :start: !ruby/object:DateTime 2013-02-01 20:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 21:00:00.000000000 +01:00
+  :length: 1h
+  :title: Fermiho paradox
+- :day: 2013-02-01
+  :description: Je budoucnost možná bez jaderné energie? Je jádro skutečně nebezpečné?
+    Mají zelení pravdu? Kolik to vlastně stojí? Pokud vás jaderné otázky nenechávají
+    v klidu, přijďte se uklidnit :) A o se vlastně stalo v Černobylu a Fukušimě?
+  :author: Roman Kresta "Randalf"
+  :start: !ruby/object:DateTime 2013-02-01 21:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 22:00:00.000000000 +01:00
+  :length: 1h
+  :title: Jaderná energie, ano či ne?
+- :day: 2013-02-01
+  :description: Peníze mají hodnotu, finanční makléři něčemu rozumějí, zdraví není
+    produkt, věci mají "skutečnou" hodnotu... že vám tyhle fráze znějí důvěryhodně,
+    nebo alespoň povědomé? Právě o těch a o dalších bude řeč. Když zbyde čas, povíme
+    si i nějaké klasické jako třeba Karkulku nebo Sněhurku.
+  :author: Petr Mazák "Sirien"
+  :start: !ruby/object:DateTime 2013-02-01 22:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-01 23:00:00.000000000 +01:00
+  :length: 1h
+  :title: Ekonomické mýty
+2013-02-02:
+- :day: 2013-02-02
+  :description: ! 'Děsí vás globální oteplování? Myslíte ekologicky? A co to vlastně
+    je? Mají zelení pravdu? Nebo je naše planeta skutečně modrá?
+
+    Poněkud pobliticky nekorektní blábolení o dogmatech a přehmatech naší doby.'
+  :author: Roman Kresta "Randalf"
+  :start: !ruby/object:DateTime 2013-02-02 09:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 10:00:00.000000000 +01:00
+  :length: 1h
+  :title: Ekologický terorismus?
+- :day: 2013-02-02
+  :description: Na jedné straně existují excelentní letouna, které zná téměř každý.
+    Tato přednáška ale bude o těch druhých. O letounech, které zabíjely své piloty,
+    rozpadly se ve vzduchu nebo nedokázaly vzlétnout... či přistát.
+  :author: Jan Průcha "Jerson"
+  :start: !ruby/object:DateTime 2013-02-02 10:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 11:00:00.000000000 +01:00
+  :length: 1h
+  :title: Nejhorší letadla světa
+- :day: 2013-02-02
+  :description: Šumava s krevetami? Tavený sýr s 14 "éčky"? Jak to s tou ošklivou
+    chemií vlastně je, aneb do obchodu už jen s lupou!
+  :author: Jitka Brandejská "Triss"
+  :start: !ruby/object:DateTime 2013-02-02 11:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 12:00:00.000000000 +01:00
+  :length: 1h
+  :title: Peklo na talíři
+- :day: 2013-02-02
+  :description: Dvoudílná steampunková přednáška o klasických vzducholodích, o jejich
+    konstrukci, rozdělení, řízení... V první části se podíváme na vzducholodě neztužené
+    a poloztužené.
+  :author: Petr Tomek "Tomek"
+  :start: !ruby/object:DateTime 2013-02-02 12:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 13:00:00.000000000 +01:00
+  :length: 1h
+  :title: Slabikář vzduchoplavce 1
+- :day: 2013-02-02
+  :description: Uplynula už dvě desetiletí od prvního potvrzeného objevu planet u
+    jiné hvězdy. Co od té doby o exoplanetách víme a kolik jsme jich objevili? Jaké
+    složení mají planety, u nichž jsme byli schopni ho zjistit? A může na některých
+    být život? Jaké jsou výzkumné plány do budoucna?
+  :author: Julie Nováková "Julianne"
+  :start: !ruby/object:DateTime 2013-02-02 13:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 14:00:00.000000000 +01:00
+  :length: 1h
+  :title: Fantastické exoplanety
+- :day: 2013-02-02
+  :description: První přednáška o přednášení, ve které se dozvíte i něco víc, než
+    jen jak se neztrácet ve vlastních poznámkách nebo že máte vědět o čem přednášíte.
+    Trocha základů, trocha vychytávek a nějaké zajímavé metody k dobru navíc - to
+    vše nejen pro začátečníky.
+  :author: Petr Mazák "Sirien"
+  :start: !ruby/object:DateTime 2013-02-02 14:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 15:00:00.000000000 +01:00
+  :length: 1h
+  :title: ! 'Jak přednášet: koncepce a příprava'
+- :day: 2013-02-02
+  :description: Máte ve svém okolí manipulátora? Štve vás, že se vždycky necháte natlačit
+    do něčeho, co se vám nelíbí? Chcete se z toho vymanit, ale zároveň nezničit váš
+    vztah? Přijďte na přednášku o tom, jak rozpoznat manipulaci a jak se jí ubránit.
+  :author: Kateřina Täuberová "Sathel"
+  :start: !ruby/object:DateTime 2013-02-02 15:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 16:00:00.000000000 +01:00
+  :length: 1h
+  :title: Nenechte sebou manipulovat
+- :day: 2013-02-02
+  :description: Dvoudílná steampunková přednáška o klasických vzducholodích, o jejich
+    konstrukci, rozdělení, řízení... Ve druhé části budeme hovořit o vzducholodích
+    plně ztužených - o "zeppelinech".
+  :author: Petr Tomek "Tomek"
+  :start: !ruby/object:DateTime 2013-02-02 16:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 17:00:00.000000000 +01:00
+  :length: 1h
+  :title: Slabikář vzduchoplavce 2
+- :day: 2013-02-02
+  :description: Přednáška s videi o tom, co mobil obsahuje, jak to pracuje a jak se
+    to vyrábí.
+  :author: Miroslav Mácha "Miwa Y"
+  :start: !ruby/object:DateTime 2013-02-02 17:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 18:00:00.000000000 +01:00
+  :length: 1h
+  :title: Mobil
+- :day: 2013-02-02
+  :description: Stíhat více a lépe a ještě u toho vypadat v pohodě a mít i více volného
+    času? Dokázat i věci, které vypadají neproveditelné? Napadlo vás někdy, kolik
+    času jen tak promarníte a jak (ne)efektivně pracujete s tím, který vám zbyde?
+  :author: Petr Mazák "Sirien"+ Kateřina "Sathel" Täuberová
+  :start: !ruby/object:DateTime 2013-02-02 18:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 19:00:00.000000000 +01:00
+  :length: 1h
+  :title: Selfmanagement
+- :day: 2013-02-02
+  :description: ! 'Gamifikace: Využití herních mechanik v neherním kontextu. Je zde
+    však více než jen odznáčky, body a žebříčky. Mixem herního designu a behaviorismu
+    vzniká třaskavá kombinace, kterou vás chtějí marketeři motivovat ke změně chování.
+    V jejich i váš prospěch. Nakolik se necháte manipulovat?'
+  :author: Jan Vlnas
+  :start: !ruby/object:DateTime 2013-02-02 19:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 20:00:00.000000000 +01:00
+  :length: 1h
+  :title: Gamifikace / Motivace / Manipulace
+- :day: 2013-02-02
+  :description: Druhá přednáška o přednášení, tentokrát na téma tvorby slidů a komunikace
+    s publikem. Pokud očekáváte opakování pravidel o sedmi bodech na jeden slide,
+    tak budete zklamaní - v téhle přednášce se dostaneme o něco dál než jen k nudným
+    základům, přesto je určena i (nebo zejména?) začátečníkům.
+  :author: Petr Mazák "Sirien"
+  :start: !ruby/object:DateTime 2013-02-02 20:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 21:00:00.000000000 +01:00
+  :length: 1h
+  :title: ! 'Jak přednášet: prezentace a forma'
+- :day: 2013-02-02
+  :description: Podíváme se společně za méně známými pionýry české kosmonautiky. Jestlipak
+    víte, kdo to byli Vladimír Mandl, Frank J. Malina, Luděk Pešek, Rudolf Pešek či
+    Peter Glaser?
+  :author: Pavel Vachtl
+  :start: !ruby/object:DateTime 2013-02-02 21:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 22:00:00.000000000 +01:00
+  :length: 1h
+  :title: Z pradějin české kosmonautiky
+- :day: 2013-02-02
+  :description: Dokument zachycuje snažení a pocity vývojářů tří nezávislých počítačových
+    her. Od prvotních návrhů přes těžký a dlouhý vývoj bez záruky úspěchu a navrácení
+    vložené energie, až po samotné vydání hry. Sleduje příběh autorů hry Super Meat
+    Boy, dvojici Edmund McMillen a Tommy Refenes.
+  :author: Filip Štaffa
+  :start: !ruby/object:DateTime 2013-02-02 22:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-02 00:00:00.000000000 +01:00
+  :length: 2h
+  :title: Indie Game
+2013-02-03:
+- :day: 2013-02-03
+  :description: Jaké zprávy jsme poslali mimozemským civilizacím? Hovořit budeme například
+    o vzkazech na kosmických sondách, radiových signálech, způsobech komunikace či
+    dešifrování signálů, a také o tom, co už je realita a co stále ještě patří jen
+    do science fiction.
+  :author: Pavel Vachtl
+  :start: !ruby/object:DateTime 2013-02-03 10:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-03 11:00:00.000000000 +01:00
+  :length: 1h
+  :title: Zprávy mimozemšťanům
+- :day: 2013-02-03
+  :description: Proč se věci porouchají? Lehce paranoidní přednáška nevhodná pro psychycky
+    labilní.
+  :author: Miroslav Mácha "Miwa Y"
+  :start: !ruby/object:DateTime 2013-02-03 11:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-03 12:00:00.000000000 +01:00
+  :length: 1h
+  :title: Kurvítko rev. 3
+- :day: 2013-02-03
+  :description: Každý občas užívá nějaký lék - co o nich víme? Kolik stojí a jak dlouho
+    trvá vývoj originálního léku? Jak je tomu u generického léku (= kopie originálního)?
+    Je kopie stejná originál? Vedou nižší ceny léků k úsporám nebo plýtvání? Přednáška
+    o tabuizovaném tématu přinese hodně otázek a méně odpovědí.
+  :author: Miroslav Havlín
+  :start: !ruby/object:DateTime 2013-02-03 12:00:00.000000000 +01:00
+  :end: !ruby/object:DateTime 2013-02-03 13:00:00.000000000 +01:00
+  :length: 1h
+  :title: Generické léky
