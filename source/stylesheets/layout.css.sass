@@ -24,15 +24,15 @@ html
 
 $session-padding: 5em
 .session
-  position: relative
+  h4, .description
+    padding-left: $session-padding
   h4
+    position: relative
     time
       position: absolute
-      padding-left: 1em
+      left: 1em
     .title
       display: inline
-  h4 .title, .description
-    padding-left: $session-padding
 
 @include respond-to(daddy)
   h1, h2, h3
