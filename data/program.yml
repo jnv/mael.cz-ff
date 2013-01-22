@@ -92,7 +92,7 @@
   :description: Očkování proti HPV - medicínský "šlágr"posledních let. Jaká je role
     HPV ve vzniku gynekologických nádorů, především rakoviny čípku děložního? Proč
     chodí ženy na preventivní prohlídky? Jaké jsou klady a zápory očkování proti HPV?
-    Může očkování nahradit prevenci?
+    Může očkování nahradit prevenci? 
   :author: Miroslav Havlín
   :start: !ruby/object:DateTime 2013-02-01 15:00:00.000000000 +01:00
   :end: !ruby/object:DateTime 2013-02-01 16:00:00.000000000 +01:00
@@ -160,7 +160,7 @@
     produkt, věci mají "skutečnou" hodnotu... že vám tyhle fráze znějí důvěryhodně,
     nebo alespoň povědomé? Právě o těch a o dalších bude řeč. Když zbyde čas, povíme
     si i nějaké klasické jako třeba Karkulku nebo Sněhurku.
-  :author: Petr Mazák "Sirien"
+  :author: Petr Mazák "Sirien"+ Kateřina "Sathel" Täuberová
   :start: !ruby/object:DateTime 2013-02-01 22:00:00.000000000 +01:00
   :end: !ruby/object:DateTime 2013-02-01 23:00:00.000000000 +01:00
   :length: 1h
@@ -252,7 +252,7 @@
   :description: Stíhat více a lépe a ještě u toho vypadat v pohodě a mít i více volného
     času? Dokázat i věci, které vypadají neproveditelné? Napadlo vás někdy, kolik
     času jen tak promarníte a jak (ne)efektivně pracujete s tím, který vám zbyde?
-  :author: Petr Mazák "Sirien"+ Kateřina "Sathel" Täuberová
+  :author: Petr Mazák "Sirien"
   :start: !ruby/object:DateTime 2013-02-02 18:00:00.000000000 +01:00
   :end: !ruby/object:DateTime 2013-02-02 19:00:00.000000000 +01:00
   :length: 1h
@@ -287,10 +287,10 @@
   :length: 1h
   :title: Z pradějin české kosmonautiky
 - :day: 2013-02-02
-  :description: Dokument zachycuje snažení a pocity vývojářů tří nezávislých počítačových
+  :description: ! 'Dokument zachycuje snažení a pocity vývojářů tří nezávislých počítačových
     her. Od prvotních návrhů přes těžký a dlouhý vývoj bez záruky úspěchu a navrácení
     vložené energie, až po samotné vydání hry. Sleduje příběh autorů hry Super Meat
-    Boy, dvojici Edmund McMillen a Tommy Refenes.
+    Boy, dvojici Edmund McMillen a Tommy Refenes. '
   :author: Filip Štaffa
   :start: !ruby/object:DateTime 2013-02-02 22:00:00.000000000 +01:00
   :end: !ruby/object:DateTime 2013-02-02 00:00:00.000000000 +01:00
@@ -314,7 +314,7 @@
   :start: !ruby/object:DateTime 2013-02-03 11:00:00.000000000 +01:00
   :end: !ruby/object:DateTime 2013-02-03 12:00:00.000000000 +01:00
   :length: 1h
-  :title: Kurvítko rev. 3
+  :title: ! 'Kurvítko rev. 3 '
 - :day: 2013-02-03
   :description: Každý občas užívá nějaký lék - co o nich víme? Kolik stojí a jak dlouho
     trvá vývoj originálního léku? Jak je tomu u generického léku (= kopie originálního)?
