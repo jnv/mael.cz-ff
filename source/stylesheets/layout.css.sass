@@ -22,6 +22,17 @@ html
   margin: 0 auto
   max-width: 60em
 
+$session-padding: 5em
+.session
+  position: relative
+  h4
+    time
+      position: absolute
+    .title
+      display: inline
+  h4 .title, .description
+    padding-left: $session-padding
+
 @include respond-to(daddy)
 
   h1, h2, h3

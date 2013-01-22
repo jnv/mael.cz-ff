@@ -31,10 +31,10 @@ cs:
     - Pátek
     - Sobota
     formats:
-      default: ! '%d. %m. %Y'
-      long: ! '%d. %B %Y'
+      default: ! '%-d. %-m. %Y'
+      long: ! '%-d. %B %Y'
       short: ! '%d %b'
-      weekday: ! '%A (%d. %m. %Y)'
+      weekday: ! '%A (%-d. %-m. %Y)'
     month_names:
     -
     - Leden

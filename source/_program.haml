@@ -1,3 +1,13 @@
 - data.program.each do |day, program|
   %section{'data-day' => day}
     %h3= day_heading(day)
+    - program.each do |item|
+      %section.session
+        %h4
+          %time{'datetime' => item.start.xmlschema, 'duration' => item[:length]}
+            = item.start.strftime('%k.%M')
+          %span.title= item.title
+          %span.author= "(#{item.author})"
+
+        = simple_format(item.description, class: :description)
+
