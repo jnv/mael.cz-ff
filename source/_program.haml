@@ -2,7 +2,7 @@
   %section{'data-day' => day}
     %h3= day_heading(day)
     - program.each do |item|
-      %section.session
+      %section.session{'data-start' => item.start.xmlschema, 'data-end' => item.end.xmlschema}
         %h4
           %time{'datetime' => item.start.xmlschema, 'duration' => item[:length]}
             = item.start.strftime('%k.%M')
