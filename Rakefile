@@ -1,6 +1,6 @@
 SSH_USER = ''
 SSH_HOST = 'ldh'
-SSH_DIR = '/home/vlnascz/mm/mael/pgf'
+SSH_DIR = '/home/vlnascz/mm/mael/ff'
 
 desc "Build the website from source"
 task :build do
