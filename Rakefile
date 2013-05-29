@@ -5,13 +5,13 @@ SSH_DIR = '/home/vlnascz/mm/mael/ff'
 desc "Build the website from source"
 task :build do
   puts "## Building website"
-  status = system("middleman build --clean")
+  status = system("bundle exec middleman build --clean")
   puts status ? "OK" : "FAILED"
 end
 
 desc "Run the preview server at http://localhost:4567"
 task :preview do
-  system("middleman server")
+  system("bundle exec middleman server")
 end
 
 desc "Deploy website via rsync"
