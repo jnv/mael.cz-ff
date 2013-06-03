@@ -539,7 +539,7 @@
   :length: 1h
   :day: 2013-07-05
   :end: !ruby/object:DateTime 2013-07-05 19:00:00.000000000 +02:00
-- :author: Jan Vlnas + Filip Štaffa, Kateřina Tüberová, Tomáš Mládek, Kristýna Onderková
+- :author: Jan Vlnas + Filip Štaffa, Kateřina Täuberová, Tomáš Mládek, Kristýna Onderková
   :start: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
   :title: Ignite Show
   :description: 20 snímků v prezentaci. 15 sekund na snímek. Dohromady 5 minut. Přesně
