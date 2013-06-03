@@ -7,7 +7,8 @@
           %time{'datetime' => item.start.xmlschema, 'duration' => item[:length]}
             = item.start.strftime('%k.%M')
           %span.title= item.title
-          %span.author= "(#{item.author})"
+          - if item.author
+            %span.author= "(#{item.author})"
 
         = simple_format(item.description, class: :description)
 
