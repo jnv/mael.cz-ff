@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'date'
 require 'yaml'
 
-LINE = "FutureCon + MaelströM"
+LINE = "FutureCon & MaelströM"
 
 class Programme
   attr_accessor :date, :time, :title, :author, :length, :description
