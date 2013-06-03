@@ -31,6 +31,10 @@ class Programme
   def initialize
   end
 
+  def author=(text)
+    @author = text.gsub(/[ ]*\+[ ]*/, ' + ')
+  end
+
   def description=(text)
     @description = text.gsub(/(?<!\n)\n(?!\n)/, ' ')
   end
