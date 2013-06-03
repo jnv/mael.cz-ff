@@ -8,7 +8,7 @@
             = item.start.strftime('%k.%M')
           %span.title= item.title
           - if item.author
-            %span.author= "(#{item.author})"
+            %span.author= "<wbr>(#{item.author})"
 
         = simple_format(item.description, class: :description)
 
