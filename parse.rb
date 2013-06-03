@@ -31,6 +31,10 @@ class Programme
   def initialize
   end
 
+  def description=(text)
+    @description = text.gsub(/(?<!\n)\n(?!\n)/, ' ')
+  end
+
   def start=(datetime)
     @start = parse_datetime(datetime)
     @day = @start.to_date
