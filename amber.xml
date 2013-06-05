@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><annotations count="1287"><programme><pid>1001</pid>
+<?xml version="1.0" encoding="UTF-8" ?><annotations count="1288"><programme><pid>1001</pid>
 <author><![CDATA[Václav Pravda "Kritizátor"]]></author>
 <title><![CDATA[Dolejte řediteli I.]]></title>
 <program-line><![CDATA[.To nej z FF]]></program-line>
@@ -411,7 +411,7 @@ A jako bonus - oblíbené scény na přání!]]></annotation>
 <annotation><![CDATA[Ne jen Star Wars sérií živ je autor. Zvu vás na výlet Věkem objevů do dob Válek o dračí korunu. A co vás čeká? Přijďte a uvidíte, to je přeci na fantaskních světech nejkrásnější.
 ]]></annotation>
 </programme><programme><pid>1212</pid>
-<author><![CDATA[Vilma Kadlečková "Bramboreena"]]></author>
+<author><![CDATA[Vilma Kadlečková "Bramboreena"+ Karolina Francová, Zdeněk Rampas]]></author>
 <title><![CDATA[Mycelium - křest knihy Vilmy Kadlečkové]]></title>
 <program-line><![CDATA[Avalcon]]></program-line>
 <type>C +B</type>
@@ -1360,8 +1360,8 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <type>P +F</type>
 <length>2h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-06T11:00:00+02:00</start-time>
-<end-time>2013-07-06T11:00:00+02:00</end-time>
+<start-time>2013-07-05T11:00:00+02:00</start-time>
+<end-time>2013-07-05T11:00:00+02:00</end-time>
 <annotation><![CDATA[Skupina teenagerů v různých stadiích nadrženosti a/nebo vlkodlakovitosti, dospělí vlkodlaci s temnou minulostí, lovci a nic netušící obyvatelé Beacon Hills, kde největší událostí je finále středoškolské lakrosové ligy. Věřte mi, není to tak špatné, jak to zní.]]></annotation>
 </programme><programme><pid>2014</pid>
 <author><![CDATA[Jan Burock "Owen"+ litllewitch]]></author>
@@ -1550,8 +1550,8 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <type>P +H+++W</type>
 <length>2h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-07-06T22:00:00+02:00</start-time>
-<end-time>2013-07-06T22:00:00+02:00</end-time>
+<start-time>2013-07-06T23:00:00+02:00</start-time>
+<end-time>2013-07-06T23:00:00+02:00</end-time>
 <annotation><![CDATA[Buffy! Glee! Scrubs! Glee! Xena! Glee! Máte rádi muzikálové epizody seriálů? Pojďme si společně projít a zazpívat ty nejoblíbenější a nejlepší. Hlasivky naladit, špunty do uší s sebou!]]></annotation>
 </programme><programme><pid>2034</pid>
 <author><![CDATA[Klára Valentová "Antrey"]]></author>
@@ -1580,8 +1580,8 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <type>P +F</type>
 <length>2h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-07-05T11:00:00+02:00</start-time>
-<end-time>2013-07-05T11:00:00+02:00</end-time>
+<start-time>2013-07-06T11:00:00+02:00</start-time>
+<end-time>2013-07-06T11:00:00+02:00</end-time>
 <annotation><![CDATA[Přemýšleli jste někdy o tom, jak by to vypadalo, kdyby tajní agenti různých amerických služeb byli nuceni žít společně pod jednou střechou v přestrojení? Nový krimi seriál podle skutečných událostí na stanici USA. Další obyčejná procedurálka? Pilot po přednášce]]></annotation>
 </programme><programme><pid>2037</pid>
 <author><![CDATA[Klára Valentová "Antrey"]]></author>
@@ -1976,8 +1976,8 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <type>P +F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-06-29T20:00:00+02:00</start-time>
-<end-time>2013-06-29T20:00:00+02:00</end-time>
+<start-time>2013-06-29T11:00:00+02:00</start-time>
+<end-time>2013-06-29T11:00:00+02:00</end-time>
 <annotation><![CDATA[Revolution je jednou z nejsledovanějších seriálových novinek. Tato přednáška ho do jisté míry představí, ale především vám ukáže, čím se baví překladatelé, když ho pro vás překládají. Překlepy, úmyslné zkomoleniny, ale i hudební parodie. To všechno a mnohem víc v této přednášce!]]></annotation>
 </programme><programme><pid>2079</pid>
 <author><![CDATA[Daniel Hanták "Pan Dan"]]></author>
@@ -2019,6 +2019,16 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <start-time>2013-06-30T23:00:00+02:00</start-time>
 <end-time>2013-06-30T23:00:00+02:00</end-time>
 <annotation><![CDATA[90. léta byla zvrhlá doba - přesně tak, jak to máme rádi. Potrpěli si členové skupiny Aqua na S/M praktiky? Tuto a další důležité otázky vám zodpoví protřelé duo sexuologů-amatérů. Pojďme se nebojácně vrhnout do vod eurodance videí a uzřít pravdu, která našim nevinným dětských očím zůstávala skryta.]]></annotation>
+</programme><programme><pid>2083</pid>
+<author><![CDATA[Martin Petřík "DJ Obelix"]]></author>
+<title><![CDATA[Wonder Showzen - maňásci na tripu]]></title>
+<program-line><![CDATA[SeriesCon]]></program-line>
+<type>P +F</type>
+<length>1h</length>
+<location><![CDATA[Hala - Hala Malý sál]]></location>
+<start-time>2013-07-06T22:00:00+02:00</start-time>
+<end-time>2013-07-06T22:00:00+02:00</end-time>
+<annotation><![CDATA[Napadlo vás, jak by to dopadlo, kdyby se celý ansámbl Sezame, otevři se sjel velkým množstvím nelegálních drog a zařadil do své dětské show násilí, sex a rasismus? Tvůrci Wonder Showzen vám to předvedou v praxi. Trestuhodně opomíjená satira ostrá jako nůž se vám představí v celé své kráse.]]></annotation>
 </programme><programme><pid>2085</pid>
 <author><![CDATA[SeriesCon Team+ Bates Motel]]></author>
 <title><![CDATA[Nové seriály: Bates Motel 1x01]]></title>
@@ -2116,8 +2126,8 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <type>F +P</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-06-29T11:00:00+02:00</start-time>
-<end-time>2013-06-29T11:00:00+02:00</end-time>
+<start-time>2013-06-29T20:00:00+02:00</start-time>
+<end-time>2013-06-29T20:00:00+02:00</end-time>
 <annotation><![CDATA[Představení a pilotní epizoda nového historického seriálu z dílny Michaela Hirsta (Tudorovci a Camelot), který sleduje dobrodružství Ragnara Lothbroka, největšího hrdiny své doby. (Popis: www.serialzone.cz)]]></annotation>
 </programme><programme><pid>2095</pid>
 <author><![CDATA[SeriesCon Team+ How to Live With Your Parents]]></author>
@@ -3345,54 +3355,54 @@ S tím má co dočinění také Cartmelův mistrovský plán, který měl v 27 �
 <annotation><![CDATA[Kdo Sherlockians nebo Holmesologové? A jaký je mezi nimi rozdíl? Představíme vám fandom Sherlocka Holmese od počátku po dnešek a to se všemi pikantními detaily.]]></annotation>
 </programme><programme><pid>2724</pid>
 <author><![CDATA[BritCon Team+ Merlin]]></author>
-<title><![CDATA[1x11 The Labyrint of Gedref]]></title>
-<program-line><![CDATA[BritCon]]></program-line>
-<type>F</type>
-<length>1h</length>
-<location><![CDATA[Hala - Hala Klubovna]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[dodam]]></annotation>
-</programme><programme><pid>2725</pid>
-<author><![CDATA[BritCon Team+ Merlin]]></author>
-<title><![CDATA[3x08 The Eye of the Phoenix]]></title>
+<title><![CDATA[Merlin 1x11 The Labyrint of Gedref]]></title>
 <program-line><![CDATA[BritCon]]></program-line>
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Klubovna]]></location>
 <start-time>2013-07-02T23:00:00+02:00</start-time>
 <end-time>2013-07-02T23:00:00+02:00</end-time>
-<annotation><![CDATA[dodam]]></annotation>
+<annotation><![CDATA[Navzdory Merlinovým protestům, Artuš zabije jednorožce, jen aby mohl jeho roh přinést Utherovi jako vzácný úlovek. Jak otec tak i syn neposlouchají Gaiusova varování o neštěstí následujícím zabití tak nevinného stvoření. Ale brzy začínají vysychat pole a voda se změní v písek.]]></annotation>
+</programme><programme><pid>2725</pid>
+<author><![CDATA[BritCon Team+ Merlin]]></author>
+<title><![CDATA[Merlin 3x08 The Eye of the Phoenix]]></title>
+<program-line><![CDATA[BritCon]]></program-line>
+<type>F</type>
+<length>1h</length>
+<location><![CDATA[Hala - Hala Klubovna]]></location>
+<start-time>2013-07-02T00:00:00+02:00</start-time>
+<end-time>2013-07-02T00:00:00+02:00</end-time>
+<annotation><![CDATA[Artuš vyráží sám na výpravu, která má prokázat, že je hodný titulu korunního prince Kamelotu. Jeho úkolem je přinést Zlatý Trident krále Rybáře. Ale samozřejmě že Merlin ho nenechá jít samotného.]]></annotation>
 </programme><programme><pid>2726</pid>
 <author><![CDATA[BritCon Team+ Doctor Who]]></author>
-<title><![CDATA[4x07 The Unicorn and the Wasp]]></title>
+<title><![CDATA[Doctor Who 4x07 The Unicorn and the Wasp]]></title>
 <program-line><![CDATA[BritCon]]></program-line>
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Klubovna]]></location>
 <start-time></start-time>
 <end-time></end-time>
-<annotation><![CDATA[dodam]]></annotation>
+<annotation><![CDATA[Doctor a Donna se setkávají s Agathou Christie na panství vlastněném Lady Eddison. Poté co najdou v knihovně tělo jednoho z hostů, příběh se změní v detektivku. S vrahem, zlodějem šperků a vosím mimozemštanem. Dokážou záhadu vyřešit?]]></annotation>
 </programme><programme><pid>2727</pid>
 <author><![CDATA[BritCon Team+ IT Crowd]]></author>
-<title><![CDATA[1x05 Haunting of Bill Crouse]]></title>
+<title><![CDATA[IT Crowd 1x05 Haunting of Bill Crouse]]></title>
 <program-line><![CDATA[BritCon]]></program-line>
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Klubovna]]></location>
 <start-time></start-time>
 <end-time></end-time>
-<annotation><![CDATA[dodam]]></annotation>
+<annotation><![CDATA[Jen absolvuje špatné rande s jedním z kolegů. A protože se s ním nechce bavit, řekne Mossovi, aby mu zalhal. Moss mu oznámí, že je Jen mrtvá.]]></annotation>
 </programme><programme><pid>2728</pid>
 <author><![CDATA[BritCon Team+ Sherlock]]></author>
-<title><![CDATA[0x01 Unaired Pilot]]></title>
+<title><![CDATA[Sherlock 0x01 Unaired Pilot]]></title>
 <program-line><![CDATA[BritCon]]></program-line>
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Klubovna]]></location>
 <start-time></start-time>
 <end-time></end-time>
-<annotation><![CDATA[dodam]]></annotation>
+<annotation><![CDATA[Dr. Watson, čerstvě po návratu ze služby v Afghánistánu z důvodu zranění, se shodou náhod seznámí s charismatickým a značně svérázným Sherlockem Holmesem, který shání spolubydlícího. Scotland Yard si neví rady s řadou podivných sebevražd a jen jediný muž dokáže pomoci.]]></annotation>
 </programme><programme><pid>2729</pid>
 <author><![CDATA[Jan Nohovec "Arvinej"]]></author>
 <title><![CDATA[Velká Británie očima geeka]]></title>
@@ -3710,8 +3720,8 @@ S tím má co dočinění také Cartmelův mistrovský plán, který měl v 27 �
 <type>F +B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-05T21:00:00+02:00</start-time>
-<end-time>2013-07-05T21:00:00+02:00</end-time>
+<start-time>2013-07-05T23:00:00+02:00</start-time>
+<end-time>2013-07-05T23:00:00+02:00</end-time>
 <annotation><![CDATA[Poprvé na FF můžete vidět legendární vystoupení amerického komika Billa Hickse z roku 1992 v londýnském divadle Dominion, a to s originálním překladem. Jako obvykle, Billův humor je mládeži nepřístupný a slabším a prudérním povahám nebezpečný. Přijďte :)]]></annotation>
 </programme><programme><pid>3130</pid>
 <author><![CDATA[Tomáš Čapek "Charmer"]]></author>
@@ -3720,8 +3730,8 @@ S tím má co dočinění také Cartmelův mistrovský plán, který měl v 27 �
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-06T21:00:00+02:00</start-time>
-<end-time>2013-07-06T21:00:00+02:00</end-time>
+<start-time>2013-07-06T19:00:00+02:00</start-time>
+<end-time>2013-07-06T19:00:00+02:00</end-time>
 <annotation><![CDATA[První video v historii, které překonalo hranici jedné miliardy přehrání, a to za méně než půl roku, si jistě zaslouží vlastní pořad. Od té doby se ale mnohé odehrálo, mimojiné stovky různě povedených remixů. Prouzkomáme historii Gangnam stylu, prokládanou kvalitními tématickými klipy.]]></annotation>
 </programme><programme><pid>3131</pid>
 <author><![CDATA[Michal Lukáč "Dragon Lord"]]></author>
@@ -3802,8 +3812,8 @@ Nesouhlasíte? Herní design však pomalu proniká do všech činností, skrze g
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-05T20:00:00+02:00</start-time>
-<end-time>2013-07-05T20:00:00+02:00</end-time>
+<start-time>2013-07-05T18:00:00+02:00</start-time>
+<end-time>2013-07-05T18:00:00+02:00</end-time>
 <annotation><![CDATA[20 snímků v prezentaci. 15 sekund na snímek. Dohromady 5 minut.
 Přesně tolik času mají naši přednášející k tomu, aby vás poučili a pobavili. Stihnou to?]]></annotation>
 </programme><programme><pid>3139</pid>
@@ -3813,8 +3823,8 @@ Přesně tolik času mají naši přednášející k tomu, aby vás poučili a p
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-06T19:00:00+02:00</start-time>
-<end-time>2013-07-06T19:00:00+02:00</end-time>
+<start-time>2013-07-06T21:00:00+02:00</start-time>
+<end-time>2013-07-06T21:00:00+02:00</end-time>
 <annotation><![CDATA[Aneb filipika proti hrám tzv. „sociálním.“
 Máte krávu. Můžete na ní kliknout jednou za šest hodin. Proč byste to dělali? Ptejte se 4 milionů hráčů FarmVille…
 Mrkneme se na zoubek základním principům těchto her a zkusíme se zamyslet, zda lze tento koncept využít i smysluplněji.]]></annotation>
@@ -3916,8 +3926,8 @@ Jak fungují on-line kurzy, kde se dají najít a jak si mezi nimi vybrat? A jak
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-05T18:00:00+02:00</start-time>
-<end-time>2013-07-05T18:00:00+02:00</end-time>
+<start-time>2013-07-05T20:00:00+02:00</start-time>
+<end-time>2013-07-05T20:00:00+02:00</end-time>
 <annotation><![CDATA[...jako životní styl. Proč a jak na to. Příběhy nejznámějších minimalistů i vlastní zkušenosti přednášející. Zajímá Vás kolik mám věcí?]]></annotation>
 </programme><programme><pid>3150</pid>
 <author><![CDATA[Ondřej Švejda]]></author>
@@ -4009,8 +4019,8 @@ Pozn.: Nevhodné do 18 let!]]></annotation>
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-02T13:00:00+02:00</start-time>
-<end-time>2013-07-02T13:00:00+02:00</end-time>
+<start-time>2013-07-06T23:00:00+02:00</start-time>
+<end-time>2013-07-06T23:00:00+02:00</end-time>
 <annotation><![CDATA[Jestli se v něčem naprostá většina náboženství shoduje, tak v tendencích svým ovečkám regulovat sexuální život. Jak se v prostoru a čase měnily a mění pohledy na to, co se v posteli může a co nikoli? Pozn.: Ať každý zváží, zda na tuto přednášku vezme osobu mladší 15 let, za kterou je zodpovědný.]]></annotation>
 </programme><programme><pid>3159</pid>
 <author><![CDATA[Scarlett Rauschgoldová "Darth Zira"]]></author>
@@ -4049,8 +4059,8 @@ Pozn.: Nevhodné do 18 let!]]></annotation>
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-07T12:00:00+02:00</start-time>
-<end-time>2013-07-07T12:00:00+02:00</end-time>
+<start-time>2013-07-02T13:00:00+02:00</start-time>
+<end-time>2013-07-02T13:00:00+02:00</end-time>
 <annotation><![CDATA[Již příští rok si bude možné koupit chytré brýle od Googlu. Podle mnohých podobná zařízení (wearable computers) představují další technologický skok po smartphonech a tabletech. Co Google Glass umí, na co se hodí a na co ne? Poslechněte si zkušenosti z reálného používání brýlí.]]></annotation>
 </programme><programme><pid>3163</pid>
 <author><![CDATA[Filip Štaffa]]></author>
@@ -4476,7 +4486,7 @@ můžete vytvořit nekonečně mnoho svých vlastních originálních Dobblů.]]
 <location><![CDATA[KD Junior - KD Místnost 2]]></location>
 <start-time>2013-06-29T19:00:00+02:00</start-time>
 <end-time>2013-06-29T19:00:00+02:00</end-time>
-<annotation><![CDATA[Dokument o vzniku a koncertním uvedení symfonie Pána Prstenů skladatele Howarda Shora. V dokumentu jsou kromě rozhovorů s tvůrci použity i záběry ze samotného koncertu. České titulky. Ukázková projekce k přednášce.]]></annotation>
+<annotation><![CDATA[Dokument o vzniku a koncertním uvedení symfonie Pána prstenů skladatele Howarda Shora. V dokumentu jsou kromě rozhovorů s tvůrci použity i záběry ze samotného koncertu. České titulky. Ukázková projekce k přednášce.]]></annotation>
 </programme><programme><pid>3231</pid>
 <author><![CDATA[SoundtraCon Team]]></author>
 <title><![CDATA[Michel Legrand: Live in Brussels]]></title>
@@ -6995,8 +7005,8 @@ VAROVÁNÍ: vysoké procento spoilerů v krvi.]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-29T21:00:00+02:00</start-time>
-<end-time>2013-06-29T21:00:00+02:00</end-time>
+<start-time>2013-06-29T22:00:00+02:00</start-time>
+<end-time>2013-06-29T22:00:00+02:00</end-time>
 <annotation><![CDATA[Ti z vás, kdož snad ještě stále váháte nad sledováním seriálu a na knihy nedáte dopustit ani během Armageddonu, přijďte si pro dvanáct pádných důvodů proč jej začít sledovat.]]></annotation>
 </programme><programme><pid>4819</pid>
 <author><![CDATA[Michal Petrov "Makhiel"]]></author>
@@ -7045,8 +7055,8 @@ VAROVÁNÍ: vysoké procento spoilerů v krvi.]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-29T22:00:00+02:00</start-time>
-<end-time>2013-06-29T22:00:00+02:00</end-time>
+<start-time>2013-06-29T21:00:00+02:00</start-time>
+<end-time>2013-06-29T21:00:00+02:00</end-time>
 <annotation><![CDATA[Noční hlídka je starobylý řád, který brání Sedm království proti zlu za Zdí. Během své existence měla téměř 1000 velitelů a my se kromě její historie zaměříme na ty nejzajímavější.]]></annotation>
 </programme><programme><pid>4824</pid>
 <author><![CDATA[Jaroslav Chrastil "Kuromaru"+ Zdeňka "Keavy" Češpírová]]></author>
@@ -8411,8 +8421,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-05T18:00:00+02:00</start-time>
-<end-time>2013-07-05T18:00:00+02:00</end-time>
+<start-time>2013-07-06T15:00:00+02:00</start-time>
+<end-time>2013-07-06T15:00:00+02:00</end-time>
 <annotation><![CDATA[Pořad, kde budou uvedeny hlavní díla Josse Whedona, podle kterých vznikla linie SlaerCon.]]></annotation>
 </programme><programme><pid>6682</pid>
 <author><![CDATA[Matěj Svoboda "Broody"]]></author>
@@ -8431,8 +8441,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-06T12:00:00+02:00</start-time>
-<end-time>2013-07-06T12:00:00+02:00</end-time>
+<start-time>2013-07-05T18:00:00+02:00</start-time>
+<end-time>2013-07-05T18:00:00+02:00</end-time>
 <annotation><![CDATA[Vadí vám, že váš oblíbený seriál skončil? Nezoufejte! Jak Buffy, přemožitelka upírů, tak Angel a Firefly pokračují formou komiksů! Přijďte na přednášku a dozvíte se víc.]]></annotation>
 </programme><programme><pid>6685</pid>
 <author><![CDATA[Matěj Svoboda "Broody"]]></author>
@@ -8461,8 +8471,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>W</type>
 <length>2h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-06T14:00:00+02:00</start-time>
-<end-time>2013-07-06T14:00:00+02:00</end-time>
+<start-time>2013-07-06T11:00:00+02:00</start-time>
+<end-time>2013-07-06T11:00:00+02:00</end-time>
 <annotation><![CDATA[Přidejte se do naší tradiční SlaerCon bojové hru, tentokrát ve stylu Avengers.]]></annotation>
 </programme><programme><pid>6688</pid>
 <author><![CDATA[Matěj Svoboda "Broody"]]></author>
@@ -8481,8 +8491,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>F +H</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-06T11:00:00+02:00</start-time>
-<end-time>2013-07-06T11:00:00+02:00</end-time>
+<start-time>2013-07-06T14:00:00+02:00</start-time>
+<end-time>2013-07-06T14:00:00+02:00</end-time>
 <annotation><![CDATA[Dr. Horrible, aspirant na pozici nového největšího superzločince, zamilovaný do krásné a optimistické Penny, se uchází o členství v prestižní Zlé lize zla, ale jako vždy jsou jeho plány překaženy egoistickým superhrdinou, Kapitánem Kladivem. Jedinečný webový muzikál z dílny Josse Whedona.]]></annotation>
 </programme><programme><pid>7101</pid>
 <author><![CDATA[AMOK Linie "AMOK"]]></author>
@@ -9630,15 +9640,15 @@ Film sleduje Bronies z různých částí světa a jejích unikátní příběhy
 <end-time></end-time>
 <annotation><![CDATA[Další úspěšný seriál z produkce The Hub o nevrlém chlápkovi s tričkem "JERK". Sebereflexivní parodie Hubu]]></annotation>
 </programme><programme><pid>7612</pid>
-<author><![CDATA[Jan Sedláček "Honzdir"]]></author>
-<title><![CDATA[Powerpuff Girls]]></title>
+<author><![CDATA[Jan Sedláček "Honzdir"+ DoctorPickle]]></author>
+<title><![CDATA[Film Bronies.cz]]></title>
 <program-line><![CDATA[PonyCon]]></program-line>
-<type>P</type>
+<type>P +B</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Přízemní sál]]></location>
 <start-time>2013-07-06T14:00:00+02:00</start-time>
 <end-time>2013-07-06T14:00:00+02:00</end-time>
-<annotation><![CDATA[Ještě před MLP spolupracovala Lauren Faust na úspěšném seriálu o třech malých superhrdinkách Powerpuff Girls pro Cartoon Network. Přijďte se podívat, jak vypadal]]></annotation>
+<annotation><![CDATA[Čeští bronies se rozhodli pro velice ambiciózní projekt - natočení vlastního fanfilmu. Přijďte se podívat na to, co zatím vytvořili a zeptejte se tvůrčího týmu, co vás zajímá.]]></annotation>
 </programme><programme><pid>7613</pid>
 <author><![CDATA[Jan Sedláček "Honzdir"]]></author>
 <title><![CDATA[Foster's Home for Imaginary Friends]]></title>
@@ -11136,7 +11146,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-07-01T20:00:00+02:00</start-time>
 <end-time>2013-07-01T20:00:00+02:00</end-time>
-<annotation><![CDATA[Staň se tím nejlepším pirátem! Vezmi si jednu pirátskou kartu a poté pomocí štěstěny hoď tu nejcennější kombinaci kostek. Čím cennější ta kombinace bude, tím více bodů získáš. Vyhraje ten, kdo jako první získá 6000 bodů.]]></annotation>
+<annotation><![CDATA[Staň se tím nejlepším pirátem! Vezmi si jednu pirátskou kartu a poté pomocí štěstěny hoď tu nejcennější kombinaci kostek. Čím cennější ta kombinace bude, tím více bodů získáš.]]></annotation>
 </programme><programme><pid>9005</pid>
 <author><![CDATA[Michaela Šebestová "michal"]]></author>
 <title><![CDATA[Fantastický Brainbox]]></title>
@@ -11146,7 +11156,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-07-03T16:00:00+02:00</start-time>
 <end-time>2013-07-03T16:00:00+02:00</end-time>
-<annotation><![CDATA[Procvičte si paměť u Brainboxu! Máme pro Vás opět připravenou fantastickou verzi postřehové hry s tématy sci-fi, fantasy a deskovek.]]></annotation>
+<annotation><![CDATA[Co vše si dokážete zapamatovat za 10 vteřin? Budeme vám promítat slidy z různých sci-fi, fantasy a jiných filmů a pak vaši pozornost prověříme otázkou, co vše jste si zapamatovali.]]></annotation>
 </programme><programme><pid>9006</pid>
 <author><![CDATA[Michaela Šebestová "michal"]]></author>
 <title><![CDATA[Turnaj ve hře Lady Alice]]></title>
@@ -11156,7 +11166,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-07-06T20:00:00+02:00</start-time>
 <end-time>2013-07-06T20:00:00+02:00</end-time>
-<annotation><![CDATA[Souboj detektivů]]></annotation>
+<annotation><![CDATA[Psal se rok 1878 a v Londýně se chystala důležitá konference. Byl na ni pozván i známý badatel Henry Morton Stanley, ale najednou zmizel…  Přijdete na to, kdo Henryho unesl dříve než ostatní detektivové?]]></annotation>
 </programme><programme><pid>9007</pid>
 <author><![CDATA[Michaela Šebestová "michal"]]></author>
 <title><![CDATA[Turnaj ve hře Mölkky]]></title>
@@ -11166,7 +11176,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-06-30T20:00:00+02:00</start-time>
 <end-time>2013-06-30T20:00:00+02:00</end-time>
-<annotation><![CDATA[Finská tradiční venkovní hra, kde ukážete vaši šikovnost.]]></annotation>
+<annotation><![CDATA[Kultovní vikingská hra pod širé nebe přišla i do České republiky. Hra Mölkky je kolíková hra, která pochází z Finska. Je vhodná pro všechny věkové kategorie a lze ji hrát v libovolném počtu hráčů – čím více, tím lépe.]]></annotation>
 </programme><programme><pid>9008</pid>
 <author><![CDATA[Michaela Šebestová "michal"]]></author>
 <title><![CDATA[Turnaj ve hře Mölkky II.]]></title>
@@ -11186,7 +11196,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-07-05T16:00:00+02:00</start-time>
 <end-time>2013-07-05T16:00:00+02:00</end-time>
-<annotation><![CDATA[Není třeba vysvětlovat, protože neznáme nikoho, kdo by neznal Bang!]]></annotation>
+<annotation><![CDATA[Není třeba vysvětlovat, protože neznáme nikoho, kdo by neznal Bang! Tradičně nejvíce obsazený turnaj s výbornou atmosférou.]]></annotation>
 </programme><programme><pid>9010</pid>
 <author><![CDATA[Michaela Šebestová "michal"]]></author>
 <title><![CDATA[Turnaj v Osadnících]]></title>
@@ -11196,7 +11206,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-07-04T20:00:00+02:00</start-time>
 <end-time>2013-07-04T20:00:00+02:00</end-time>
-<annotation><![CDATA[Někdy není špatné trochu zavzpomínat.]]></annotation>
+<annotation><![CDATA[Osadníci z Katanu jsou legendou ve světě deskových her, která si získala přízeň milionů hráčů po celém světě. A čím tato hra jednoznačně předčí jiné deskové hry? Především variabilitou herního plánu. Každá partie je jedinečná. Spolu s protihráči osidlujete ostrov Katan.]]></annotation>
 </programme><programme><pid>9011</pid>
 <author><![CDATA[Michaela Šebestová "michal"]]></author>
 <title><![CDATA[Turnaj v Dominionu]]></title>
@@ -11206,7 +11216,7 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <location><![CDATA[FF areál - FF herny]]></location>
 <start-time>2013-06-29T16:00:00+02:00</start-time>
 <end-time>2013-06-29T16:00:00+02:00</end-time>
-<annotation><![CDATA[Tradiční turnaj v Dominionu. Doufáme, že se už bude hrát s rozšířením Vzdálené kraje.]]></annotation>
+<annotation><![CDATA[Stojíte na počátku budování své vlastní říše a nemáte nic než trochu peněz a malé pozemky. Avšak brány světa jsou otevřeny dokořán, říše vzkvétá zakládáním nových vesnic, založením tržiště či vztyčením trůnního sálu. Jsou tu také zdatní soupeři, a tak je třeba rozšířit svoji říši co nejrychleji.]]></annotation>
 </programme><programme><pid>9012</pid>
 <author><![CDATA[Jindřich Cinka "Desgenais"]]></author>
 <title><![CDATA[Turnaj ve hře Citadela]]></title>

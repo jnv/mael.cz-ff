@@ -144,13 +144,13 @@
   :length: 1h
   :day: 2013-07-02
   :end: !ruby/object:DateTime 2013-07-02 12:00:00.000000000 +02:00
-- :author: Scarlett Rauschgoldová "Darth Zira"
+- :author: David Vávra "Destil"
   :start: !ruby/object:DateTime 2013-07-02 13:00:00.000000000 +02:00
-  :title: Chtíč, největší z hříchů
-  :description: ! 'Jestli se v něčem naprostá většina náboženství shoduje, tak v tendencích
-    svým ovečkám regulovat sexuální život. Jak se v prostoru a čase měnily a mění
-    pohledy na to, co se v posteli může a co nikoli? Pozn.: Ať každý zváží, zda na
-    tuto přednášku vezme osobu mladší 15 let, za kterou je zodpovědný.'
+  :title: Google Glass
+  :description: Již příští rok si bude možné koupit chytré brýle od Googlu. Podle
+    mnohých podobná zařízení (wearable computers) představují další technologický
+    skok po smartphonech a tabletech. Co Google Glass umí, na co se hodí a na co ne?
+    Poslechněte si zkušenosti z reálného používání brýlí.
   :length: 1h
   :day: 2013-07-02
   :end: !ruby/object:DateTime 2013-07-02 13:00:00.000000000 +02:00
@@ -521,11 +521,12 @@
   :length: 1h
   :day: 2013-07-05
   :end: !ruby/object:DateTime 2013-07-05 17:00:00.000000000 +02:00
-- :author: Kristýna Onderková "Navitas"
+- :author: Jan Vlnas + Filip Štaffa, Kateřina Täuberová, Tomáš Mládek, Kristýna Onderková
   :start: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
-  :title: Minimalismus
-  :description: ! '...jako životní styl. Proč a jak na to. Příběhy nejznámějších minimalistů
-    i vlastní zkušenosti přednášející. Zajímá Vás kolik mám věcí?'
+  :title: Ignite Show
+  :description: 20 snímků v prezentaci. 15 sekund na snímek. Dohromady 5 minut. Přesně
+    tolik času mají naši přednášející k tomu, aby vás poučili a pobavili. Stihnou
+    to?
   :length: 1h
   :day: 2013-07-05
   :end: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
@@ -539,17 +540,16 @@
   :length: 1h
   :day: 2013-07-05
   :end: !ruby/object:DateTime 2013-07-05 19:00:00.000000000 +02:00
-- :author: Jan Vlnas + Filip Štaffa, Kateřina Täuberová, Tomáš Mládek, Kristýna Onderková
+- :author: Kristýna Onderková "Navitas"
   :start: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
-  :title: Ignite Show
-  :description: 20 snímků v prezentaci. 15 sekund na snímek. Dohromady 5 minut. Přesně
-    tolik času mají naši přednášející k tomu, aby vás poučili a pobavili. Stihnou
-    to?
+  :title: Minimalismus
+  :description: ! '...jako životní styl. Proč a jak na to. Příběhy nejznámějších minimalistů
+    i vlastní zkušenosti přednášející. Zajímá Vás kolik mám věcí?'
   :length: 1h
   :day: 2013-07-05
   :end: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
 - :author: Tomáš Čapek "Charmer"
-  :start: !ruby/object:DateTime 2013-07-05 21:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 23:00:00.000000000 +02:00
   :title: Bill Hicks - Zjevení
   :description: Poprvé na FF můžete vidět legendární vystoupení amerického komika
     Billa Hickse z roku 1992 v londýnském divadle Dominion, a to s originálním překladem.
@@ -557,7 +557,7 @@
     nebezpečný. Přijďte :)
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 21:00:00.000000000 +02:00
+  :end: !ruby/object:DateTime 2013-07-05 23:00:00.000000000 +02:00
 2013-07-06:
 - :author: Edita Dufková
   :start: !ruby/object:DateTime 2013-07-06 10:00:00.000000000 +02:00
@@ -640,13 +640,13 @@
   :length: 1h
   :day: 2013-07-06
   :end: !ruby/object:DateTime 2013-07-06 18:00:00.000000000 +02:00
-- :author: Jan Vlnas
+- :author: Tomáš Čapek "Charmer"
   :start: !ruby/object:DateTime 2013-07-06 19:00:00.000000000 +02:00
-  :title: Klikati krávu
-  :description: Aneb filipika proti hrám tzv. „sociálním.“ Máte krávu. Můžete na ní
-    kliknout jednou za šest hodin. Proč byste to dělali? Ptejte se 4 milionů hráčů
-    FarmVille… Mrkneme se na zoubek základním principům těchto her a zkusíme se zamyslet,
-    zda lze tento koncept využít i smysluplněji.
+  :title: Gangnam style
+  :description: První video v historii, které překonalo hranici jedné miliardy přehrání,
+    a to za méně než půl roku, si jistě zaslouží vlastní pořad. Od té doby se ale
+    mnohé odehrálo, mimojiné stovky různě povedených remixů. Prouzkomáme historii
+    Gangnam stylu, prokládanou kvalitními tématickými klipy.
   :length: 1h
   :day: 2013-07-06
   :end: !ruby/object:DateTime 2013-07-06 19:00:00.000000000 +02:00
@@ -660,16 +660,26 @@
   :length: 1h
   :day: 2013-07-06
   :end: !ruby/object:DateTime 2013-07-06 20:00:00.000000000 +02:00
-- :author: Tomáš Čapek "Charmer"
+- :author: Jan Vlnas
   :start: !ruby/object:DateTime 2013-07-06 21:00:00.000000000 +02:00
-  :title: Gangnam style
-  :description: První video v historii, které překonalo hranici jedné miliardy přehrání,
-    a to za méně než půl roku, si jistě zaslouží vlastní pořad. Od té doby se ale
-    mnohé odehrálo, mimojiné stovky různě povedených remixů. Prouzkomáme historii
-    Gangnam stylu, prokládanou kvalitními tématickými klipy.
+  :title: Klikati krávu
+  :description: Aneb filipika proti hrám tzv. „sociálním.“ Máte krávu. Můžete na ní
+    kliknout jednou za šest hodin. Proč byste to dělali? Ptejte se 4 milionů hráčů
+    FarmVille… Mrkneme se na zoubek základním principům těchto her a zkusíme se zamyslet,
+    zda lze tento koncept využít i smysluplněji.
   :length: 1h
   :day: 2013-07-06
   :end: !ruby/object:DateTime 2013-07-06 21:00:00.000000000 +02:00
+- :author: Scarlett Rauschgoldová "Darth Zira"
+  :start: !ruby/object:DateTime 2013-07-06 23:00:00.000000000 +02:00
+  :title: Chtíč, největší z hříchů
+  :description: ! 'Jestli se v něčem naprostá většina náboženství shoduje, tak v tendencích
+    svým ovečkám regulovat sexuální život. Jak se v prostoru a čase měnily a mění
+    pohledy na to, co se v posteli může a co nikoli? Pozn.: Ať každý zváží, zda na
+    tuto přednášku vezme osobu mladší 15 let, za kterou je zodpovědný.'
+  :length: 1h
+  :day: 2013-07-06
+  :end: !ruby/object:DateTime 2013-07-06 23:00:00.000000000 +02:00
 2013-07-07:
 - :author: Hana Mudrová
   :start: !ruby/object:DateTime 2013-07-07 10:00:00.000000000 +02:00
@@ -688,13 +698,3 @@
   :length: 1h
   :day: 2013-07-07
   :end: !ruby/object:DateTime 2013-07-07 11:00:00.000000000 +02:00
-- :author: David Vávra "Destil"
-  :start: !ruby/object:DateTime 2013-07-07 12:00:00.000000000 +02:00
-  :title: Google Glass
-  :description: Již příští rok si bude možné koupit chytré brýle od Googlu. Podle
-    mnohých podobná zařízení (wearable computers) představují další technologický
-    skok po smartphonech a tabletech. Co Google Glass umí, na co se hodí a na co ne?
-    Poslechněte si zkušenosti z reálného používání brýlí.
-  :length: 1h
-  :day: 2013-07-07
-  :end: !ruby/object:DateTime 2013-07-07 12:00:00.000000000 +02:00
