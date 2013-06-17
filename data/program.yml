@@ -522,7 +522,8 @@
   :length: 1h
   :day: 2013-07-05
   :start: !ruby/object:DateTime 2013-07-05 17:00:00.000000000 +02:00
-- :author: Jan Vlnas + Filip Štaffa, Kateřina Täuberová, Tomáš Mládek, Kristýna Onderková
+- :author: Jan Vlnas + Filip Štaffa, Tomáš Čapek „Charmer“, Tomáš Mládek, Kristýna
+    Onderková
   :title: Ignite Show
   :end: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
   :description: 20 snímků v prezentaci. 15 sekund na snímek. Dohromady 5 minut. Přesně
