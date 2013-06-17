@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><annotations count="1289"><programme><pid>1001</pid>
+<?xml version="1.0" encoding="UTF-8" ?><annotations count="1356"><programme><pid>1001</pid>
 <author><![CDATA[Václav Pravda "Kritizátor"]]></author>
 <title><![CDATA[Dolejte řediteli I.]]></title>
 <program-line><![CDATA[.To nej z FF]]></program-line>
@@ -90,6 +90,107 @@ Autorská divadelní komedie volně navazující na úspěšný „Příběh gee
 <start-time></start-time>
 <end-time></end-time>
 <annotation><![CDATA[Je fotografování na akcích zábava, koníček nebo práce? Co vše vás při tom může potkat, kam je nutno zajít a kde je lépe se nevyskytovat? Jak získat ten nejlepší záběr? A na závěr najdeme snad i několik cenzurovaných fotek...]]></annotation>
+</programme><programme><pid>1010</pid>
+<author><![CDATA[Jakub Šedivý "vavroch"+ CiB]]></author>
+<title><![CDATA[To nejlepší ze seminářů Járy Cimrmana]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>C +B+++W</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-05T11:00:00+02:00</start-time>
+<end-time>2013-07-05T11:00:00+02:00</end-time>
+<annotation><![CDATA[Živě a s chutí představíme nejpovedenější semináře a scénky ze seminářů k hrám Járy Cimrmana. Pořad bude doplněn soutěžemi, diskuzemi, zpěvem, krákými videoukázkami. Prostě kdo má rád inteligentní humor pánů Svěrák-Smoljak a chce příjemně strávit čas před obědem: přijď, rádi tě uvidíme. Cimrmanband]]></annotation>
+</programme><programme><pid>1011</pid>
+<author><![CDATA[Jakub Šedivý "vavroch"+ CiB]]></author>
+<title><![CDATA[Rozloučení s Janem Kašparem]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>C +B+++F+++P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-05T17:00:00+02:00</start-time>
+<end-time>2013-07-05T17:00:00+02:00</end-time>
+<annotation><![CDATA[Každý, kdo měl rád kulisáka DJC, který se posléze ze zákulisí přesídlil na jeviště, přijďte na rozloučenou. CiB představí jeho životní příběh doplněný videoukázkami nejen jím vytvořených postav v hrách Járy Cimrmana, ale i náhledem do jeho filmových rolí a televizních rozhovorů.]]></annotation>
+</programme><programme><pid>1012</pid>
+<author><![CDATA[Festival fantazie "FF"+ Milan Rybenský]]></author>
+<title><![CDATA[Kovařina dříve i nyní]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>P +B</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-01T11:00:00+02:00</start-time>
+<end-time>2013-07-01T11:00:00+02:00</end-time>
+<annotation><![CDATA[Umělecký kovář: Jak se časem kovařina změnila, kde se dá kovařině naučit aneb školy umělecké kovařiny v České republice, jak s kovařinou začít a co vše potřebujete abyste mohli začít.]]></annotation>
+</programme><programme><pid>1013</pid>
+<author><![CDATA[Festival fantazie "FF"+ Milan Rybenský]]></author>
+<title><![CDATA[Výroba replik historických zbraní]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>P +B</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-05T10:00:00+02:00</start-time>
+<end-time>2013-07-05T10:00:00+02:00</end-time>
+<annotation><![CDATA[Umělecký kovář: Jak se vyráběly zbraně v historii a jak se vyrábějí nyní. Složení a výroba rapírů, kordů, vikingských mečů, gotických mečů (jednoruční, jeden a půl ruční a dvouruční), výroba bijáků, palcátů a kladiv určených pro boj.]]></annotation>
+</programme><programme><pid>1014</pid>
+<author><![CDATA[Festival fantazie "FF"+ Tomáš Němec, Alžběta Lexová]]></author>
+<title><![CDATA[Hájili jsme Pevnost]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>P +B</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-06T12:00:00+02:00</start-time>
+<end-time>2013-07-06T12:00:00+02:00</end-time>
+<annotation><![CDATA[Jednu chvíli to vypadalo, že více jak desetiletí vycházející oblíbený magazín o fantastice skončí. Zdá se to jako novodobý trend, ale redakce se rozhodla vzít situaci do svých rukou a ve vydávání časopisu pokračovat na vlastní náklady. Přijďte si popovídat a dozvědět se, jak trnitá to byla cesta.]]></annotation>
+</programme><programme><pid>1015</pid>
+<author><![CDATA[Marcela Holečková "Maril"]]></author>
+<title><![CDATA[Fantasy podepsaná Michael A. Stackpole]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-04T14:00:00+02:00</start-time>
+<end-time>2013-07-04T14:00:00+02:00</end-time>
+<annotation><![CDATA[Ne jen Star Wars sérií živ je autor. Zvu vás na výlet Věkem objevů do dob Válek o dračí korunu. A co vás čeká? Přijďte a uvidíte, to je přeci na fantaskních světech nejkrásnější. 
+]]></annotation>
+</programme><programme><pid>1016</pid>
+<author><![CDATA[Jan Kotouč "Johnak"+ Michael A. Stackpole]]></author>
+<title><![CDATA[Writing Workshop - 21 days to a novel]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>W</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-05T14:00:00+02:00</start-time>
+<end-time>2013-07-05T14:00:00+02:00</end-time>
+<annotation><![CDATA[Americký spisovatel Michael A. Stackpole představuje svůj 21-denní program literárních cvičení, který vás připraví na napsání románu. Pokud jste někdy začali psát román a po 5 kapitolách se zasekli a nemohli dál, tento workshop vám ukáže jak se s tím poprat a dotáhnout knihu do konce.]]></annotation>
+</programme><programme><pid>1017</pid>
+<author><![CDATA[Ondřej Páleník "Hawk"+ Martin Macík Caha]]></author>
+<title><![CDATA[O Dračí řád]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>C +B+++W</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-05T20:00:00+02:00</start-time>
+<end-time>2013-07-05T20:00:00+02:00</end-time>
+<annotation><![CDATA[Kdo letos ukořiští literární cenu Dračí řád? A koho sežerou zuřiví porotci? S čím nechodit do literárních soutěží a co má naopak úspěch? Jedinečná možnost poučit se z chyb svých i cizích. A možná přijde i nový sborník!]]></annotation>
+</programme><programme><pid>1018</pid>
+<author><![CDATA[Festival fantazie "FF"+ Michael A. Stackpole]]></author>
+<title><![CDATA[Nepíši jenom Star Wars]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>B +P</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-04T17:00:00+02:00</start-time>
+<end-time>2013-07-04T17:00:00+02:00</end-time>
+<annotation><![CDATA[Americký spisovatel (více než 45 románů) tvoří ve světech Star Wars, Dungeons & Dragons, Shadowrun, BattleTech, World of Warcraft, ale i ve vlastních: DragonCrown War, Věk objevů... . Získal ocenění jako romanopisec, editor, videoherní designér a scénárista. Čeká vás tlumočená beseda. S místenkou.]]></annotation>
+</programme><programme><pid>1019</pid>
+<author><![CDATA[Festival fantazie "FF"+ Alex Lewis, Ruth Lacon]]></author>
+<title><![CDATA[Velký J. R. R. Tolkien]]></title>
+<program-line><![CDATA[.To nej z FF]]></program-line>
+<type>B +P</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Velký sál KD]]></location>
+<start-time>2013-07-02T14:00:00+02:00</start-time>
+<end-time>2013-07-02T14:00:00+02:00</end-time>
+<annotation><![CDATA[Předseda Tolkien Society a hudební skladatel přednáší po celém světě a se svou ženou napsal tři knihy studií o J. R. R. Tolkienovi. Jeho žena kromě odborných prací rovněž ilustruje. Čeká vás tlumočená beseda. S místenkou.]]></annotation>
 </programme><programme><pid>1101</pid>
 <author><![CDATA[Festival fantazie "FF"+ SFK Avalon a hosté]]></author>
 <title><![CDATA[Slavnostní zahájení Festivalu fantazie 2013]]></title>
@@ -172,6 +273,36 @@ Po Večeru fantazie následuje Velká tombola s hlavní cenou - kamera BenQ a d�
 <start-time>2013-07-01T22:00:00+02:00</start-time>
 <end-time>2013-07-01T22:00:00+02:00</end-time>
 <annotation><![CDATA[Taneční scény z indických filmů hýří energií, radostí a barvami. Přijďte se nechat unést jejich atmosférou na párty, na které kromě jiného zažijete i pravou bollywoodskou videodiskotéku, na které si budete moct zatancovat a užít si spoustu legrace, a nebo se jen kochat úžasnými hudebními videi.]]></annotation>
+</programme><programme><pid>1111</pid>
+<author><![CDATA[Ondřej Široký "Aiwendil"+ Barbora Vrzáková]]></author>
+<title><![CDATA[LEGO Piráti z Karibiku]]></title>
+<program-line><![CDATA[.Extra program FF]]></program-line>
+<type>W</type>
+<length>02:00h</length>
+<location><![CDATA[FF areál - FF areál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Zapojte se do celofestivalové výstavy a postavte originální stavebnice z řady LEGO Piráti z Karibiku. Dílna pro malé i velké, piráty či pirátky, zkrátka pro fanoušky Jacka Sparrowa.. pardón, Kapitána Jacka Sparrowa. Ho, ho, kde je rum?!]]></annotation>
+</programme><programme><pid>1112</pid>
+<author><![CDATA[Ondřej Široký "Aiwendil"+ Barbora Vrzáková]]></author>
+<title><![CDATA[LEGO stolní hry jsou tady!]]></title>
+<program-line><![CDATA[.Extra program FF]]></program-line>
+<type>G +W</type>
+<length>02:00h</length>
+<location><![CDATA[FF areál - FF areál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Přijďte si vyzkoušet nový typ deskových her od firmy LEGO - postavených přímo z této stavebnice. Probojujte se Bradavicemi, najděte Thorinovy trpaslíky a nebo prostě přijďte stavět modely pro probíhající celofestivalovou LEGO výstavu.]]></annotation>
+</programme><programme><pid>1113</pid>
+<author><![CDATA[Ondřej Široký "Aiwendil"+ Barbora Vrzáková]]></author>
+<title><![CDATA[LEGO Pán prstenů a Hobit]]></title>
+<program-line><![CDATA[.Extra program FF]]></program-line>
+<type>W</type>
+<length>02:00h</length>
+<location><![CDATA[FF areál - FF areál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Zapojte se do celofestivalové výstavy a postavte originální stavebnice z řady LEGO Pán prstenů a LEGO Hobit. Dílna pro velké i malé fanoušky Středozemě. Temný hvozd a skřety zamořená Morie vám vyrostou přímo pod rukama... Pomůžete Prsten moci dostat včas na výstavu Festivalu fantazie?]]></annotation>
 </programme><programme><pid>1121</pid>
 <author><![CDATA[Festival fantazie "FF"+ Tony Amendola]]></author>
 <title><![CDATA[Master Bra´tac Show]]></title>
@@ -192,46 +323,16 @@ Po Večeru fantazie následuje Velká tombola s hlavní cenou - kamera BenQ a d�
 <start-time>2013-06-30T14:00:00+02:00</start-time>
 <end-time>2013-06-30T14:00:00+02:00</end-time>
 <annotation><![CDATA[Znovu nás přijíždí navštívit David Nykl, známý herec mj. ze seriálu Stargate Atlantis. Těšit se můžete na zábavné povídání v češtině, otázky moderátorů i z publika, videoukázky a skvělou atmosféru. Pořad je s místenkou.]]></annotation>
-</programme><programme><pid>1123</pid>
-<author><![CDATA[Festival fantazie "FF"+ Colin Ferguson]]></author>
-<title><![CDATA[Jack Carter: Eureka!]]></title>
+</programme><programme><pid>1124</pid>
+<author><![CDATA[Festival fantazie "FF"+ Tony Amendola, David Nykl]]></author>
+<title><![CDATA[Stargate SG-1 versus Atlantis]]></title>
 <program-line><![CDATA[.Extra program FF]]></program-line>
 <type>B +P</type>
 <length>2h</length>
 <location><![CDATA[Kino - Kino Hlavní sál]]></location>
 <start-time>2013-06-29T20:00:00+02:00</start-time>
 <end-time>2013-06-29T20:00:00+02:00</end-time>
-<annotation><![CDATA[Poprvé přijíždí Festival fantazie navštívit Colin Ferguson, známý herec mj. hlavní rolí šerifa Jacka Cartera ze seriálu Eureka. Těšit se můžete na tlumočenou besedu, otázky moderátorů i z publika. Pořad je s místenkou.]]></annotation>
-</programme><programme><pid>1124</pid>
-<author><![CDATA[Festival fantazie "FF"+ Tony Amendola, Colin Ferguson, David Nykl]]></author>
-<title><![CDATA[Stargate vs. Eureka]]></title>
-<program-line><![CDATA[.Extra program FF]]></program-line>
-<type>B +P</type>
-<length>2h</length>
-<location><![CDATA[Kino - Kino Hlavní sál]]></location>
-<start-time>2013-06-30T20:00:00+02:00</start-time>
-<end-time>2013-06-30T20:00:00+02:00</end-time>
-<annotation><![CDATA[Dva herce spojuje téma Stargate, dva herce spojuje téma Eureka. Společná beseda tří herců bude jistě zážitkem. Těšit se můžete na tlumočenou besedu, otázky moderátorů i z publika a na ohňostroj nápadů a zábavy. Pořad je s místenkou.]]></annotation>
-</programme><programme><pid>1125</pid>
-<author><![CDATA[Festival fantazie "FF"+ Michael A. Stackpole]]></author>
-<title><![CDATA[Nepíši jenom Star Wars]]></title>
-<program-line><![CDATA[.Extra program FF]]></program-line>
-<type>B +P</type>
-<length>2h</length>
-<location><![CDATA[Kino - Kino Hlavní sál]]></location>
-<start-time>2013-07-04T17:00:00+02:00</start-time>
-<end-time>2013-07-04T17:00:00+02:00</end-time>
-<annotation><![CDATA[Americký spisovatel (více než 45 románů) tvoří ve světech Star Wars, Dungeons & Dragons, Shadowrun, BattleTech, World of Warcraft, ale i ve vlastních: DragonCrown War, Věk objevů... . Získal ocenění jako romanopisec, editor, videoherní designér a scénárista. Čeká vás tlumočená beseda. S místenkou.]]></annotation>
-</programme><programme><pid>1126</pid>
-<author><![CDATA[Festival fantazie "FF"+ Alex Lewis, Ruth Lacon]]></author>
-<title><![CDATA[Velký J. R. R. Tolkien]]></title>
-<program-line><![CDATA[.Extra program FF]]></program-line>
-<type>B +P</type>
-<length>2h</length>
-<location><![CDATA[Kino - Kino Hlavní sál]]></location>
-<start-time>2013-07-02T14:00:00+02:00</start-time>
-<end-time>2013-07-02T14:00:00+02:00</end-time>
-<annotation><![CDATA[Předseda Tolkien Society a hudební skladatel přednáší po celém světě a se svou ženou napsal tři knihy studií o J. R. R. Tolkienovi. Jeho žena kromě odborných prací rovněž ilustruje. Čeká vás tlumočená beseda. S místenkou.]]></annotation>
+<annotation><![CDATA[Společná beseda dvou herců bude jistě zážitkem. Těšit se můžete na tlumočenou besedu, otázky moderátorů i z publika a na ohňostroj nápadů a zábavy. Pořad je s místenkou.]]></annotation>
 </programme><programme><pid>1127</pid>
 <author><![CDATA[Festival fantazie "FF"+ David Nykl]]></author>
 <title><![CDATA[Focení a podepisování: David Nykl]]></title>
@@ -254,26 +355,15 @@ Fotografie tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit stu
 <end-time>2013-06-29T16:00:00+02:00</end-time>
 <annotation><![CDATA[Můžete se vyfotit společně s hercem (mj. Jaffa Master Bra'tac v Stargate SG-1 nebo Gepetto v Once Upon a Time). 
 Fotografie A5 tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit studiovou fotku herce nebo podpis.]]></annotation>
-</programme><programme><pid>1129</pid>
-<author><![CDATA[Festival fantazie "FF"+ Colin Ferguson]]></author>
-<title><![CDATA[Focení a podepisování: Colin Ferguson]]></title>
+</programme><programme><pid>1130</pid>
+<author><![CDATA[Festival fantazie "FF"+ D.Nykl, T.Amendola]]></author>
+<title><![CDATA[Fotky+podpisy: Nykl, Amendola]]></title>
 <program-line><![CDATA[.Extra program FF]]></program-line>
 <type>W</type>
 <length>1h</length>
 <location><![CDATA[Kino - Kino Hlavní sál]]></location>
 <start-time>2013-06-29T22:00:00+02:00</start-time>
 <end-time>2013-06-29T22:00:00+02:00</end-time>
-<annotation><![CDATA[Můžete se vyfotit společně s hercem (mj. šerif Jack Carter v seriálu Eureka). 
-Fotografie tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit studiovou fotku herce nebo podpis.]]></annotation>
-</programme><programme><pid>1130</pid>
-<author><![CDATA[Festival fantazie "FF"+ C.Ferguson, D.Nykl, T.Amendola]]></author>
-<title><![CDATA[Fotky+podpisy: Ferguson, Nykl, Amendola]]></title>
-<program-line><![CDATA[.Extra program FF]]></program-line>
-<type>W</type>
-<length>1h</length>
-<location><![CDATA[Kino - Kino Hlavní sál]]></location>
-<start-time>2013-06-30T22:00:00+02:00</start-time>
-<end-time>2013-06-30T22:00:00+02:00</end-time>
 <annotation><![CDATA[Můžete se vyfotit společně s herci, pouze  jednotlivě! 
 Fotografie tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit studiovou fotku herce nebo podpis.]]></annotation>
 </programme><programme><pid>1131</pid>
@@ -304,7 +394,7 @@ Fotografie tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit pod
 <program-line><![CDATA[Avalcon]]></program-line>
 <type>C +B+++P</type>
 <length>1h</length>
-<location><![CDATA[]]></location>
+<location><![CDATA[KD Junior - KD Místnost 2]]></location>
 <start-time></start-time>
 <end-time></end-time>
 <annotation><![CDATA[Pamatujete na Nově nedělní Volejte řediteli? I my máme. Tradiční a přesto pokaždé překvapivé večerní popovídání s účastníky co den dal a vzal. Co zajímavého se chystá. Vyhlášení soutěží, odpovídání otázek, statistiky, připomínky. Možnost přijít propagovat vlastní výjimečný pořad (po dohodě).]]></annotation>
@@ -334,7 +424,7 @@ Fotografie tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit pod
 <program-line><![CDATA[Avalcon]]></program-line>
 <type>P +B</type>
 <length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<location><![CDATA[]]></location>
 <start-time></start-time>
 <end-time></end-time>
 <annotation><![CDATA[Před rokem jsme představovali projekt nového literárního e-zinu. Kam za ten rok pokročil? Co se na původní koncepci změnilo? A kam dál chce směřovat? Vítáni na besedě jsou jak nadšení čtenáři všech literárních žánrů, tak také mladí (není podmínkou) a nadějní (je podmínkou:-)) autoři.]]></annotation>
@@ -349,107 +439,405 @@ Fotografie tiskneme hned na místě v profi fotolabu. Rovněž si lze koupit pod
 <end-time></end-time>
 <annotation><![CDATA[Máš geniální rukopis v šuplíku a strach jít s kůží na trh? Nebo jsi ho už rozeslal po nakladatelstvích, ale bez odezvy? Co všechno sa dá dělat pro to, aby tvé dílo neskončilo na hromadě zamítnutých výtvorů, se dozvíš od šéfredaktora pražského nakladatelství Gorgona. Varování: moc toho není...]]></annotation>
 </programme><programme><pid>1206</pid>
-<author><![CDATA[Ondřej Páleník "Hawk"+ Martin Macík Caha]]></author>
-<title><![CDATA[O Dračí řád]]></title>
+<author><![CDATA[Míla Linc]]></author>
+<title><![CDATA[Mušketýrem snadno a rychle]]></title>
 <program-line><![CDATA[Avalcon]]></program-line>
-<type>C +B+++W</type>
-<length>2h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<type>P +B</type>
+<length>1h</length>
+<location><![CDATA[]]></location>
 <start-time></start-time>
 <end-time></end-time>
-<annotation><![CDATA[Kdo letos ukořiští literární cenu Dračí řád? A koho sežerou zuřiví porotci? S čím nechodit do literárních soutěží a co má naopak úspěch? Jedinečná možnost poučit se z chyb svých i cizích. A možná přijde i nový sborník!]]></annotation>
+<annotation><![CDATA[Co všechno předchází tomu, když máte napsat dvacátý devátý díl ze série Agent JFK? Jaký byl vojenský život v 17. století? Jak se v té době nadávalo? Kolik nevěstek putovalo s vojskem? A jak to všechno využít pro psaní? Historicko - spisovatelsko - zážitkové vyprávění o třicetileté válce.]]></annotation>
 </programme><programme><pid>1207</pid>
-<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
-<title><![CDATA[Austenovské zmršeniny II.]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
-<type>P</type>
-<length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[Nejen ve filmovém prostředí se občas tvůrci (ne)vyznamenali. Knižní zmršeniny klasických románů a jako přídavek největší filmové špeky. Občas to ani není k smíchu ;)]]></annotation>
-</programme><programme><pid>1208</pid>
-<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
-<title><![CDATA[Potvory v Period dramas II.]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
-<type>P</type>
-<length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[Minulý rok jsme je rozhodně nestihli všechny! Kromě hrdinek psala Austenová s velikou chutí i pěkné mrchy. Encyklopedie proradných potvor pokračuje!]]></annotation>
-</programme><programme><pid>1209</pid>
-<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
-<title><![CDATA[Period dramas facepalm]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
-<type>P</type>
-<length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[Některé pasáže z Austenové jsou opravdu na facku. Některé scény z filmových adaptací našich oblíbených románů jsou ještě výživnější. Pojďme si na ně vzpomenout, zkusíme najít to nejlepší z toho nejděsnějšího. Ochranné pomůcky s sebou, knihy v pevných deskách se mohou hodit.]]></annotation>
-</programme><programme><pid>1210</pid>
-<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
-<title><![CDATA[Praví gentlemani]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
-<type>P</type>
-<length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[Naši nejoblíbenější pánové z dílen slečny Austenové, paní Brontëové a dalších autorek a autorů Period dramas. Hodní, čestní, slušně vychovaní. Aspoň většinou.
-A jako bonus - oblíbené scény na přání!]]></annotation>
-</programme><programme><pid>1211</pid>
-<author><![CDATA[Marcela Holečková "Maril"]]></author>
-<title><![CDATA[Fantasy podepsaná Michael A. Stackpole]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
-<type>P</type>
-<length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[Ne jen Star Wars sérií živ je autor. Zvu vás na výlet Věkem objevů do dob Válek o dračí korunu. A co vás čeká? Přijďte a uvidíte, to je přeci na fantaskních světech nejkrásnější. 
-]]></annotation>
-</programme><programme><pid>1212</pid>
 <author><![CDATA[Vilma Kadlečková "Bramboreena"+ Karolina Francová, Zdeněk Rampas]]></author>
 <title><![CDATA[Mycelium - křest knihy Vilmy Kadlečkové]]></title>
 <program-line><![CDATA[Avalcon]]></program-line>
 <type>C +B</type>
 <length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
-<annotation><![CDATA[Össeané přicházejí! Přinášejí s sebou víru v boha Akkütlixe, Pětici posvátných drog, kult vesmírných Lodí a zálibu v lidských obětech – zatímco osamělý hrdina, který ztratil všechnu naději, jim čelí z posledních sil. Pokud to nepřekazí Církev Akkütlixova, bude tu trailer, kniha a mimozemské houby!]]></annotation>
-</programme><programme><pid>1213</pid>
-<author><![CDATA[Františka Vrbenská "dis"]]></author>
-<title><![CDATA[Trickster – Šprýmař – Badass]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
-<type>P</type>
-<length>2h</length>
 <location><![CDATA[]]></location>
 <start-time></start-time>
 <end-time></end-time>
-<annotation><![CDATA[Loki, Kojot, Opičí král - také Doktor Who, Bart Simpson, Jack Sparrow, Jocker, Tyrion Lannister. Najdou se i drsné šprýmařky... Procházejí věky od jeskynních maleb k blockbusterům. Jsou amorální. Zábavní. Archetypální. Sociopatičtí. Revoltují, hláškují, umírají. A zastiňují kladné protagonisty!]]></annotation>
-</programme><programme><pid>1214</pid>
+<annotation><![CDATA[Össeané přicházejí! Přinášejí s sebou víru v boha Akkütlixe, Pětici posvátných drog, kult vesmírných Lodí a zálibu v lidských obětech – zatímco osamělý hrdina, který ztratil všechnu naději, jim čelí z posledních sil. Pokud to nepřekazí Církev Akkütlixova, bude tu trailer, kniha a mimozemské houby!]]></annotation>
+</programme><programme><pid>1208</pid>
 <author><![CDATA[Jan Nohovec "Arvinej"]]></author>
 <title><![CDATA[Fantasy a sci-fi knižní soutěž]]></title>
 <program-line><![CDATA[Avalcon]]></program-line>
 <type>Q</type>
 <length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<location><![CDATA[]]></location>
 <start-time></start-time>
 <end-time></end-time>
 <annotation><![CDATA[Také jste si vždycky přáli nějak zúročit vědomosti z těch desítek a stovek fantasy a sci-fi knih, které jste načetli? Tahle soutěž je přímo pro vás. No a výhra je jasná: můžete získat zase další knihy :-)]]></annotation>
-</programme><programme><pid>1215</pid>
+</programme><programme><pid>1209</pid>
+<author><![CDATA[ComicsCon Team+ Marco Turini]]></author>
+<title><![CDATA[Marco Turini, setkání s autorem]]></title>
+<program-line><![CDATA[Avalcon]]></program-line>
+<type>B +W</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD ČajoFFna]]></location>
+<start-time>2013-07-06T17:00:00+02:00</start-time>
+<end-time>2013-07-06T17:00:00+02:00</end-time>
+<annotation><![CDATA[Marco Turini, kterému nedávno u nakladatelství RandO vyšla komiksová kniha E.V.A. a artbook, Vám bude k dispozici. Dočkáte se odpovědí na otázky, podepisování i živého kreslení. Nenechte si tuto příležitost ujít!]]></annotation>
+</programme><programme><pid>1219</pid>
 <author><![CDATA[Karolina Francová "Karolina"+ Vilma Kadlečková]]></author>
 <title><![CDATA[Hrdina musí trpět]]></title>
-<program-line><![CDATA[Avalcon]]></program-line>
+<program-line><![CDATA[.To nej z FF]]></program-line>
 <type>P</type>
 <length>1h</length>
-<location><![CDATA[KD Junior - KD Místnost 2]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<location><![CDATA[]]></location>
+<start-time>2013-06-29T13:00:00+02:00</start-time>
+<end-time>2013-06-29T13:00:00+02:00</end-time>
 <annotation><![CDATA[Co nejhoršího se dá literární postavě provést a proč se do toho pouštět? Dvě autorky vyprávějí o svých i cizích krutých činech a plánují další zvěrstva. Kdo netrápí postavu, trápí čtenáře. Podnětné sadistické návrhy z řad publika vítány!]]></annotation>
+</programme><programme><pid>1300</pid>
+<author><![CDATA[FF Film+ Michael Tiddes]]></author>
+<title><![CDATA[Pár nenormálních aktivit]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:26h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-28T23:00:00+02:00</start-time>
+<end-time>2013-06-28T23:00:00+02:00</end-time>
+<annotation><![CDATA[Když se konečně Malcolm rozhodně pověsit staromládenectví na hřebík a dovolí své přítelkyni, aby se k němu nastěhovala, netuší, kdo přivandruje s ní. Po pár podivných událostech se Malcolm s Keishou rozhodnou podivné aktivity natočit a zjistí, že Keishu posedl šílený duch.]]></annotation>
+</programme><programme><pid>1301</pid>
+<author><![CDATA[FF Film+ J.J. Abrams]]></author>
+<title><![CDATA[Star Trek: Do temnoty]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:12h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-29T11:00:00+02:00</start-time>
+<end-time>2013-06-29T11:00:00+02:00</end-time>
+<annotation><![CDATA[Došlo k bezprecedentnímu a devastujícímu útoku na Hvězdnou flotilu (Organizace spojených národů budoucnosti) a posádka Enterprise se nabídne, že dopadne pachatele, záhadného intergalaktického teroristu Johna Harrisona (Benedict Cumberbatch).]]></annotation>
+</programme><programme><pid>1302</pid>
+<author><![CDATA[FF Film+ Richard LaGravenese]]></author>
+<title><![CDATA[Nádherné bytosti]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:03h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-29T17:00:00+02:00</start-time>
+<end-time>2013-06-29T17:00:00+02:00</end-time>
+<annotation><![CDATA[Ethan je životní smolař. Po předčasné matčině smrti de facto přišel i o otce, protože ten se utápí v žalu a syn pro něj přestal existovat. Navíc žije v zapadákově jménem Gatlin County. Zásadní změnu prodělá Ethan díky nové spolužačce, krásné a tajemné černovlásce Leně Duchannesové.]]></annotation>
+</programme><programme><pid>1303</pid>
+<author><![CDATA[FF Film+ Andres Muschietti]]></author>
+<title><![CDATA[Mama]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:40h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-29T23:00:00+02:00</start-time>
+<end-time>2013-06-29T23:00:00+02:00</end-time>
+<annotation><![CDATA[Pět let Lucas vytrvale hledal malé neteře, které po násilné matčině smrti zmizely i s otcem neznámo kam. Jeho pátrání, hraničící s posedlostí, narušuje i vztah s přítelkyní Annabel, ale Lucas se nakonec dočká satisfakce. Obě dívky se podaří najít v opuštěné chatě stojící uprostřed hlubokých lesů...]]></annotation>
+</programme><programme><pid>1304</pid>
+<author><![CDATA[FF Film+ Shane Black]]></author>
+<title><![CDATA[Iron Man 3]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:09h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-30T11:00:00+02:00</start-time>
+<end-time>2013-06-30T11:00:00+02:00</end-time>
+<annotation><![CDATA[Tony Stark / Iron Man je nucen čelit nepříteli, jehož dosah nezná hranic. Když je rukou nepřítele připraven o vše, čeho si v životě cení, vydá se Stark na pouť s cílem nalézt toho, kdo je za jeho utrpení zodpovědný. Na každém jejím kroku bude nucen prokázat své odhodlání a sílu vůle.]]></annotation>
+</programme><programme><pid>1305</pid>
+<author><![CDATA[FF Film+ Peter Jackson]]></author>
+<title><![CDATA[Hobit: Neočekávaná cesta]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:49h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-30T17:00:00+02:00</start-time>
+<end-time>2013-06-30T17:00:00+02:00</end-time>
+<annotation><![CDATA[Hobita Bilba nečekaně osloví čaroděj Gandalf Šedý, díky kterému se ocitne ve společnosti třinácti trpaslíků a na cestě za pokladem. Ačkoliv cíl jejich výpravy - Osamělá hora, leží na Východě, musí projít nejdříve jeskynním systémem, kde Bilbo potká někoho, kdo mu navždy změní život…]]></annotation>
+</programme><programme><pid>1306</pid>
+<author><![CDATA[FF Film+ Ole Bornedal]]></author>
+<title><![CDATA[Kletba z temnot]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:32h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-06-30T23:00:00+02:00</start-time>
+<end-time>2013-06-30T23:00:00+02:00</end-time>
+<annotation><![CDATA[Film vypráví příběh bývalých manželů Clyda a Stephanie a jejich dvou malých dcer. Jednoho dne si mladší dcera Em koupí na bleším trhu tajemnou skříňku. Od té doby se začnou s děvčátkem dít zvláštní věci. Em je skříňkou naprosto posedlá, nosí ji všude s sebou, je nervózní a chová se agresivně.]]></annotation>
+</programme><programme><pid>1307</pid>
+<author><![CDATA[FF Film+ Ji-un Kim]]></author>
+<title><![CDATA[Konečná]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:47h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-01T11:00:00+02:00</start-time>
+<end-time>2013-07-01T11:00:00+02:00</end-time>
+<annotation><![CDATA[Šerif Owens (Schwarzenegger) pracoval u losangeleské policie, ale po jedné zpackané akci skončil jako šerif ospalého městečka. Šéfovat bandě neschopných policistů v poklidné zašívárně, kde je nejvážnějším zločinem šťourání se v nose, není žádné umění. Dny plné nudy utne až telefonát agenta FBI...]]></annotation>
+</programme><programme><pid>1308</pid>
+<author><![CDATA[FF Film+ Genndy Tartakovsky]]></author>
+<title><![CDATA[Hotel Transylvánie]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:31h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-01T14:00:00+02:00</start-time>
+<end-time>2013-07-01T14:00:00+02:00</end-time>
+<annotation><![CDATA[Málokdo o Draculovi ví, že není jen princem temnoty, ale také vlastníkem stylového Hotelu Transylvánie - luxusního pětihvězdičkového resortu, kde se mohou všechna monstra světa dostat daleko od všech a být jen sami sebou v bezpečném prostředí bez lidí.]]></annotation>
+</programme><programme><pid>1309</pid>
+<author><![CDATA[FF Film+ Sam Raimi]]></author>
+<title><![CDATA[Mocný vládce Oz]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:05h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-01T17:00:00+02:00</start-time>
+<end-time>2013-07-01T17:00:00+02:00</end-time>
+<annotation><![CDATA[Když se Oscar, druhořadý cirkusový kouzelník s pochybnou morálkou, dostane z prašného Kansasu do životem pulsující Země Oz, myslí si, že vyhrál v loterii. Sláva a bohatství jsou jeho, dokud nepotká tři čarodějky. Oscar se nechtěně zaplete do velikých problémů, kterým čelí země Oz a její obyvatelé.]]></annotation>
+</programme><programme><pid>1310</pid>
+<author><![CDATA[FF Film+ Joseph Kosinski]]></author>
+<title><![CDATA[Nevědomí]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:04h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-01T20:00:00+02:00</start-time>
+<end-time>2013-07-01T20:00:00+02:00</end-time>
+<annotation><![CDATA[Jacka, kterého na Zemi baví především hledání artefaktů zanikající lidské civilizace, vyvedou z každodenní rutiny dvě události. Tou první je nouzové přistání vesmírné lodi, jejíž jediná členka posádky tvrdí, že ji s Jackem pojí společná minulost, aniž pro to existuje racionální vysvětlení.]]></annotation>
+</programme><programme><pid>1311</pid>
+<author><![CDATA[FF Film+ Bill Condon]]></author>
+<title><![CDATA[Twilight sága: Rozbřesk - 2. část]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:55h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-01T23:00:00+02:00</start-time>
+<end-time>2013-07-01T23:00:00+02:00</end-time>
+<annotation><![CDATA[Novorozená upírka Bella a její manžel Edward mohou být konečně navždy spolu a šťastní, ale příchod jejich pozoruhodné dcery Renesmee uvede do pohybu nebezpečný řetězec událostí, které pro ně mohou skončit katastrofou.]]></annotation>
+</programme><programme><pid>1312</pid>
+<author><![CDATA[FF Film+ Jon Chu]]></author>
+<title><![CDATA[G. I. Joe: Odveta]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:50h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-02T11:00:00+02:00</start-time>
+<end-time>2013-07-02T11:00:00+02:00</end-time>
+<annotation><![CDATA[Modrá planeta se ocitla na pokraji zkázy vinou organizace Cobra, která má s G. I. Joe nevyřízené účty. Jak moc leží jejím vůdcům v žaludku, se ukáže ve chvíli, kdy lstí ovládnou Bílý dům a z Oválné pracovny označí příslušníky této jednotky za vlastizrádce a zahájí jejich řízenou likvidaci.]]></annotation>
+</programme><programme><pid>1313</pid>
+<author><![CDATA[FF Film+ Wayne Thornley]]></author>
+<title><![CDATA[Zambezia]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:23h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-02T14:00:00+02:00</start-time>
+<end-time>2013-07-02T14:00:00+02:00</end-time>
+<annotation><![CDATA[Mladý sokol Kai se přes zákazy svého otce vydá na dobrodružnou výpravu do bájného ptačího města Zambezia, aby se stal členem prestižní letky chránící město před útoky nepřátel. Jeho otec se ho snaží zadržet, ale je lapen podlým ještěrem, který kuje pikle na přepadení Zambezie.]]></annotation>
+</programme><programme><pid>1314</pid>
+<author><![CDATA[FF Film+ Bryan Singer]]></author>
+<title><![CDATA[Jack a obři]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:54h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-02T17:00:00+02:00</start-time>
+<end-time>2013-07-02T17:00:00+02:00</end-time>
+<annotation><![CDATA[Když mladý farmářský dělník náhodou otevře bránu dělící náš svět od hrůzostrašných obrů, vzplane nanovo starodávná válka. Obři po vtrhnou na Zemi a snaží získat zpět území, o která v minulosti přišli. Mladý Jack se jim v tom snaží zabránit a je tak přinucen vybojovat nejtěžší bitvu svého života.]]></annotation>
+</programme><programme><pid>1315</pid>
+<author><![CDATA[FF Film+ Scott Charles Stewart]]></author>
+<title><![CDATA[Temné nebe]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:37h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-02T23:00:00+02:00</start-time>
+<end-time>2013-07-02T23:00:00+02:00</end-time>
+<annotation><![CDATA[Poklidný předměstský život rodiny Barretových se začne pořádně otřásat v základech. V jejich domě se stane série nevysvětlitelných událostí a oni brzy zjišťují, že je pronásleduje smrtící a děsivá síla…]]></annotation>
+</programme><programme><pid>1316</pid>
+<author><![CDATA[FF Film+ Andrew Niccol]]></author>
+<title><![CDATA[Hostitel]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:05h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-03T11:00:00+02:00</start-time>
+<end-time>2013-07-03T11:00:00+02:00</end-time>
+<annotation><![CDATA[Po úspěšné invazi teď Zemi kontrolují neviditelní mimozemšťané. Takzvané Duše přebírají kontrolu nad myslí člověka, používají jeho tělo a zdánlivě beze změny žijí jejich životy. Každý člověk se stane pro Duši pouhou schránkou a hostitelem.]]></annotation>
+</programme><programme><pid>1317</pid>
+<author><![CDATA[FF Film+ Chris Sanders, Kirk De Micco]]></author>
+<title><![CDATA[Croodsovi]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:39h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-03T14:00:00+02:00</start-time>
+<end-time>2013-07-03T14:00:00+02:00</end-time>
+<annotation><![CDATA[Příběh první pravěké rodiny na světě, která se jmenuje Croodsovi. Taťka Grug miluje a chrání svou rodinu. Řídí se svéráznou filozofií pro přežití „Strach je dobrý, změna špatná“, a drží se jí až do chvíle, kdy dojde k zničení jejich rodinné jeskyně, kde doposud spokojeně bydleli.]]></annotation>
+</programme><programme><pid>1318</pid>
+<author><![CDATA[FF Film+ Anubhav Sinha]]></author>
+<title><![CDATA[Ra.One]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:36h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-03T17:00:00+02:00</start-time>
+<end-time>2013-07-03T17:00:00+02:00</end-time>
+<annotation><![CDATA[Sci-fi snímek Ra.One vypráví příběh designéra her, který vyvine novou hru založenou na snímání pohybu. Hlavním záporákem v této gamesce je právě Ra.One, který je mnohem silnější a mocnější než její protagonista G.One.]]></annotation>
+</programme><programme><pid>1319</pid>
+<author><![CDATA[FF Film+ Fede Alvarez]]></author>
+<title><![CDATA[Lesní duch]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:31h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-03T23:00:00+02:00</start-time>
+<end-time>2013-07-03T23:00:00+02:00</end-time>
+<annotation><![CDATA[Mia je mladá dívka, jejíž život je prostoupený zklamáním a závislostmi, požádá svého bratra Davida, jeho přítelkyni Natalie a přátele z dětských let Olivii a Erika, aby se společně s ní vydali do rodinné chaty v lesích, kde by jí pomohli vypořádat se s démony závislosti jednou provždy.]]></annotation>
+</programme><programme><pid>1320</pid>
+<author><![CDATA[FF Film+ Tom Tykwer, Lana Wachowski, Andy Wachowski]]></author>
+<title><![CDATA[Atkas mraků]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:52h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-04T11:00:00+02:00</start-time>
+<end-time>2013-07-04T11:00:00+02:00</end-time>
+<annotation><![CDATA[Filmová adaptace románu Davida Mitchella vypráví šest žánrově odlišných příběhů, které se odehrávají v různých časech a na různých místech od začátku 19. století až po postapokalytickou budoucnost.]]></annotation>
+</programme><programme><pid>1321</pid>
+<author><![CDATA[FF Film+ Enrique Gato]]></author>
+<title><![CDATA[Neuvěřitelná dobrodružství Tada Stonese]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:30h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-04T14:00:00+02:00</start-time>
+<end-time>2013-07-04T14:00:00+02:00</end-time>
+<annotation><![CDATA[Tad, snílek pracující na stavbě, je díky záměně za slavného archeologa poslán na expedici do Peru. S pomocí Jeffa - svého věrného psa, neohrožené archeoložky, němého papouška a podvodníčka, se pokusí zachránit bájné Ztracené město Inků před zlou skupinou lovců pokladů.]]></annotation>
+</programme><programme><pid>1322</pid>
+<author><![CDATA[FF Film+ J.J. Abrams]]></author>
+<title><![CDATA[Star Trek]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:07h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-04T17:00:00+02:00</start-time>
+<end-time>2013-07-04T17:00:00+02:00</end-time>
+<annotation><![CDATA[Příběh pojednává o první výpravě mladé posádky na palubě hvězdné lodi U.S.S. Enterprise. Jejich cestu doprovází spousta akce, humoru a vesmírného nebezpečenství. Nováčci musejí nalézt způsob, jak zastavit padoucha, jehož honba za pomstou ohrožuje celé lidstvo.]]></annotation>
+</programme><programme><pid>1323</pid>
+<author><![CDATA[FF Film+ Zack Snyder]]></author>
+<title><![CDATA[Muž z oceli]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:23h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-04T20:00:00+02:00</start-time>
+<end-time>2013-07-04T20:00:00+02:00</end-time>
+<annotation><![CDATA[Mladý chlapec zjistí, že má mimořádné schopnosti a že není z této planety. Jako mladý muž se vydá na cestu za zjištěním, odkud pochází a s jakým záměrem byl vyslán na Zemi. Ale hrdina, který má zachránit svět před zničením a stát se symbolem naděje pro celé lidstvo, se v něm teprve musí objevit.]]></annotation>
+</programme><programme><pid>1324</pid>
+<author><![CDATA[FF Film+ Franck Khalfoun]]></author>
+<title><![CDATA[Maniak]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:29h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-04T23:00:00+02:00</start-time>
+<end-time>2013-07-04T23:00:00+02:00</end-time>
+<annotation><![CDATA[Maniak je Jackem Rozparovačem 21. století odehrávající se v současném Los Angeles. Maniak je novým zpracováním kultovního filmu, který je mnohými označován za nejlepší thriller všech dob - intimní, obrazově odvážný, psychologicky komplexní a hluboce děsivý výlet do noční můry vraha a jeho obětí.]]></annotation>
+</programme><programme><pid>1325</pid>
+<author><![CDATA[FF Film+ Tommy Wirkola]]></author>
+<title><![CDATA[Jeníček a Mařenka: Lovci čarodějnic]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:23h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-05T11:00:00+02:00</start-time>
+<end-time>2013-07-05T11:00:00+02:00</end-time>
+<annotation><![CDATA[Ocitáme se v typickém středověkém městečku, které sužují obvyklé dobové problémy, včetně únosů místních dětí, jež prý mají na svědomí čarodějnice obývající okolní hluboké lesy. Starosta proto pozve na záchrannou misi dvě celebrity, legendární lovce čarodějnic Jeníčka a Mařenku.]]></annotation>
+</programme><programme><pid>1326</pid>
+<author><![CDATA[FF Film+ Tim Burton]]></author>
+<title><![CDATA[Frankenweenie: Domácí mazlíček]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:27h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-05T14:00:00+02:00</start-time>
+<end-time>2013-07-05T14:00:00+02:00</end-time>
+<annotation><![CDATA[Frankenweenie: Domácí mazlíček je dojemným příběhem chlapce a jeho psa. Když mladý Victor nečekaně přijde o svého milovaného psa Sparkyho, povolá na pomoc vědu a svého nejlepšího přítele přivede znovu k životu – jen s několika drobnými změnami.]]></annotation>
+</programme><programme><pid>1327</pid>
+<author><![CDATA[FF Film+ J.J. Abrams]]></author>
+<title><![CDATA[Star Trek: Do temnoty]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>02:12h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-05T17:00:00+02:00</start-time>
+<end-time>2013-07-05T17:00:00+02:00</end-time>
+<annotation><![CDATA[Došlo k bezprecedentnímu a devastujícímu útoku na Hvězdnou flotilu (Organizace spojených národů budoucnosti) a posádka Enterprise se nabídne, že dopadne pachatele, záhadného intergalaktického teroristu Johna Harrisona (Benedict Cumberbatch).]]></annotation>
+</programme><programme><pid>1328</pid>
+<author><![CDATA[FF Film+ Scott Derrickson]]></author>
+<title><![CDATA[Sinister]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:40h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-05T23:00:00+02:00</start-time>
+<end-time>2013-07-05T23:00:00+02:00</end-time>
+<annotation><![CDATA[Ellison, autor detektivních románů, objeví na půdě svého domu staré filmové pásy, související se záhadnými vraždami, jež se tu kdysi staly. Pátráním po vrahovi však zkříží cestu celé své rodiny s neznámou nadpřirozenou bytostí a uvrhne ji tak do obrovského nebezpečí.]]></annotation>
+</programme><programme><pid>1329</pid>
+<author><![CDATA[FF Film+ Rian Johnson]]></author>
+<title><![CDATA[Looper]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:58h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-06T11:00:00+02:00</start-time>
+<end-time>2013-07-06T11:00:00+02:00</end-time>
+<annotation><![CDATA[Loopeři jsou nájemní zabijáci, kteří pracují pro zločineckou organizaci. Jejich úkol je tradiční: osoby, které jsou pro sdružení nějakým způsobem nepohodlné, zastřelí a zbaví se těla. Odměnu za vykonanou práci pak najdou přímo u své oběti. A za svou krvavou práci jsou placeni opravdu velice dobře.]]></annotation>
+</programme><programme><pid>1330</pid>
+<author><![CDATA[FF Film+ Rich Moore]]></author>
+<title><![CDATA[Raubíř Ralf]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:34h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-06T14:00:00+02:00</start-time>
+<end-time>2013-07-06T14:00:00+02:00</end-time>
+<annotation><![CDATA[Ralph touží po tom, aby byl milován tak, jako Good Guy jménem Fix-It Felix z jeho hry. Problém je v tom, že nikdo nemiluje Bad Guye. Ale oni milují hrdiny… takže když přichází moderní hra ve stylu kdo dřív vystřelí, kde se objeví Calhoun, Ralph to vidí jako příležitost k hrdinství a štěstí.]]></annotation>
+</programme><programme><pid>1331</pid>
+<author><![CDATA[Festival fantazie "FF"+ iShorts]]></author>
+<title><![CDATA[Pásmo krátkých SF&F filmů]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:52h</length>
+<location><![CDATA[Kino - Kino Hlavní sál]]></location>
+<start-time>2013-07-07T10:00:00+02:00</start-time>
+<end-time>2013-07-07T10:00:00+02:00</end-time>
+<annotation><![CDATA[Sci-fi a horor jsou ve většině případů doménou velkých studií a velkých peněz. Jak se k těmto žánrům staví mladí tvůrci? S vervou a nadšením, jak uvidíte v pásmu krátkých filmů, které jsou narvané dalekými světy, neznámými tvory, ale taky děsem a hlavně fantazií!  I Am Bigger And Better, Attack Of The Brainsucker, Skeletoni, Bobby Yeah, The Secret Number, Play Dead]]></annotation>
+</programme><programme><pid>1332</pid>
+<author><![CDATA[FF Film+ Renny Harlin]]></author>
+<title><![CDATA[Záhada hory mrtvých]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:40h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-06T23:00:00+02:00</start-time>
+<end-time>2013-07-06T23:00:00+02:00</end-time>
+<annotation><![CDATA[Film je inspirovaný skutečnými událostmi, které se odehrály v roce 1959 na Hoře mrtvých v severním Uralu, kdy přišlo nevysvětlitelným způsobem o život devět ruských studentů. Jejich těla byla nalezena jen ve spodním prádle a jedné z dívek chyběl jazyk.]]></annotation>
+</programme><programme><pid>1333</pid>
+<author><![CDATA[FF Film+ Juan Diego Solanas]]></author>
+<title><![CDATA[Paralelní světy]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:47h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-06T17:00:00+02:00</start-time>
+<end-time>2013-07-06T17:00:00+02:00</end-time>
+<annotation><![CDATA[Adam je obyčejný kluk žijící v neobyčejné realitě. Vede skromný život a stále myslí na dívku, kterou kdysi potkal. Eva však pochází ze zcela jiného světa, ze světa naruby, který je přímo nad tím Adamovým. Jednoho dne zahlédne Adam dospělou Evu v televizi a už ho nic nezastaví, aby ji získal zpět.]]></annotation>
+</programme><programme><pid>1334</pid>
+<author><![CDATA[FF Film+ Malcolm D. Lee]]></author>
+<title><![CDATA[Scary Movie 5]]></title>
+<program-line><![CDATA[FF filmy]]></program-line>
+<type>F</type>
+<length>01:26h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-07T13:00:00+02:00</start-time>
+<end-time>2013-07-07T13:00:00+02:00</end-time>
+<annotation><![CDATA[Hlavním terčem Scary Movie 5 jsou úspěšné „dokumentární" horory série Paranormal Activity. Mladým manželům, Danovi a Jody, se narodí první dítě, jenže místo aby se radovali z novorozence, musí se vypořádávat s narůstajícím počtem nadpřirozených jevů.]]></annotation>
 </programme><programme><pid>1600</pid>
 <author><![CDATA[Klasikon Team "http://klasikon.tleilax.cz/"]]></author>
 <title><![CDATA[Zahájení Klasikonu 2013]]></title>
@@ -850,6 +1238,16 @@ A jako bonus - oblíbené scény na přání!]]></annotation>
 <start-time>2013-07-01T09:00:00+02:00</start-time>
 <end-time>2013-07-01T09:00:00+02:00</end-time>
 <annotation><![CDATA[Téměř kultovní pořad předrevoluční československé televize. Populárně naučná série o záhadách vesmíru a fyziky, uváděná Jiřím Grygarem a doprovázená ilustracemi Káji Saudka.]]></annotation>
+</programme><programme><pid>1640</pid>
+<author><![CDATA[Václav Pravda "Kritizátor"]]></author>
+<title><![CDATA[Vzpomínky na Nexus]]></title>
+<program-line><![CDATA[Klasikon]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Místnost 1]]></location>
+<start-time>2013-07-01T17:00:00+02:00</start-time>
+<end-time>2013-07-01T17:00:00+02:00</end-time>
+<annotation><![CDATA[Byl jsem u natáčení česko-britsko-španělského sci-fi filmu Nexus. Byl i důvodem, proč jsem začal jezdit na cony. Zavzpomínám na zákulisí filmu a na výrobu plastikových slepovacích modelů podle něj.]]></annotation>
 </programme><programme><pid>1701</pid>
 <author><![CDATA[Lukáš Kratochvíl "LukArcher"]]></author>
 <title><![CDATA[Studentské a amatérské filmy I.]]></title>
@@ -1160,6 +1558,16 @@ A jako bonus - oblíbené scény na přání!]]></annotation>
 <start-time>2013-07-04T20:00:00+02:00</start-time>
 <end-time>2013-07-04T20:00:00+02:00</end-time>
 <annotation><![CDATA[Náročný úkol stál před režisérem D. F., pověřeným k adaptaci komplexní kriminálky Muži, kteří nenávidí ženy. Příběh otiskl na plátno věrně, se smyslem pro vyhrocené detaily i pro klasické detektivní vláčení diváků napříč drsným pátráním. A zase ukázal své řemelsné mistrovství na poli kriminálek.]]></annotation>
+</programme><programme><pid>1732</pid>
+<author><![CDATA[Tomáš Volný "Wizardy"+ Helena "Nigerfur" Pražská]]></author>
+<title><![CDATA[Channel Awesome: Nostalgia Attack!]]></title>
+<program-line><![CDATA[FanFest]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[]]></location>
+<start-time>2013-07-04T10:00:00+02:00</start-time>
+<end-time>2013-07-04T10:00:00+02:00</end-time>
+<annotation><![CDATA[Doug Walker je Nostalgia Critic a jeho úkolem je pamatovat si všechno za Vás. Tedy, především filmy nevalné kvality. Na to ostatní má své kolegy z Channel Awesome, kteří si berou na starosti komiksy, seriály, hudbu, hry, anime...zkrátka všechno to, po čem Vaše nostalgická duše touží!]]></annotation>
 </programme><programme><pid>1918</pid>
 <author><![CDATA[Josef Kotlaba "Kapitán Jack Harkness"]]></author>
 <title><![CDATA[Doom]]></title>
@@ -1271,7 +1679,7 @@ Skvělá zábava pro více hráčů, tak si přijďte zahrát!]]></annotation>
 <location><![CDATA[]]></location>
 <start-time>2013-07-02T17:00:00+02:00</start-time>
 <end-time>2013-07-02T17:00:00+02:00</end-time>
-<annotation><![CDATA[Povídání o tom, jak se mi poštěstilo mluvit s nejhodnější a nejúžasnější herečkou na světě tj. Gabrielle Christian, kterou můžete znát z lesbických rolí v South of Nowhere, Girltrash a Youre Cordially Uninvited.]]></annotation>
+<annotation><![CDATA[Jak se mi poštěstilo mluvit s nejhodnější a nejúžasnější herečkou na světě tj. Gabrielle Christian, kterou můžete znát z lesbických rolí v South of Nowhere či Girltrash.]]></annotation>
 </programme><programme><pid>2003</pid>
 <author><![CDATA[Petr Říhánek "petrSF"]]></author>
 <title><![CDATA[Humor v lesbické fanfiction]]></title>
@@ -1281,7 +1689,7 @@ Skvělá zábava pro více hráčů, tak si přijďte zahrát!]]></annotation>
 <location><![CDATA[]]></location>
 <start-time>2013-07-04T21:00:00+02:00</start-time>
 <end-time>2013-07-04T21:00:00+02:00</end-time>
-<annotation><![CDATA[Nejen seriály samotnými je živ seriálový fanoušek, a proto si po čase opět představíme vybrané kousky z toho nejlepšího, co přinesla fanouškovská literární tvorba s lesbickou tématikou a tentokrát se zaměříme čistě na humor :-)]]></annotation>
+<annotation><![CDATA[Nejen seriály samotnými je živ seriálový fanoušek, a proto si po čase opět představíme vybrané kousky z toho nejlepšího, co přinesla fanouškovská literární tvorba s lesbickou tématikou. Tentokrát se zaměříme čistě na humor :-)]]></annotation>
 </programme><programme><pid>2004</pid>
 <author><![CDATA[Kristýna Routnerová "Kolikokoli"+ Ďasík, MartyCZ]]></author>
 <title><![CDATA[Jak dobře znáte TBBT?]]></title>
@@ -1480,8 +1888,8 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <type>Q</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-06-29T16:00:00+02:00</start-time>
-<end-time>2013-06-29T16:00:00+02:00</end-time>
+<start-time>2013-06-29T13:00:00+02:00</start-time>
+<end-time>2013-06-29T13:00:00+02:00</end-time>
 <annotation><![CDATA[Jak dobře znáte znělky seriálů, co měly svou premiéru v minulém století? Přijďte si zasoutěžit a ověřit své znalosti. Čeká vás zcela nová várka televizních legend i zapadlejších kousků.]]></annotation>
 </programme><programme><pid>2027</pid>
 <author><![CDATA[Martin Handl "Marty McFly"]]></author>
@@ -1670,8 +2078,8 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-06-29T14:00:00+02:00</start-time>
-<end-time>2013-06-29T14:00:00+02:00</end-time>
+<start-time>2013-06-29T15:00:00+02:00</start-time>
+<end-time>2013-06-29T15:00:00+02:00</end-time>
 <annotation><![CDATA[Představení dvou předních vloggerů Youtube Johna a Hanka Greena, kteří za posledních 5 let vytvořili přes 950 videí a vytvořili kolem sebe více než miliónovou armádu Nerdfighterů. Zjistíte co je worldsuck, proč svět potřebuje slony velikosti štěňat, proč DFTBA a mnoho více.]]></annotation>
 </programme><programme><pid>2048</pid>
 <author><![CDATA[Mikuláš Poul "miki"]]></author>
@@ -1752,7 +2160,7 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
 <start-time>2013-07-01T15:00:00+02:00</start-time>
 <end-time>2013-07-01T15:00:00+02:00</end-time>
-<annotation><![CDATA[Režisér Michael Bay natočil tři celovečerní filmy Transformers a nyní se pouští do čtvrtého filmu. Pojďme si tyto tří díly zrekapitulovat a povědět si něco o chystaném čtvrtém pokračování.]]></annotation>
+<annotation><![CDATA[Režisér Michael Bay natočil tři celovečerní filmy Transformers a nyní se pouští do čtvrtého filmu. Pojďme si tyto tři díly zrekapitulovat a povědět si něco o chystaném čtvrtém pokračování.]]></annotation>
 </programme><programme><pid>2056</pid>
 <author><![CDATA[Lucie Muraňská "Lusa"+ Sachmet]]></author>
 <title><![CDATA[Transformers: Prime]]></title>
@@ -1830,8 +2238,8 @@ a probíhá superhrdinská terapie, tak už nehledejte. Právě jste ho našli.]
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-06-29T15:00:00+02:00</start-time>
-<end-time>2013-06-29T15:00:00+02:00</end-time>
+<start-time>2013-06-29T16:00:00+02:00</start-time>
+<end-time>2013-06-29T16:00:00+02:00</end-time>
 <annotation><![CDATA[Po úspěchu našeho pekla české populární hudby, jsem se rozhodli expandovat do 
 zahraničí. Ve spolupráci s východními bratry a sestrami Vám přinášíme to nejhorší
 co zplodila populárního hudba. A rozhodnete právě Vy!
@@ -1946,8 +2354,8 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <type>Q</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-07-01T23:00:00+02:00</start-time>
-<end-time>2013-07-01T23:00:00+02:00</end-time>
+<start-time>2013-07-06T22:00:00+02:00</start-time>
+<end-time>2013-07-06T22:00:00+02:00</end-time>
 <annotation><![CDATA[Strážci jazykové kultury do boje! Co je lepšího než dobré pití a dokazování si své intelektuální nadřazenosti nad nehodnými? Provozovat tuto bohulibou aktivitu spolu s dalšími přáteli pravopisu. Odhalte všechny hrubky a nepravosti v promítaném díle a dokažte, že jste hodni titulu FF Grammar Nazi!]]></annotation>
 </programme><programme><pid>2076</pid>
 <author><![CDATA[Mikuláš Poul "miki"]]></author>
@@ -1966,8 +2374,8 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <type>P +F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-07-05T15:00:00+02:00</start-time>
-<end-time>2013-07-05T15:00:00+02:00</end-time>
+<start-time>2013-07-02T16:00:00+02:00</start-time>
+<end-time>2013-07-02T16:00:00+02:00</end-time>
 <annotation><![CDATA[Jako budoucí pedagog musím hledět i na alternativní možnosti vzdělávání. YouTube je jedním z jeho prostředků - literatura, dějepis, biologie, ale i o mnohém dalším se dá prostřednictvím tohoto videoportálu poučit. Kde hledat a co je kvalitní? Přijďte to zjistit!]]></annotation>
 </programme><programme><pid>2078</pid>
 <author><![CDATA[Daniel Hanták "Pan Dan"+ Aaaja]]></author>
@@ -1996,8 +2404,8 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <type>P +F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-07-02T16:00:00+02:00</start-time>
-<end-time>2013-07-02T16:00:00+02:00</end-time>
+<start-time>2013-07-05T15:00:00+02:00</start-time>
+<end-time>2013-07-05T15:00:00+02:00</end-time>
 <annotation><![CDATA[Hrané seriály z produkce DisneyXD stojí za dvě věci (vedoucí linie snad promine), ale s těmi kreslenými je to jiná. Přednáška o seriálu tak hravě praštěném, že vás prostě musí chytnout. Představení postav, principů, ale i důvodů, proč tohle sledovat v dabingu.]]></annotation>
 </programme><programme><pid>2081</pid>
 <author><![CDATA[Daniel Hanták "Pan Dan"+ SeriesCon Team]]></author>
@@ -2026,8 +2434,8 @@ s Hitlerem nebo Stevea Jobse s Billem Gatesem se dovíte jen v této přednášc
 <type>P +F</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Malý sál]]></location>
-<start-time>2013-07-06T22:00:00+02:00</start-time>
-<end-time>2013-07-06T22:00:00+02:00</end-time>
+<start-time>2013-07-01T23:00:00+02:00</start-time>
+<end-time>2013-07-01T23:00:00+02:00</end-time>
 <annotation><![CDATA[Napadlo vás, jak by to dopadlo, kdyby se celý ansámbl Sezame, otevři se sjel velkým množstvím nelegálních drog a zařadil do své dětské show násilí, sex a rasismus? Tvůrci Wonder Showzen vám to předvedou v praxi. Trestuhodně opomíjená satira ostrá jako nůž se vám představí v celé své kráse.]]></annotation>
 </programme><programme><pid>2085</pid>
 <author><![CDATA[SeriesCon Team+ Bates Motel]]></author>
@@ -3066,7 +3474,7 @@ Většinou se jedná o novinky z let 2010 a 2011, doplněné o nejúspěšnějš
 <annotation><![CDATA[Přijďte si vybarvit některou ze svých oblíbených scén, postav, či lodí, nebo nakreslit svůj vlastní výtvor. Odměna vás nemine.]]></annotation>
 </programme><programme><pid>2419</pid>
 <author><![CDATA[Tereza Zikmundová Kovanicová "Tess"+ Sammael]]></author>
-<title><![CDATA[Kostýmové organizace - plusy a mínusy]]></title>
+<title><![CDATA[Kostýmy a organizace - plusy a mínusy]]></title>
 <program-line><![CDATA[Star Wars]]></program-line>
 <type>B</type>
 <length>1h</length>
@@ -3709,7 +4117,7 @@ Letos s novou technikou pro navození lucidních snů!]]></annotation>
 <title><![CDATA[Bill Hicks - Neúprosný]]></title>
 <program-line><![CDATA[FutureCon & MaelströM]]></program-line>
 <type>F +B</type>
-<length>1h</length>
+<length>2h</length>
 <location><![CDATA[]]></location>
 <start-time>2013-07-03T23:00:00+02:00</start-time>
 <end-time>2013-07-03T23:00:00+02:00</end-time>
@@ -3719,10 +4127,10 @@ Letos s novou technikou pro navození lucidních snů!]]></annotation>
 <title><![CDATA[Bill Hicks - Zjevení]]></title>
 <program-line><![CDATA[FutureCon & MaelströM]]></program-line>
 <type>F +B</type>
-<length>1h</length>
+<length>2h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-05T23:00:00+02:00</start-time>
-<end-time>2013-07-05T23:00:00+02:00</end-time>
+<start-time>2013-07-05T22:00:00+02:00</start-time>
+<end-time>2013-07-05T22:00:00+02:00</end-time>
 <annotation><![CDATA[Poprvé na FF můžete vidět legendární vystoupení amerického komika Billa Hickse z roku 1992 v londýnském divadle Dominion, a to s originálním překladem. Jako obvykle, Billův humor je mládeži nepřístupný a slabším a prudérním povahám nebezpečný. Přijďte :)]]></annotation>
 </programme><programme><pid>3130</pid>
 <author><![CDATA[Tomáš Čapek "Charmer"]]></author>
@@ -4198,6 +4606,16 @@ můžete vytvořit nekonečně mnoho svých vlastních originálních Dobblů.]]
 <start-time>2013-07-06T22:00:00+02:00</start-time>
 <end-time>2013-07-06T22:00:00+02:00</end-time>
 <annotation><![CDATA[Banky, obchody, ulice, dálnice, auta, telefony, helmy - tam všude můžeme vidět kamery. Poznáte se na záznamu? Kam se posouvá kamerová technologie? Jak nejlépe sledovat sousedy? Dá se sledování vyhnout? A je to vůbec k něčemu dobré?]]></annotation>
+</programme><programme><pid>3180</pid>
+<author><![CDATA[Michal Hruška "Rico"]]></author>
+<title><![CDATA[Veselé príhody z dobývania vesmíru]]></title>
+<program-line><![CDATA[FutureCon & MaelströM]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
+<start-time>2013-07-05T21:00:00+02:00</start-time>
+<end-time>2013-07-05T21:00:00+02:00</end-time>
+<annotation><![CDATA[Už vyše polstoročie sa ľudstvo vydáva za hranice atmosféry. Sú to stovky misií a zákonite počas nich muselo prísť k “neštandardným” situáciám. A keďže história dobývania vesmíru je plná týchto zaujímavých omylov, mylných predpokladov a humorných príhod, rád by som sa s vami o ne podelil.]]></annotation>
 </programme><programme><pid>3201</pid>
 <author><![CDATA[SoundtraCon Team]]></author>
 <title><![CDATA[Zahájení SoundtraConu 2013]]></title>
@@ -4527,7 +4945,7 @@ můžete vytvořit nekonečně mnoho svých vlastních originálních Dobblů.]]
 <location><![CDATA[KD Junior - KD Místnost 2]]></location>
 <start-time>2013-06-29T23:00:00+02:00</start-time>
 <end-time>2013-06-29T23:00:00+02:00</end-time>
-<annotation><![CDATA[Videozáznam galakoncertu, který proběhl v roce 2011 na vídeňském festivalu filmové hudby Hollywood in Vienna. Speciálním hostem večera byl filmový skladatel Alan Silvetri (Návrat do budoucnosti, Forest Gump, apod.), jehož tvorbě byla věnována větší část koncertu. Ukázková projekce k přednášce.]]></annotation>
+<annotation><![CDATA[Videozáznam galakoncertu, který proběhl v roce 2011 na vídeňském festivalu filmové hudby Hollywood in Vienna. Speciálním hostem večera byl filmový skladatel Alan Silvestri (Návrat do budoucnosti, Forrest Gump, apod.), jehož tvorbě byla věnována větší část koncertu. Ukázková projekce k přednášce.]]></annotation>
 </programme><programme><pid>3234</pid>
 <author><![CDATA[SoundtraCon Team]]></author>
 <title><![CDATA[Hans Zimmer: Inception Concert]]></title>
@@ -4537,7 +4955,7 @@ můžete vytvořit nekonečně mnoho svých vlastních originálních Dobblů.]]
 <location><![CDATA[KD Junior - KD Místnost 2]]></location>
 <start-time>2013-06-29T00:00:00+02:00</start-time>
 <end-time>2013-06-29T00:00:00+02:00</end-time>
-<annotation><![CDATA[Videozáznam asi 20-minutového koncertu Hanse Zimmera, který proběhl v roce 2010 v Los Angeles na slavnostní premiéře sci-fi filmu Inception (Počátek) režiséra Christophera Nolana. Ukázková projekce k přednášce.]]></annotation>
+<annotation><![CDATA[Videozáznam asi 20-minutového koncertu Hanse Zimmera, který proběhl v roce 2010 v Los Angeles na slavnostní premiéře sci-fi filmu Počátek režiséra Christophera Nolana. Ukázková projekce k přednášce.]]></annotation>
 </programme><programme><pid>3235</pid>
 <author><![CDATA[SoundtraCon Team]]></author>
 <title><![CDATA[Alien: A Biomechanical Symphony]]></title>
@@ -4587,7 +5005,7 @@ můžete vytvořit nekonečně mnoho svých vlastních originálních Dobblů.]]
 <location><![CDATA[Sokolovna - Sok. Místnost 33]]></location>
 <start-time>2013-07-05T10:00:00+02:00</start-time>
 <end-time>2013-07-05T10:00:00+02:00</end-time>
-<annotation><![CDATA[Přednáška o tom, proč jsem se rozhodl nejen překládat, ale finančně přispět na natáčení kanadského webseriálu Out With Dad, jenž vypráví o ovdovělém otci Nathanovi a jeho patnáctileté dceři Rose, která si začíná uvědomovat, že ji přitahují dívky a že je zamilovaná do své nejlepší kamarádky Vanessy.]]></annotation>
+<annotation><![CDATA[Proč jsem se rozhodl nejen překládat, ale finančně přispět na natáčení kanadského webseriálu Out With Dad, jenž vypráví o ovdovělém otci Nathanovi a jeho patnáctileté dceři Rose, která si začíná uvědomovat, že ji přitahují dívky a že je zamilovaná do své nejlepší kamarádky Vanessy.]]></annotation>
 </programme><programme><pid>3705</pid>
 <author><![CDATA[Martin Vokoun "Mithril"]]></author>
 <title><![CDATA[Pořád lepší než MTV]]></title>
@@ -5535,8 +5953,8 @@ můžete vytvořit nekonečně mnoho svých vlastních originálních Dobblů.]]
 <type>W +P</type>
 <length>1h</length>
 <location><![CDATA[Hala - Hala Velký sál]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-29T17:00:00+02:00</start-time>
+<end-time>2013-06-29T17:00:00+02:00</end-time>
 <annotation><![CDATA[Myslíte si, že uvařit dobré pivo je jednoduché?
 Přijďte si to vyzkoušet! Staňte se sládkem v jedinečném simulátoru pivovaru
 vytvořeném na Matfyzu. Navíc můžete ochutnat i pivo reálné a za mírný poplatek
@@ -5548,8 +5966,8 @@ absolvovat pivní degustaci s odborným výkladem od tvůrců simulátoru.]]></a
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-29T16:00:00+02:00</start-time>
+<end-time>2013-06-29T16:00:00+02:00</end-time>
 <annotation><![CDATA[Ve SF stačí k cestě ke hvězdám zařadit warp 9 či skočit hyperprostorem. Jak to je ve skutečném světě? Má smysl cestovat ke hvězdám, pokud se nelze vrátit dříve, než za desítky let? Co fyzika nabízí pod exotickými názvy jako inerciální tlumiče, černé díry, červí díry, teleportování či warpový pohon?]]></annotation>
 </programme><programme><pid>3903</pid>
 <author><![CDATA[Festival fantazie "FF"+ Jakub Gemront]]></author>
@@ -5558,8 +5976,8 @@ absolvovat pivní degustaci s odborným výkladem od tvůrců simulátoru.]]></a
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-29T12:00:00+02:00</start-time>
+<end-time>2013-06-29T12:00:00+02:00</end-time>
 <annotation><![CDATA[Jsou 3D postavy z počítačových her chytřejší než my? V přednášce se dozvíte, jak vnímají tyto postavy svět kolem sebe, jak se dají vytvářet a co zajímavého s nimi provádíme na Matfyzu.]]></annotation>
 </programme><programme><pid>3904</pid>
 <author><![CDATA[Cyril Brom]]></author>
@@ -5568,8 +5986,8 @@ absolvovat pivní degustaci s odborným výkladem od tvůrců simulátoru.]]></a
 <type>P +B+++C</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-29T18:00:00+02:00</start-time>
+<end-time>2013-06-29T18:00:00+02:00</end-time>
 <annotation><![CDATA[Velkolepá předpremiéra nové (A)AA komiksové počítačové hry. Je možné hrát hry ve výuce
 na středních školách? Ano! Czechoslovakia 38-89, počítačová hra po výuku středoškolského
 dějepisu, vás o tom přesvědčí!]]></annotation>
@@ -5580,8 +5998,8 @@ dějepisu, vás o tom přesvědčí!]]></annotation>
 <type>P +F</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-30T16:00:00+02:00</start-time>
+<end-time>2013-06-30T16:00:00+02:00</end-time>
 <annotation><![CDATA[Ukázky z filmů a knih obsahující cestování v čase. Harry Potter, 12 opic, StarTrek, Terminátor, ...]]></annotation>
 </programme><programme><pid>3906</pid>
 <author><![CDATA[Festival fantazie "FF"+ Pavel Krtouš]]></author>
@@ -5590,8 +6008,8 @@ dějepisu, vás o tom přesvědčí!]]></annotation>
 <type>P +B</type>
 <length>2h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-30T10:00:00+02:00</start-time>
+<end-time>2013-06-30T10:00:00+02:00</end-time>
 <annotation><![CDATA[Stroje času jsou základní rekvizitou sci-fi. Jak se na ně dívá současná fyzika? Proč „paradox“ dvojčat není paradox, jak se lze pomocí něho a červí díry pokusit stroj času vyrobit a zda nám příroda výrobu stroje času nezakáže zákonem o „kauzální cenzuře“. Otestujeme i funkční prototyp stroje času.]]></annotation>
 </programme><programme><pid>3907</pid>
 <author><![CDATA[Festival fantazie "FF"+ Doc. RNDr. Miloš Rotter, CSc.]]></author>
@@ -5600,8 +6018,8 @@ dějepisu, vás o tom přesvědčí!]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-29T17:00:00+02:00</start-time>
+<end-time>2013-06-29T17:00:00+02:00</end-time>
 <annotation><![CDATA[Při snižování teploty k absolutní nule se projevují nevídané vlastnosti
 látek, zejména supravodivost a supratekutost. Helium (objeveno na konci 19. st., zkapalněno v 1908), projevuje v supratekutém stavu řadu kouzelných vlastností. Ještě podivněji než běžný izotop He4 se chová vzácnější izotop He3.]]></annotation>
 </programme><programme><pid>3908</pid>
@@ -5611,8 +6029,8 @@ látek, zejména supravodivost a supratekutost. Helium (objeveno na konci 19. st
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Velký sál KD]]></location>
-<start-time></start-time>
-<end-time></end-time>
+<start-time>2013-06-30T12:00:00+02:00</start-time>
+<end-time>2013-06-30T12:00:00+02:00</end-time>
 <annotation><![CDATA[Přednáška uvede problematiku 3D grafiky, her, filmů a virtuálních postav. Ukážeme,
 jak se tyto postavy vytvářejí a jak se dají rozhýbat (např. pomocí nástroje StoryFactory).
 Dále ukážeme, co musíme udělat, aby se postavy v počítačové hře řízené umělou inteligencí začaly hádat.]]></annotation>
@@ -5626,6 +6044,82 @@ Dále ukážeme, co musíme udělat, aby se postavy v počítačové hře říze
 <start-time></start-time>
 <end-time></end-time>
 <annotation><![CDATA[Další přednášky MatFyzExpo v jiných programových liniích: K.Kuncová: TEMNO (TEOrie MNOžin), D.Šmíd: Co mají společného karetní hra a renesanční malíři?, T.Bureš: Jak se vyhnout katastrofám způsobeným chybným softwarem, J.Libovický: Matematická lingvistika, C.Brom: Czechoslovakia 38–89: Komiksová hra]]></annotation>
+</programme><programme><pid>3911</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[Šifrování a matematika]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W</type>
+<length>1h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Zajímá tě, jak se vyučuje matematika na MFF UK? Chceš se dozvědět něco o šifrování,
+kterým se Matfyz také zabývá? Nebo si jen chceš pohrát s hlavolamem
+a označit své dokumenty razítkem PŘÍSNĚ TAJNÉ? Pak ti nemusíme říkat, kam máš jít ;-)]]></annotation>
+</programme><programme><pid>3912</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[Umělý a živý mozek myši]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W</type>
+<length>13:00h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Viděli jste někdy mozek živé myši? Máte jedinečnou možnost podívat se nejen na software, který jsme na MFF UK vyvinuli pro zobrazování aktivity neuronů v mozkové kůře, ale také na program, který umožňuje část myšího mozku modelovat na počítači.]]></annotation>
+</programme><programme><pid>3913</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[Umělá inteligence a počítačové hry]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W +G</type>
+<length>13:00h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Kdo si hraje, nezlobí. Počítačové hry a umělá inteligence jsou jedním z témat, kterými se na MFF UK zabýváme. Chcete vědět víc? Nebo si jen chcete zahrát proti našemu
+nejchytřejšímu botovi hrajícímu hru Unreal Tournament 2004? Přijďte to prostě zkusit!]]></annotation>
+</programme><programme><pid>3914</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[Létání s drony: ovládej kvadrikoptéru]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W</type>
+<length>13:00h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[3D pilotáž létajícího robota (QuadroCoptery) zvládnete intuitivně díky novému systému
+ovládání z MFF UK. Přijďte si porovnat, jaké to je řídit robota klasicky, přes mobilní telefon, joystickem, 3D nebo dokonce 6D ovládátkem.]]></annotation>
+</programme><programme><pid>3915</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[MotorDead - hra jako studentský projekt]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W +G</type>
+<length>13:00h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Každý si rád hraje a skoro všichni hrají počítačové hry. Nevyhýbá se jim ani MFF UK. Právě tady si můžete během studia vyzkoušet jejich vývoj. Představujeme hru, která vznikla jako studentský projekt a její vývoj pokračuje i po obhajobě.]]></annotation>
+</programme><programme><pid>3916</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[Sci-Fi(y)zika]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W</type>
+<length>13:00h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Přijďte se podívat na experimenty, které ukazují fyziku jinak, než ji znáte ze školy. Víte, jak vypadá displej mobilu pod mikroskopem? Ovládáte levitaci jako Harry Potter? Řídíte se heslem "poctivého nepálí" a chcete si sáhnout na vařič vedle hrnce s vroucí vodou? A mnohem víc u
+našeho stánku!]]></annotation>
+</programme><programme><pid>3917</pid>
+<author><![CDATA[Festival fantazie "FF"+ MatFyz Expo]]></author>
+<title><![CDATA[Výuková hra Czechoslovakia 1938-89]]></title>
+<program-line><![CDATA[MatFyz Expo]]></program-line>
+<type>W +G</type>
+<length>13:00h</length>
+<location><![CDATA[Hala - Hala Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Mohou počítačové hry sloužit pro výuku na středních školách? Ano! Přijďte si na vlastní
+oči/ruce/kůži vyzkoušet betaverzi nové komiksové počítačové hry Czechoslovakia 38-89 pro výuku středoškolského dějepisu, kterou připravuje MFF UK, Filozofická fakulta UK a Ústav soudobých dějin AV ČR.]]></annotation>
 </programme><programme><pid>4101</pid>
 <author><![CDATA[Olga Rybářová "werenys"+ Aikwen]]></author>
 <title><![CDATA[Dílnička U Hobita]]></title>
@@ -7016,8 +7510,8 @@ VAROVÁNÍ: vysoké procento spoilerů v krvi.]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-29T22:00:00+02:00</start-time>
-<end-time>2013-06-29T22:00:00+02:00</end-time>
+<start-time>2013-06-29T23:00:00+02:00</start-time>
+<end-time>2013-06-29T23:00:00+02:00</end-time>
 <annotation><![CDATA[Ti z vás, kdož snad ještě stále váháte nad sledováním seriálu a na knihy nedáte dopustit ani během Armageddonu, přijďte si pro dvanáct pádných důvodů proč jej začít sledovat.]]></annotation>
 </programme><programme><pid>4819</pid>
 <author><![CDATA[Michal Petrov "Makhiel"]]></author>
@@ -7066,8 +7560,8 @@ VAROVÁNÍ: vysoké procento spoilerů v krvi.]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-29T21:00:00+02:00</start-time>
-<end-time>2013-06-29T21:00:00+02:00</end-time>
+<start-time>2013-06-29T22:00:00+02:00</start-time>
+<end-time>2013-06-29T22:00:00+02:00</end-time>
 <annotation><![CDATA[Noční hlídka je starobylý řád, který brání Sedm království proti zlu za Zdí. Během své existence měla téměř 1000 velitelů a my se kromě její historie zaměříme na ty nejzajímavější.]]></annotation>
 </programme><programme><pid>4824</pid>
 <author><![CDATA[Jaroslav Chrastil "Kuromaru"+ Zdeňka "Keavy" Češpírová]]></author>
@@ -7118,19 +7612,19 @@ vypnout na přednášku plnou líbivých melodií a oblíbených postav.]]></ann
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-29T23:00:00+02:00</start-time>
-<end-time>2013-06-29T23:00:00+02:00</end-time>
+<start-time>2013-06-29T21:00:00+02:00</start-time>
+<end-time>2013-06-29T21:00:00+02:00</end-time>
 <annotation><![CDATA[Pustíme vám několik dílů zevrubně pojaté parodie na seriál Hra o trůny, který rozhodně stojí za zviditelnění. Ať už jste fanoušci knižní série nebo HBO díla, zábava je zaručena. Pouštět se bude bez titulků v rozeznatelné angličtině.]]></annotation>
 </programme><programme><pid>4829</pid>
-<author><![CDATA[Jan Urban "kpt. Jack"]]></author>
-<title><![CDATA[1x09 Baelor]]></title>
+<author><![CDATA[Jan Urban "kpt. Jack"+ Eylonwai]]></author>
+<title><![CDATA[Soundtrack Game of Thrones]]></title>
 <program-line><![CDATA[ThroneCon]]></program-line>
-<type>F</type>
+<type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-29T00:00:00+02:00</start-time>
-<end-time>2013-06-29T00:00:00+02:00</end-time>
-<annotation><![CDATA[Předposlední epizoda první série seriálu]]></annotation>
+<start-time>2013-06-28T21:00:00+02:00</start-time>
+<end-time>2013-06-28T21:00:00+02:00</end-time>
+<annotation><![CDATA[Přijďte si poslechnout vybrané skladby ze všech tří doposud vydaných soundtracků, o kterých máme dojem, že patří mezi ty lepší, co dokáží posluchače oslovit a třeba vás inspirovat k tomu, abyste jej začali poslouchat též. Poslechová relaxační přednáška je akorát vhodná na začátek FF mumraje ;-)]]></annotation>
 </programme><programme><pid>4830</pid>
 <author><![CDATA[Jan Urban "kpt. Jack"]]></author>
 <title><![CDATA[2x09 Blackwater]]></title>
@@ -7142,15 +7636,15 @@ vypnout na přednášku plnou líbivých melodií a oblíbených postav.]]></ann
 <end-time>2013-06-30T00:00:00+02:00</end-time>
 <annotation><![CDATA[Předposlední epizoda druhé série seriálu.]]></annotation>
 </programme><programme><pid>4831</pid>
-<author><![CDATA[Jan Urban "kpt. Jack"]]></author>
-<title><![CDATA[3x08 Second Sons]]></title>
+<author><![CDATA[Jan Urban "kpt. Jack"+ Eylonwai]]></author>
+<title><![CDATA[Deště Kastameru]]></title>
 <program-line><![CDATA[ThroneCon]]></program-line>
-<type>F</type>
+<type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
 <start-time>2013-06-30T23:00:00+02:00</start-time>
 <end-time>2013-06-30T23:00:00+02:00</end-time>
-<annotation><![CDATA[Osmý díl třetí série seriálu.]]></annotation>
+<annotation><![CDATA[Devátý díl třetí série vzbudil mezi neznalci knižní série doslov poprask - přijďte se podívat na jejich zaznamenané reakce, poslechnout si covery tohoto známého západozemského songu a shlédnout memy a vtipy, jejichž terčem se stal právě tento díl.]]></annotation>
 </programme><programme><pid>4832</pid>
 <author><![CDATA[Jan Urban "kpt. Jack"]]></author>
 <title><![CDATA[3x09 Rains of Castamere]]></title>
@@ -7168,8 +7662,8 @@ vypnout na přednášku plnou líbivých melodií a oblíbených postav.]]></ann
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-06-28T21:00:00+02:00</start-time>
-<end-time>2013-06-28T21:00:00+02:00</end-time>
+<start-time>2013-06-29T00:00:00+02:00</start-time>
+<end-time>2013-06-29T00:00:00+02:00</end-time>
 <annotation><![CDATA[První a úvodní díl první série seriálu]]></annotation>
 </programme><programme><pid>5101</pid>
 <author><![CDATA[Roman Kresta "Randalf"]]></author>
@@ -7210,8 +7704,8 @@ Poněkud pobliticky nekorektní blábolení o skrytém teroru proti občanům.]]
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-06-30T17:00:00+02:00</start-time>
-<end-time>2013-06-30T17:00:00+02:00</end-time>
+<start-time>2013-06-29T14:00:00+02:00</start-time>
+<end-time>2013-06-29T14:00:00+02:00</end-time>
 <annotation><![CDATA[Jak to vlastně bylo se ženami ve vojsku v průběhu dějin? Od starověku po moderní dějiny měly ženy vždycky své místo v armádách od markytánek přes zdravotní sestry až po odstřelovačky. Tato přednáška vám nabídne průřez historií žen ve vojsku.]]></annotation>
 </programme><programme><pid>5105</pid>
 <author><![CDATA[Jan Kotouč "Johnak"]]></author>
@@ -7220,8 +7714,8 @@ Poněkud pobliticky nekorektní blábolení o skrytém teroru proti občanům.]]
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-06-29T14:00:00+02:00</start-time>
-<end-time>2013-06-29T14:00:00+02:00</end-time>
+<start-time>2013-06-30T17:00:00+02:00</start-time>
+<end-time>2013-06-30T17:00:00+02:00</end-time>
 <annotation><![CDATA[Průřez seriálem i pohled do zákulisí na okolnosti vzniku tohoto nejkontroverznějšího českého seriálu. Co stálo za jeho vznikem? Jak seriál působí jako politická agitka a jak jako obyčejná detektivka? To vše se dozvíte na této přednášce.]]></annotation>
 </programme><programme><pid>5106</pid>
 <author><![CDATA[Festival fantazie "FF"+ Petr Nižnanský]]></author>
@@ -7563,16 +8057,6 @@ Originální archivní materiály o vývoji, testování a konečném použití 
 <start-time>2013-07-05T20:00:00+02:00</start-time>
 <end-time>2013-07-05T20:00:00+02:00</end-time>
 <annotation><![CDATA[Filmová "steampunková" tvorba má u nás poměrně stabilní základnu a ne nadarmo jsou filmy českých režisérů v tomto žánru celosvětově uznávány. Odhalíme, co se skrývá v Ocelovém městě, tajemství Zlaté armády, i proč Adéla ještě nevečeřela. A samozřejmě mnoho dalších tipů na zajímavé žánrové filmy...]]></annotation>
-</programme><programme><pid>5312</pid>
-<author><![CDATA[Františka Vrbenská "dis"+ Vlado Ríša]]></author>
-<title><![CDATA[Co má být jinak? Alternativní historie]]></title>
-<program-line><![CDATA[Steampunk]]></program-line>
-<type>P</type>
-<length>2h</length>
-<location><![CDATA[KD Junior - KD Místnost 1]]></location>
-<start-time>2013-07-06T16:00:00+02:00</start-time>
-<end-time>2013-07-06T16:00:00+02:00</end-time>
-<annotation><![CDATA[Probereme knihy, filmy, seriály a počítačové hry, v nichž se tvůrci inspirovali minulostí (i budoucností). Co smí autor udělat špatně, a co je průšvih? Mohou být dějiny sexy? Vztah „mýtus a historie". Hrůzy školní výuky.  Nejlepší a nejhorší díla AH v Česku: drtivá analýza.]]></annotation>
 </programme><programme><pid>5313</pid>
 <author><![CDATA[Scarlett Rauschgoldová "Darth Zira"]]></author>
 <title><![CDATA[Hrdinky a kurtizány viktoriánské éry]]></title>
@@ -7630,9 +8114,90 @@ Originální archivní materiály o vývoji, testování a konečném použití 
 <type>F</type>
 <length>2h</length>
 <location><![CDATA[KD Junior - KD Místnost 1]]></location>
+<start-time>2013-07-05T10:00:00+02:00</start-time>
+<end-time>2013-07-05T10:00:00+02:00</end-time>
+<annotation><![CDATA[Fantastický dobrodružný příběh na motivy románu Julese Verna od režiséra Ludvíka Ráži. Dva bohatí muži se rozhodnou vybudovat města. Fortuna chce žít v míru, zatímco Ocelové město vyrábí obrovskou bombu se záhadnou látkou. Na scénu proto přichází tajný agent, jenž má zachránit Fortunu před zničením.]]></annotation>
+</programme><programme><pid>5319</pid>
+<author><![CDATA[Markéta Weinlichová "Margueritte"+ Karel Zeman]]></author>
+<title><![CDATA[Ukradená vzducholoď]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>F</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Místnost 1]]></location>
+<start-time>2013-07-06T20:00:00+02:00</start-time>
+<end-time>2013-07-06T20:00:00+02:00</end-time>
+<annotation><![CDATA[Klasika Karla Zemana na motivy knižní předlohy Julese Verna. Dobrodružný příběh o pětici chlapců zasazený do doby na konci 19. století, pln roztodivných vynálezů.]]></annotation>
+</programme><programme><pid>5320</pid>
+<author><![CDATA[Markéta Weinlichová "Margueritte"+ Karel Zeman]]></author>
+<title><![CDATA[Vynález zkázy]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>F</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Místnost 1]]></location>
 <start-time>2013-07-07T11:00:00+02:00</start-time>
 <end-time>2013-07-07T11:00:00+02:00</end-time>
-<annotation><![CDATA[Fantastický dobrodružný příběh na motivy románu Julese Verna od režiséra Ludvíka Ráži. Dva bohatí muži se rozhodnou vybudovat města. Fortuna chce žít v míru, zatímco Ocelové město vyrábí obrovskou bombu se záhadnou látkou. Na scénu proto přichází tajný agent, jenž má zachránit Fortunu před zničením.]]></annotation>
+<annotation><![CDATA[Zlotřilý Artigas, který zbohatl na krádežích podmořských pokladů, unesl profesora Rocha, objevitele účinné výbušniny. Chce vynález zneužít k ovládnutí světa. Profesorův asistent Hart hodlá zlosynovi v jeho plánech zabránit za každou cenu a zachránit nejen lidstvo, ale i lásku profesorovy dcery Jany.]]></annotation>
+</programme><programme><pid>5321</pid>
+<author><![CDATA[Petr Brestovanský]]></author>
+<title><![CDATA[Nikola Tesla - génius, vizionář]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Místnost 1]]></location>
+<start-time>2013-07-06T16:00:00+02:00</start-time>
+<end-time>2013-07-06T16:00:00+02:00</end-time>
+<annotation><![CDATA[Přednáška o jednom z největších vynálezců všech dob, o jeho začátcích v Novém světě, jeho nápadech a vizích. Ve svých nápadech a myšlenkách dalece předstihl svou dobou. Představím Vám jeho vrcholné experimenty i zvěsti jeho údajné účasti na Filadelfském experimentu či zásahu do Tunguské katastrofy]]></annotation>
+</programme><programme><pid>5322</pid>
+<author><![CDATA[Jakub Šedivý "vavroch"+ CiB]]></author>
+<title><![CDATA[Cimrmanovské soutěžení]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>C +B+++W</type>
+<length>2h</length>
+<location><![CDATA[KD Junior - KD Místnost 1]]></location>
+<start-time>2013-07-06T17:00:00+02:00</start-time>
+<end-time>2013-07-06T17:00:00+02:00</end-time>
+<annotation><![CDATA[turnaj v legendární soutěži Hirohito (vychází ze smináře ke Švestce), Cimršaráda (zábavná improvizační show s diváky) - dokážeš pantomimicky nebo kreslením představit svému teamu "doktora Žábu, "na sever - a na jih", výměnu mečů, Krátkozrakého, nápovědu Křečka, šrapnel nebo driftování?]]></annotation>
+</programme><programme><pid>5323</pid>
+<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
+<title><![CDATA[Praví gentlemani]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Naši nejoblíbenější pánové z dílen slečny Austenové, paní Brontëové a dalších autorek a autorů Period dramas. Hodní, čestní, slušně vychovaní. Aspoň většinou.
+A jako bonus - oblíbené scény na přání!]]></annotation>
+</programme><programme><pid>5324</pid>
+<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
+<title><![CDATA[Period dramas facepalm]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Některé pasáže z Austenové jsou opravdu na facku. Některé scény z filmových adaptací našich oblíbených románů jsou ještě výživnější. Pojďme si na ně vzpomenout, zkusíme najít to nejlepší z toho nejděsnějšího. Ochranné pomůcky s sebou, knihy v pevných deskách se mohou hodit.]]></annotation>
+</programme><programme><pid>5325</pid>
+<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
+<title><![CDATA[Austenovské zmršeniny II.]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Nejen ve filmovém prostředí se občas tvůrci (ne)vyznamenali. Knižní zmršeniny klasických románů a jako přídavek největší filmové špeky. Občas to ani není k smíchu ;)]]></annotation>
+</programme><programme><pid>5326</pid>
+<author><![CDATA[Zuzka Žďárská "Zuzka-Čertisko"]]></author>
+<title><![CDATA[Potvory v Period dramas II.]]></title>
+<program-line><![CDATA[Steampunk]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Místnost 2]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Minulý rok jsme je rozhodně nestihli všechny! Kromě hrdinek psala Austenová s velikou chutí i pěkné mrchy. Encyklopedie proradných potvor pokračuje!]]></annotation>
 </programme><programme><pid>6601</pid>
 <author><![CDATA[Miloslav Kuchař "kuchy"+ Porty]]></author>
 <title><![CDATA[Zahájení NightConu]]></title>
@@ -7711,8 +8276,8 @@ Přijďte se seznámit s touto skvělou kapelou, která vám změní život!]]><
 <type>B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T10:00:00+02:00</start-time>
-<end-time>2013-07-04T10:00:00+02:00</end-time>
+<start-time>2013-07-04T20:00:00+02:00</start-time>
+<end-time>2013-07-04T20:00:00+02:00</end-time>
 <annotation><![CDATA[Měla být Poslední hlídka poslední, nebo je dobře, že vyšla nová Nová hlídka. Co si o tom myslíte vy? Přijďte se podělit o svůj názor na věc.]]></annotation>
 </programme><programme><pid>6610</pid>
 <author><![CDATA[Klára Hanušová "darkwitch"]]></author>
@@ -7742,8 +8307,8 @@ Přijďte se seznámit s touto skvělou kapelou, která vám změní život!]]><
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-07T14:00:00+02:00</start-time>
-<end-time>2013-07-07T14:00:00+02:00</end-time>
+<start-time>2013-07-05T22:00:00+02:00</start-time>
+<end-time>2013-07-05T22:00:00+02:00</end-time>
 <annotation><![CDATA[Aneb mnoho důvodů proč se na ně rozhodně nedívat, pokud milujete knižní zpracování.]]></annotation>
 </programme><programme><pid>6613</pid>
 <author><![CDATA[Zuzana Ľalíková "Axia"+ Renča]]></author>
@@ -7772,8 +8337,8 @@ Přijďte se seznámit s touto skvělou kapelou, která vám změní život!]]><
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-05T10:00:00+02:00</start-time>
-<end-time>2013-07-05T10:00:00+02:00</end-time>
+<start-time>2013-07-05T13:00:00+02:00</start-time>
+<end-time>2013-07-05T13:00:00+02:00</end-time>
 <annotation><![CDATA[Anita Blakeová už se u nás zabydlela, tak si pojďme připomenout, co na ní máme rádi a čím nás lovkyně upírů prudí, a podebatovat o tom, jak se tato moderní fantasy série vyvíjí.]]></annotation>
 </programme><programme><pid>6616</pid>
 <author><![CDATA[Zuzana Ľalíková "Axia"+ Kometa]]></author>
@@ -7822,8 +8387,8 @@ Přijďte se seznámit s touto skvělou kapelou, která vám změní život!]]><
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T20:00:00+02:00</start-time>
-<end-time>2013-07-04T20:00:00+02:00</end-time>
+<start-time>2013-07-04T12:00:00+02:00</start-time>
+<end-time>2013-07-04T12:00:00+02:00</end-time>
 <annotation><![CDATA[Původní Twilight fanfic, který se stal legandárním literárním pornem, kterého se prodalo neskutečné množství.Co slečny na téhle mizerně napsané S/M novele tak fascinuje? No a protože audio verze této knihy za moc nestojí, rozhodli jsme se Vás tohoto zážitku uchránit a knihu Vám budeme předčítat my.]]></annotation>
 </programme><programme><pid>6621</pid>
 <author><![CDATA[Natálie Čurdová "Naty"]]></author>
@@ -7866,8 +8431,8 @@ každý jednou knížku, úplně náhodně a uvidíme jestli nám z toho vyleze 
 <type>P +F</type>
 <length>2h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T11:00:00+02:00</start-time>
-<end-time>2013-07-04T11:00:00+02:00</end-time>
+<start-time>2013-07-04T10:00:00+02:00</start-time>
+<end-time>2013-07-04T10:00:00+02:00</end-time>
 <annotation><![CDATA[Soukromá vyšetřovatelka, policajt a upír – pracovní i milostný trojúhelník v seriálu Krevní pouta / Blood Ties podle knižní série. Polozapomenutý seriál, který navázal na Buffy a připravil cestu k úspěchu True Blood, Being Human a dalším.]]></annotation>
 </programme><programme><pid>6625</pid>
 <author><![CDATA[Zuzana Šindelářová "Panthea"]]></author>
@@ -8205,14 +8770,14 @@ každý jednou knížku, úplně náhodně a uvidíme jestli nám z toho vyleze 
 <annotation><![CDATA[Mystérium temných sil se vždycky vznášelo okolo Nás, Vás i Jich, ale jak je to ve skutečnosti s uvalením drastické kletby? Potřebujete egyptské kněží nebo stačí květy bezu a trocha bazalky?]]></annotation>
 </programme><programme><pid>6658</pid>
 <author><![CDATA[Vojtěch Sedláček]]></author>
-<title><![CDATA[Zombie, ghúlové a spol.]]></title>
+<title><![CDATA[Zombie - strhující pouť z hrobu ke slávě]]></title>
 <program-line><![CDATA[NightCon]]></program-line>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
 <start-time>2013-07-04T22:00:00+02:00</start-time>
 <end-time>2013-07-04T22:00:00+02:00</end-time>
-<annotation><![CDATA[Chtějí tvůj mozek, ale proč vlastně? Odkud se vzala horda televizních a počítačových nemrtvých, která šoupavým krokem dobývá svět? Pátrání po původu a vývoji současného fenoménu zombie apokalypsy.]]></annotation>
+<annotation><![CDATA[Nudí vás už zombie coby laciná vycpávka béčkových krváků? Jste pravý geek, co zkoumá věci rád do hloubky? Poznejte tedy její skutečný příběh i příběh tří hrozivých praotců ze tří koutů světa, kteří ji shodou náhod vdechli život. Sledujte její pouť napříč historií, až na stránky knih, do filmů a her.]]></annotation>
 </programme><programme><pid>6659</pid>
 <author><![CDATA[Kristýna Routnerová "Kolikokoli"]]></author>
 <title><![CDATA[The Rocky Horror Picture Show]]></title>
@@ -8270,8 +8835,8 @@ každý jednou knížku, úplně náhodně a uvidíme jestli nám z toho vyleze 
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-05T13:00:00+02:00</start-time>
-<end-time>2013-07-05T13:00:00+02:00</end-time>
+<start-time>2013-07-05T10:00:00+02:00</start-time>
+<end-time>2013-07-05T10:00:00+02:00</end-time>
 <annotation><![CDATA[Zamysleli jste se někdy nad tím, co všechno vás může zabít? Pokud si připadáte paranoidní, když se na každém rohu rozhlížíte po zombících, věřte nám, nejste paranoidní dost. P.S. Nikdy nevěřte jednorožcům!]]></annotation>
 </programme><programme><pid>6665</pid>
 <author><![CDATA[Lukáš Herma "DoctoreX"]]></author>
@@ -8342,8 +8907,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-07T13:00:00+02:00</start-time>
-<end-time>2013-07-07T13:00:00+02:00</end-time>
+<start-time>2013-07-05T12:00:00+02:00</start-time>
+<end-time>2013-07-05T12:00:00+02:00</end-time>
 <annotation><![CDATA[Ať už fandíte týmu Delena či Stelena, milujete či nesnášíte Klaroline, rádi koukáte na Damona s Alaricem nebo si myslíte, že Elena s Rebekhou prostě válej... tohle je to pravé místo pro vás. Koho všeho tu lze vlastně shipovat? Proč jsou tyto dvojice tak populární? Přijďte a dozvíte se to!]]></annotation>
 </programme><programme><pid>6673</pid>
 <author><![CDATA[Michaela Rodová "Charlotte"]]></author>
@@ -8352,8 +8917,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-05T12:00:00+02:00</start-time>
-<end-time>2013-07-05T12:00:00+02:00</end-time>
+<start-time>2013-07-07T13:00:00+02:00</start-time>
+<end-time>2013-07-07T13:00:00+02:00</end-time>
 <annotation><![CDATA[Knihami, seriály a filmy se to jenom hemží upíry a mnoho z nich je vážně k světu. Pojďte si popovídat o tom jestli je hezčí Angel, Louie, Lestat, Eric, Damon, Stefan, Edward, nějaký ten Drákula a další. Je třeba Edward vůbec sexy? "Sexy upíři, proč je milujeme či nenávidíme" právě ve vašich kinech!]]></annotation>
 </programme><programme><pid>6674</pid>
 <author><![CDATA[Jan Neuman "Wolverine"]]></author>
@@ -8442,8 +9007,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>F</type>
 <length>2h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 31]]></location>
-<start-time>2013-07-05T22:00:00+02:00</start-time>
-<end-time>2013-07-05T22:00:00+02:00</end-time>
+<start-time>2013-07-05T23:00:00+02:00</start-time>
+<end-time>2013-07-05T23:00:00+02:00</end-time>
 <annotation><![CDATA[Film, který sleduje osudy Angela od jeho smrti až po události v seriálu Buffy, přemožitelka upírů.]]></annotation>
 </programme><programme><pid>6683</pid>
 <author><![CDATA[Matěj Svoboda "Broody"+ Milan Pohl "Kernel32"]]></author>
@@ -8892,8 +9457,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>B +P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-05T10:00:00+02:00</start-time>
-<end-time>2013-07-05T10:00:00+02:00</end-time>
+<start-time>2013-07-05T09:00:00+02:00</start-time>
+<end-time>2013-07-05T09:00:00+02:00</end-time>
 <annotation><![CDATA[Nemůžete spát? Snídáte sami? Nudíte se? Už nemusíte! Přijďte na ComicsCon na speciální ranní komiksovou hodinku. Něco se dozvíte, trochu se pobavíte a nebo aspoň u snídaně nebudete muset jen tak koukat do zdi.]]></annotation>
 </programme><programme><pid>7204</pid>
 <author><![CDATA[Petr Nusko "Tillion"]]></author>
@@ -8932,8 +9497,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T18:00:00+02:00</start-time>
-<end-time>2013-07-04T18:00:00+02:00</end-time>
+<start-time>2013-07-04T16:00:00+02:00</start-time>
+<end-time>2013-07-04T16:00:00+02:00</end-time>
 <annotation><![CDATA[S komiksovými filmy se poslední dobou roztrhl pytel a skoro každý měsíc je nějaký nový. Přehled hraných komiksů z letošního roku a další novinky.]]></annotation>
 </programme><programme><pid>7208</pid>
 <author><![CDATA[Martin Handl "Marty McFly"]]></author>
@@ -8962,8 +9527,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-06T11:00:00+02:00</start-time>
-<end-time>2013-07-06T11:00:00+02:00</end-time>
+<start-time>2013-07-04T22:00:00+02:00</start-time>
+<end-time>2013-07-04T22:00:00+02:00</end-time>
 <annotation><![CDATA[Slavný tvůrce komiksů a duchovní otec těch nejslavnějších postav vydavatelství Marvel se pravidelně objevuje ve filmech o svých postavách. Pokud jste si těchto mikrovýstupů nevšimli, máte nyní možnost seznámit se s hereckou dráhou zakladatele moderního komiksu.]]></annotation>
 </programme><programme><pid>7211</pid>
 <author><![CDATA[Tomáš Volný "Wizardy"+ Helena "Nigerfur" Pražská, Martin "Autochton" Hrádela]]></author>
@@ -9002,8 +9567,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T17:00:00+02:00</start-time>
-<end-time>2013-07-06T17:00:00+02:00</end-time>
+<start-time>2013-07-05T18:00:00+02:00</start-time>
+<end-time>2013-07-05T18:00:00+02:00</end-time>
 <annotation><![CDATA[Přednáška o hellboyovských komiksech, spin-offech (B.P.R.D., Abe Sapien, Lobster Johnson), povídkách a románech - v češtině vydaných i nevydaných. Úvod do světa Mikea Mignoly a jeho přátel pro začátečníky, rozšíření obzoru pro pokročilé.]]></annotation>
 </programme><programme><pid>7215</pid>
 <author><![CDATA[Markéta Pytlíková "Danae"]]></author>
@@ -9022,8 +9587,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-04T22:00:00+02:00</start-time>
-<end-time>2013-07-04T22:00:00+02:00</end-time>
+<start-time>2013-07-05T17:00:00+02:00</start-time>
+<end-time>2013-07-05T17:00:00+02:00</end-time>
 <annotation><![CDATA[Komiksová událost roku 2012. Dva nejslavnější týmy proti sobě. Proč se do sebe pustili? A kdo nakonec vyhrál? Čeká vás detailní rozbor tohoto eventu a hlavních bitev. Iron Man vs Magneto, Cap vs Gambit, Spider-Man vs Colossus a mnohem víc!]]></annotation>
 </programme><programme><pid>7217</pid>
 <author><![CDATA[Ondřej Král "Lenny"]]></author>
@@ -9032,8 +9597,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-05T17:00:00+02:00</start-time>
-<end-time>2013-07-05T17:00:00+02:00</end-time>
+<start-time>2013-07-05T10:00:00+02:00</start-time>
+<end-time>2013-07-05T10:00:00+02:00</end-time>
 <annotation><![CDATA[Po nepovedeném eventu One More Day spousta fanoušků se Spider-Manem sekla a odmítají se k němu vrátit. A to je chyba. Společně se podíváme na nový Spider-Manův začátek, skvělou éru Dana Slotta a projedeme všechny pavoučí komiksy až do současnosti, kdy už Spideym není Peter Parker.]]></annotation>
 </programme><programme><pid>7218</pid>
 <author><![CDATA[Ondřej Král "Lenny"]]></author>
@@ -9047,13 +9612,13 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <annotation><![CDATA[Začátkem roku zcela nečekaně vtrhl Ultimátní komiksový komplet do českých trafik. Přednáška vás blíže seznámí s tímto projektem, který se snaží představit komiksy nováčkům, pomůže vám zorientovat se v marvelovské chronologii a pokusí se odpovědět na nejčastější otázku "Co z toho stojí za to?".]]></annotation>
 </programme><programme><pid>7219</pid>
 <author><![CDATA[Ondřej Král "Lenny"]]></author>
-<title><![CDATA[Carl Barks - otec komiksového Kačerova]]></title>
+<title><![CDATA[Komiksový svět Kačera Donalda]]></title>
 <program-line><![CDATA[ComicsCon]]></program-line>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T14:00:00+02:00</start-time>
-<end-time>2013-07-06T14:00:00+02:00</end-time>
+<start-time>2013-07-06T13:00:00+02:00</start-time>
+<end-time>2013-07-06T13:00:00+02:00</end-time>
 <annotation><![CDATA[Zatímco ve zbytku Evropy jsou "kačeří" komiksy velmi populární, v ČR mají nálepku čtení pro děti. Přijďte se přesvědčit, že se u nich může pobavit i dospělý! Věděli jste, že inspirovaly třeba Minecraft nebo Indyho Jonese? A kdo je matkou Kačera Donalda a čím se od komiksů liší My z Kačerova? Přiďte]]></annotation>
 </programme><programme><pid>7220</pid>
 <author><![CDATA[Ondřej Král "Lenny"]]></author>
@@ -9062,8 +9627,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T19:00:00+02:00</start-time>
-<end-time>2013-07-06T19:00:00+02:00</end-time>
+<start-time>2013-07-06T17:00:00+02:00</start-time>
+<end-time>2013-07-06T17:00:00+02:00</end-time>
 <annotation><![CDATA[Koncem roku 2012 došlo v Marvelu k přečíslování skoro všech řad ve snaze získat nové čtenáře. Zajímá Vás které z nových sérií stojí za to číst, co se nepovedlo a co se teprve chystá? Přijďte!]]></annotation>
 </programme><programme><pid>7221</pid>
 <author><![CDATA[Matěj Kondáš "Porty"]]></author>
@@ -9072,8 +9637,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>Q</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-05T18:00:00+02:00</start-time>
-<end-time>2013-07-05T18:00:00+02:00</end-time>
+<start-time>2013-07-06T19:00:00+02:00</start-time>
+<end-time>2013-07-06T19:00:00+02:00</end-time>
 <annotation><![CDATA[Máte pocit, že jste dostatečně geeky na tento kvíz? Že dovedete i o půlnoci vyjmenovat jména všech Robinů? Spočítat hvězdy na spoďárech Wonder Woman? A jste si jisti počtem Spider-Manových manželek? Že přesně víte v kolika komiksech Gartha Ennise se objevil Ježíš Kristus? Tak přidte!]]></annotation>
 </programme><programme><pid>7222</pid>
 <author><![CDATA[Matěj Kondáš "Porty"]]></author>
@@ -9082,8 +9647,8 @@ udělat vy, návštěvníci NightConových přednášek?]]></annotation>
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T12:00:00+02:00</start-time>
-<end-time>2013-07-06T12:00:00+02:00</end-time>
+<start-time>2013-07-06T11:00:00+02:00</start-time>
+<end-time>2013-07-06T11:00:00+02:00</end-time>
 <annotation><![CDATA[Bendis. Ennis. Ellis. Azzarello. Zná je každý, dokonce i někteří komiksoví analfabeti, kteří jejich čtení dodnes považují za dětskou záležitost. Komiksy ale píšou i pro laiky možná méně známí, nicméně o nic méně kvalitní esa - Aaron, Lobdell, Winnick nebo Scott Snyder. Přijdte se inspirovat...]]></annotation>
 </programme><programme><pid>7223</pid>
 <author><![CDATA[Matěj Kondáš "Porty"]]></author>
@@ -9123,8 +9688,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T16:00:00+02:00</start-time>
-<end-time>2013-07-06T16:00:00+02:00</end-time>
+<start-time>2013-07-04T18:00:00+02:00</start-time>
+<end-time>2013-07-04T18:00:00+02:00</end-time>
 <annotation><![CDATA[Je možné vyrobit budgetovou počítačovou hru s AAA komiksovou grafikou? V přednášce se dozvíte vše o tvorbě grafiky kombinující komiks s živými herci pro novou výukovou počítačovou hru Czechoslovakia 38-89. (Přednáška z programu MatFyz Expo.)]]></annotation>
 </programme><programme><pid>7227</pid>
 <author><![CDATA[Vojtěch Rabyniuk "Galupus"]]></author>
@@ -9133,8 +9698,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T15:00:00+02:00</start-time>
-<end-time>2013-07-06T15:00:00+02:00</end-time>
+<start-time>2013-07-06T16:00:00+02:00</start-time>
+<end-time>2013-07-06T16:00:00+02:00</end-time>
 <annotation><![CDATA[Konečně se dospělo k tomu, že zahraniční komiksy vychází česky naprosto běžně. Možná i víc než ěbžně a tak běžný čtenář nestíhá kupovat. Co vyšlo v prvním pololetí 2013? Co je nejlepší a co naopak za útratu úplně nestojí?]]></annotation>
 </programme><programme><pid>7228</pid>
 <author><![CDATA[Vojtěch Rabyniuk "Galupus"]]></author>
@@ -9213,8 +9778,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T13:00:00+02:00</start-time>
-<end-time>2013-07-06T13:00:00+02:00</end-time>
+<start-time>2013-07-06T12:00:00+02:00</start-time>
+<end-time>2013-07-06T12:00:00+02:00</end-time>
 <annotation><![CDATA[Možno na Zemi a možno niekde inde sa odohráva príbeh osamelého hrdinu Killyho v mange Blame!. Príďte sa niečo dozvedieť o tomto pomerne experimentálnom, akciou a robotími črevami nabitom cyberpunku.]]></annotation>
 </programme><programme><pid>7236</pid>
 <author><![CDATA[ComicsCon Team+ Mgr. Ondřej Bláha]]></author>
@@ -9253,8 +9818,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>D</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-05T09:00:00+02:00</start-time>
-<end-time>2013-07-05T09:00:00+02:00</end-time>
+<start-time>2013-07-05T08:00:00+02:00</start-time>
+<end-time>2013-07-05T08:00:00+02:00</end-time>
 <annotation><![CDATA[(V originále: Secret Origin: The Story of DC Comics)
 "Vydejte se s námi napříč 75 letou historií DC Comics, do míst, kde se zrodil Batman, Superman, Wonder Woman a mnoho dalších superhrdinů. V roce 1934 bylo založeno National Allied Publications, společnost, z níž se jednoho dne stane DC Comics..."]]></annotation>
 </programme><programme><pid>7248</pid>
@@ -9264,8 +9829,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>D</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-07T09:00:00+02:00</start-time>
-<end-time>2013-07-07T09:00:00+02:00</end-time>
+<start-time>2013-07-06T08:00:00+02:00</start-time>
+<end-time>2013-07-06T08:00:00+02:00</end-time>
 <annotation><![CDATA[(V originále: Secret Origin: The Story of DC Comics)
 "Vydejte se s námi napříč 75 letou historií DC Comics, do míst, kde se zrodil Batman, Superman, Wonder Woman a mnoho dalších superhrdinů. V roce 1934 bylo založeno National Allied Publications, společnost, z níž se jednoho dne stane DC Comics..."]]></annotation>
 </programme><programme><pid>7249</pid>
@@ -9275,8 +9840,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>D</type>
 <length>1h</length>
 <location><![CDATA[KD Junior - KD Zrcadlový sál]]></location>
-<start-time>2013-07-06T08:00:00+02:00</start-time>
-<end-time>2013-07-06T08:00:00+02:00</end-time>
+<start-time>2013-07-07T09:00:00+02:00</start-time>
+<end-time>2013-07-07T09:00:00+02:00</end-time>
 <annotation><![CDATA["Tento fascinující seriál prozkoumává, proč se určitá literární díla podařilo úspěšně adaptovat do filmové podoby. Zaměřuje se na filmy natočené v průběhu posledních dvou desetiletí." Promítnuty budou díly Graphic Novels a Stan Lee, které se týkají tématiky komiksů a komiksových filmů.]]></annotation>
 </programme><programme><pid>7250</pid>
 <author><![CDATA[ComicsCon Team]]></author>
@@ -9375,8 +9940,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>P +F</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 33]]></location>
-<start-time>2013-06-30T18:00:00+02:00</start-time>
-<end-time>2013-06-30T18:00:00+02:00</end-time>
+<start-time>2013-06-30T19:00:00+02:00</start-time>
+<end-time>2013-06-30T19:00:00+02:00</end-time>
 <annotation><![CDATA[Po tom všem, co Trey Parker s Mattem Stonem vyváděli, byla jen otázka času, kdy přijdou s divadelním muzikálem. Sen se nám splnil před dvěma lety a dobyli s ním celý svět. Mormoni, Afrika jako svět šílených generálů a AIDS, ale hlavně neuvěřitelně chytlavé melodie. Nejen to si zde představíme!]]></annotation>
 </programme><programme><pid>7420</pid>
 <author><![CDATA[Lukáš Plichta "LukiF"+ Heky]]></author>
@@ -9458,16 +10023,6 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <start-time>2013-06-30T09:00:00+02:00</start-time>
 <end-time>2013-06-30T09:00:00+02:00</end-time>
 <annotation><![CDATA[Animák po ránu podporuje dobré trávení a naladí Vás na celý den aneb s Homerem roste chuť :-)]]></annotation>
-</programme><programme><pid>7432</pid>
-<author><![CDATA[SimpsCon Team "SimpsCon tým"]]></author>
-<title><![CDATA[Méďa]]></title>
-<program-line><![CDATA[SimpsCon]]></program-line>
-<type>F</type>
-<length>2h</length>
-<location><![CDATA[Sokolovna - Sok. Místnost 33]]></location>
-<start-time>2013-06-29T21:00:00+02:00</start-time>
-<end-time>2013-06-29T21:00:00+02:00</end-time>
-<annotation><![CDATA[John byl jako malý opuštěný, proto pronesl pošetilé přání, aby jeho vánoční dárek začal mluvit. Stal se zázrak a mluvící medvěd se stal mediální hvězdou a miláčkem davů. Ti dva si náramně notují v pohledu na život, na holky, na práci, ale okolí se na jeho soužití s méďou dívá čím dál rozpačitěji.]]></annotation>
 </programme><programme><pid>7433</pid>
 <author><![CDATA[SimpsCon Team "SimpsCon tým"]]></author>
 <title><![CDATA[Futurama: Nová generace]]></title>
@@ -9485,8 +10040,8 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <type>F</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Místnost 33]]></location>
-<start-time>2013-06-29T18:00:00+02:00</start-time>
-<end-time>2013-06-29T18:00:00+02:00</end-time>
+<start-time>2013-06-29T19:00:00+02:00</start-time>
+<end-time>2013-06-29T19:00:00+02:00</end-time>
 <annotation><![CDATA[South Park je zase o rok starší, ale stále neztrácí nic ze své šťavnatosti. Přijďte se o tom přesvědčit na promítání nejnovějších epizod.]]></annotation>
 </programme><programme><pid>7435</pid>
 <author><![CDATA[SimpsCon Team "SimpsCon tým"]]></author>
@@ -9538,6 +10093,16 @@ Série Dana Abnetta a nyní i B.M.Bendise o skupině, která se rozhodla stráž
 <start-time>2013-06-30T13:00:00+02:00</start-time>
 <end-time>2013-06-30T13:00:00+02:00</end-time>
 <annotation><![CDATA[Kdo ví, co všechno se může stát? Naši hrdinové v budoucnosti zcela jistě ano. Epizody: 2×20-Anthology of Interest I(Krajně mezní příběhy I), 4×03-Anthology of Interest II(Krajně mezní příběhy II), 5×14-Obsoletely Fabulous(Ztraceno v upgradu).]]></annotation>
+</programme><programme><pid>7440</pid>
+<author><![CDATA[SimpsCon Team "SimpsCon tým"]]></author>
+<title><![CDATA[Mr. Orgazmo]]></title>
+<program-line><![CDATA[SimpsCon]]></program-line>
+<type>F</type>
+<length>2h</length>
+<location><![CDATA[Sokolovna - Sok. Místnost 33]]></location>
+<start-time>2013-06-29T21:00:00+02:00</start-time>
+<end-time>2013-06-29T21:00:00+02:00</end-time>
+<annotation><![CDATA[Joe Young se rozhodne prosadit v Hollywoodu. Jednoho dne natrefí na štáb připravovaného filmu "Kapitán Orgazmo", ve kterém mu režisér Max Orbison nabídne hlavní roli. Joe se seznámí s vědcem Benem, který také hraje v tomto filmu. Ben vymyslel plně funkční zbraň nazvanou orgazmerátor...]]></annotation>
 </programme><programme><pid>7601</pid>
 <author><![CDATA[Ján Senko "JanoS"]]></author>
 <title><![CDATA[Pony komixy a další merchandising]]></title>
@@ -10007,6 +10572,26 @@ Otázky kvízu jsou ze všech tří sérií.]]></annotation>
 <start-time>2013-07-07T13:00:00+02:00</start-time>
 <end-time>2013-07-07T13:00:00+02:00</end-time>
 <annotation><![CDATA[Linie nám již skončila, pojďte se s námi posadit a napsat dopis organizátorům linie! Zkušenosti, příběhy, názory každého bronyho jsou pro nás inspirací a poučením. Závěrečné posezení s bronies, rozloučení se s linií, poslední grouphug.]]></annotation>
+</programme><programme><pid>7647</pid>
+<author><![CDATA[Marián Sulák]]></author>
+<title><![CDATA[MLP FiM Fanfikcie]]></title>
+<program-line><![CDATA[PonyCon]]></program-line>
+<type>P +B</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Přízemní sál]]></location>
+<start-time>2013-07-04T13:00:00+02:00</start-time>
+<end-time>2013-07-04T13:00:00+02:00</end-time>
+<annotation><![CDATA[Bronies, tak ako každý správny fandom, majú fanfikcie inšpirované svojím seriálom. Povieme si o tom, kde sa dajú nájsť, aké žánre existujú a hlavne ktoré si treba určite prečítať. Prednáška bude vhodná len pre osoby staršie ako 18 rokov.]]></annotation>
+</programme><programme><pid>7648</pid>
+<author><![CDATA[Marián Sulák]]></author>
+<title><![CDATA[Sci-fi v MLP FiM]]></title>
+<program-line><![CDATA[PonyCon]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[KD Junior - KD Přízemní sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Čo majú preboha spoločné poníci a sci-fi? Veľa. Tvorcovia dali do seriálu sci-fi referencie, fanúšikovia píšu a kreslia ostošesť, internety sú plné crossover videí. Tak sa na to poďme pozrieť.]]></annotation>
 </programme><programme><pid>8101</pid>
 <author><![CDATA[Jiří Novák "Ghormoon"]]></author>
 <title><![CDATA[DJ Hero: Easy]]></title>
@@ -11115,6 +11700,67 @@ Pozn.: je možné jít si zastřílet kdykoli se v průběhu festivalu, stačí 
 <start-time>2013-07-03T14:00:00+02:00</start-time>
 <end-time>2013-07-03T14:00:00+02:00</end-time>
 <annotation><![CDATA[Bitva co nemá konce,ve vlnách se na sebe stále znovu a znovu vrháme, až do poslední smrti a vyčerpání. Aneb s užitím půjčených bezpečných mečáků se zřežeme jako koni, a zas, a zas...]]></annotation>
+</programme><programme><pid>8524</pid>
+<author><![CDATA[Ondřej Procházka "Verlaine"+ Matouš Muzika]]></author>
+<title><![CDATA[Zápis do soutěží jednotlivců]]></title>
+<program-line><![CDATA[OutCon]]></program-line>
+<type>G</type>
+<length>01:00h</length>
+<location><![CDATA[Venku - Za Sokolovnou]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Zápis do turnajů v lemtání piva, hodu elfem a do skřetího trojboje.]]></annotation>
+</programme><programme><pid>8525</pid>
+<author><![CDATA[Ondřej Procházka "Verlaine"+ Matouš Muzika]]></author>
+<title><![CDATA[Hod elfem]]></title>
+<program-line><![CDATA[OutCon]]></program-line>
+<type>G</type>
+<length>02:00h</length>
+<location><![CDATA[Venku - Za Sokolovnou]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Tradiční skřetí disciplína ve které si mnoho mladých skřetů dokazuje svoji sílu. Kdo letos hodí nejdál? Boj bude napínavý, tak nezapomeňte fandit.]]></annotation>
+</programme><programme><pid>8526</pid>
+<author><![CDATA[Ondřej Procházka "Verlaine"+ Matouš Muzika]]></author>
+<title><![CDATA[Skřetí trojboj]]></title>
+<program-line><![CDATA[OutCon]]></program-line>
+<type>G</type>
+<length>02:00h</length>
+<location><![CDATA[Venku - Za Sokolovnou]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[POZOR Tato disciplína je jen pro nejtvrdší z Vás!
+Připravte se na nejbrutálnější disciplínu v dějinách Orclimpijády. Trojboj se bude skládat ze skřetího jídla, pití a oblíbené hospodské zábavy zatloukání trpaslíků.]]></annotation>
+</programme><programme><pid>8527</pid>
+<author><![CDATA[Ondřej Procházka "Verlaine"+ Matouš Muzika]]></author>
+<title><![CDATA[Lemtání piva]]></title>
+<program-line><![CDATA[OutCon]]></program-line>
+<type>G</type>
+<length>02:00h</length>
+<location><![CDATA[Venku - Za Sokolovnou]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Pravá zábava gentlemanů aneb skřet není kaktus, musí pít.]]></annotation>
+</programme><programme><pid>8528</pid>
+<author><![CDATA[Ondřej Procházka "Verlaine"+ Matouš Muzika]]></author>
+<title><![CDATA[Zápis na skřetbal]]></title>
+<program-line><![CDATA[OutCon]]></program-line>
+<type>G</type>
+<length>01:00h</length>
+<location><![CDATA[Venku - Za Sokolovnou]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Zápis družstev do skřetbalového turnaje.]]></annotation>
+</programme><programme><pid>8529</pid>
+<author><![CDATA[Ondřej Procházka "Verlaine"+ Matouš Muzika]]></author>
+<title><![CDATA[Skřetbal]]></title>
+<program-line><![CDATA[OutCon]]></program-line>
+<type>G</type>
+<length>06:00h</length>
+<location><![CDATA[Venku - Za Sokolovnou]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Nejdrsnější sport od Valinoru po Mordor! Vzrušující akční podívaná! Doveďte svůj čtyřčlenný tým k vítězství nebo se jen bavte a sledujte opravdový masakr!]]></annotation>
 </programme><programme><pid>9001</pid>
 <author><![CDATA[Festival fantazie "FF"]]></author>
 <title><![CDATA[Muzeum Videoher]]></title>
@@ -11318,6 +11964,19 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <start-time>2013-07-05T12:00:00+02:00</start-time>
 <end-time>2013-07-05T12:00:00+02:00</end-time>
 <annotation><![CDATA[Jedna z nejlépe hodnocených deskových her poslední doby. Hra kombinuje propracovaný ekonomický model evropského typu a kostkové bitvy americké školy. Osídlete neprozkoumané hvězdné systémy, vyviňte udivující technologie, a přeměňte svoji civilizaci na ekonomickou a vojenskou velmoc celé galaxie!]]></annotation>
+</programme><programme><pid>9021</pid>
+<author><![CDATA[Festival fantazie "FF"+ Viktor Dobrovolný, Ivo Šebek]]></author>
+<title><![CDATA[Evropa 2045]]></title>
+<program-line><![CDATA[GameFFest]]></program-line>
+<type>G</type>
+<length>04:00h</length>
+<location><![CDATA[FF areál - FF herny]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Hráči se přenesou do rolí politických vůdců Evropské Unie a jejich cílem bude
+nasměrovat Evropu tím správným směrem. Ale čí směr je ten správný? Padne EU?
+Nebo se její mocenská základna naopak posílí? To už bude jen na vás. Poměrně
+atypická, výrazně diskuzně zaměřená hra.]]></annotation>
 </programme><programme><pid>9101</pid>
 <author><![CDATA[Josef Kotlaba "Kapitán Jack Harkness"]]></author>
 <title><![CDATA[Zahrajme si Dark Souls]]></title>
@@ -11328,6 +11987,17 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <start-time>2013-06-28T22:00:00+02:00</start-time>
 <end-time>2013-06-28T22:00:00+02:00</end-time>
 <annotation><![CDATA[Co dělat v Lordranu, když člověk nežije? Povídání o kultovním japonském RPG, kde smrt je na denním pořádku, okořeněné živým hraním.]]></annotation>
+</programme><programme><pid>9111</pid>
+<author><![CDATA[Petr Glaser "darklifer"]]></author>
+<title><![CDATA[Tvorba hry z pohledu herního návrháře]]></title>
+<program-line><![CDATA[GameLine]]></program-line>
+<type>P +B</type>
+<length>1h</length>
+<location><![CDATA[Sokolovna - Sok. Malý sál]]></location>
+<start-time>2013-07-04T17:00:00+02:00</start-time>
+<end-time>2013-07-04T17:00:00+02:00</end-time>
+<annotation><![CDATA[Přijďte si poslechnout jaké to je tvořit MMORPG hru. Co to vše obnáší, co je potřeba udělat a jakým systémem se musí pracovat, aby hra došla do zdárného konce co možná nejrychleji - to vše se dozvíte na této přednášce.
+Čeká na Vás i zákulisní info z vývoje českého MMORPG - Azulgar.]]></annotation>
 </programme><programme><pid>9126</pid>
 <author><![CDATA[Jan Smetana "Xsoft"]]></author>
 <title><![CDATA[Mé oblíbené hudební hry]]></title>
@@ -11385,8 +12055,8 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <type>Q</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Malý sál]]></location>
-<start-time>2013-07-04T21:00:00+02:00</start-time>
-<end-time>2013-07-04T21:00:00+02:00</end-time>
+<start-time>2013-07-04T22:00:00+02:00</start-time>
+<end-time>2013-07-04T22:00:00+02:00</end-time>
 <annotation><![CDATA[GameLine by nebyla kompletní bez herního kvízu, na kterém můžete vyhrát zajímavé a hodnotné ceny.]]></annotation>
 </programme><programme><pid>9141</pid>
 <author><![CDATA[Filip Kiulpekidis "Kaliend"]]></author>
@@ -11405,8 +12075,8 @@ atypická, výrazně diskuzně zaměřená hra. Celkem 6 x hraní.]]></annotatio
 <type>H</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Malý sál]]></location>
-<start-time>2013-07-04T18:00:00+02:00</start-time>
-<end-time>2013-07-04T18:00:00+02:00</end-time>
+<start-time>2013-07-04T19:00:00+02:00</start-time>
+<end-time>2013-07-04T19:00:00+02:00</end-time>
 <annotation><![CDATA[Původní tvorba ve stylu hudby k počítačovým hrám klasického osmibitového Atari 800XL.
 http://soundcloud.com/adam_sporka/sets/ready-atari-800xl]]></annotation>
 </programme><programme><pid>9143</pid>
@@ -11496,8 +12166,8 @@ http://soundcloud.com/adam_sporka/sets/ready-atari-800xl]]></annotation>
 <type>P +B</type>
 <length>1h</length>
 <location><![CDATA[Sokolovna - Sok. Malý sál]]></location>
-<start-time>2013-07-04T20:00:00+02:00</start-time>
-<end-time>2013-07-04T20:00:00+02:00</end-time>
+<start-time>2013-07-04T21:00:00+02:00</start-time>
+<end-time>2013-07-04T21:00:00+02:00</end-time>
 <annotation><![CDATA[Videohry z fantasy světa Warhammeru od první až po ty nejnovější. Pokud hledáte temné fantasy, které si neberé servítky v brutalitě i krutém vtipu, toto by mohlo být něco pro vás.]]></annotation>
 </programme><programme><pid>9152</pid>
 <author><![CDATA[Martin Čabrun "DreamorCZ"]]></author>
@@ -11526,8 +12196,8 @@ http://soundcloud.com/adam_sporka/sets/ready-atari-800xl]]></annotation>
 <type>G +W</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T22:00:00+02:00</start-time>
-<end-time>2013-07-04T22:00:00+02:00</end-time>
+<start-time>2013-07-04T23:00:00+02:00</start-time>
+<end-time>2013-07-04T23:00:00+02:00</end-time>
 <annotation><![CDATA[Amnesia v noci a na velkém plátně? That sounds like fun :)]]></annotation>
 </programme><programme><pid>9155</pid>
 <author><![CDATA[Prokop Smetana "NeoWorm"]]></author>
@@ -11672,7 +12342,7 @@ Pojďme se podívat na výčet nejšílenějších questů, které vám zaručen
 <annotation><![CDATA[V Cataclysmu se stal náčelníkem a zdál se být velmi přísný, rozhodný a také spravedlivý. Jeho roli náčelníka, který začal být uznávaný, ale srazil datadisk Mist of Pandaria. Probereme historii a vývoj postavy Garroshe. Byl to hrdý ork, ale dostal se až na pokraj samotného zla.]]></annotation>
 </programme><programme><pid>9169</pid>
 <author><![CDATA[Zuzana Hortenská "Zuzlínka"]]></author>
-<title><![CDATA[Throne of Thunder a další raidy MoP]]></title>
+<title><![CDATA[Throne of Thunder a další raidy]]></title>
 <program-line><![CDATA[GameLine]]></program-line>
 <type>P</type>
 <length>1h</length>
@@ -11777,8 +12447,8 @@ Pojďme se podívat na výčet nejšílenějších questů, které vám zaručen
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T17:00:00+02:00</start-time>
-<end-time>2013-07-04T17:00:00+02:00</end-time>
+<start-time>2013-07-04T18:00:00+02:00</start-time>
+<end-time>2013-07-04T18:00:00+02:00</end-time>
 <annotation><![CDATA[Total War od počátku až po současnost.]]></annotation>
 </programme><programme><pid>9180</pid>
 <author><![CDATA[Martin Sedlařík "BredBrodak"]]></author>
@@ -11869,8 +12539,8 @@ Debata, ukázky a názory publika :)
 <type>P</type>
 <length>1h</length>
 <location><![CDATA[]]></location>
-<start-time>2013-07-04T19:00:00+02:00</start-time>
-<end-time>2013-07-04T19:00:00+02:00</end-time>
+<start-time>2013-07-04T20:00:00+02:00</start-time>
+<end-time>2013-07-04T20:00:00+02:00</end-time>
 <annotation><![CDATA[Kdo nezná FF universum okupované roztomilými moogly a pštrosům podobnými chocoby, měl by se vážně zamyslet nad tím, kde udělal ve svém životě chybu a zapochybovat nad celou existencí světa. Anebo si jednoduše přijít poslechnout, co je tato série zač a doplnit si tak mezery ve vzdělání.]]></annotation>
 </programme><programme><pid>9189</pid>
 <author><![CDATA[Martin Švejda]]></author>
@@ -11992,6 +12662,16 @@ Debata, ukázky a názory publika :)
 <start-time></start-time>
 <end-time></end-time>
 <annotation><![CDATA[Minecraft jako nástroj výuky ve světě a v ČR. Minecraft a MinecraftEdu a jejich současné využití v praxi. Nejznámější Minecraft učitelé. Využitelnost Minecraftu a MinecraftEdu v českých školách – pro a proti, rozbor výsledků ankety na toto téma společně s obecenstvem.]]></annotation>
+</programme><programme><pid>9202</pid>
+<author><![CDATA[Petr Čaněk "Čenda"]]></author>
+<title><![CDATA[CreeperWar - jak se staví PvM server]]></title>
+<program-line><![CDATA[CraFFtcon]]></program-line>
+<type>P</type>
+<length>1h</length>
+<location><![CDATA[Gymnázium - Gymn. Velký sál]]></location>
+<start-time></start-time>
+<end-time></end-time>
+<annotation><![CDATA[Upravené itemy, zbraně, mobové. Speciální mapy, promyšlené questy, poutavý příběh. To vše je CreeperWar. Zajímá vás jak je stavěn takový server? Co stojí v pozadí, jak co funguje, jak je co vytvářeno? Pak jste tu správně. Server bude krátce představen a poté ukáži jak jej buduji. Přednáší CorwinCZ.]]></annotation>
 </programme><programme><pid>9301</pid>
 <author><![CDATA[Legend Con "LegendCon"+ Apy]]></author>
 <title><![CDATA[Česká komunita LoL]]></title>

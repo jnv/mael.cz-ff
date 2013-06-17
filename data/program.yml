@@ -1,711 +1,721 @@
 ---
 2013-07-01:
 - :author: Štěpán Sem "Emperor"
-  :start: !ruby/object:DateTime 2013-07-01 09:00:00.000000000 +02:00
   :title: RSA
+  :end: !ruby/object:DateTime 2013-07-01 09:00:00.000000000 +02:00
   :description: Hlavní náplní přednášky bude výklad principů asymetrické kryptografie,
     podrobněji se zaměříme na kryptosystém (šifru) RSA, s níž přicházíme (byť nevědomky)
     denně do styku. Zabrousíme i do historie a obecnějších témat souvisejících s počítačovou
     bezpečností.
   :length: 2h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 09:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 09:00:00.000000000 +02:00
 - :author: Festival fantazie "FF" + Tomáš Bureš
-  :start: !ruby/object:DateTime 2013-07-01 11:00:00.000000000 +02:00
   :title: Katastrofy způsobené chybným softwarem
+  :end: !ruby/object:DateTime 2013-07-01 11:00:00.000000000 +02:00
   :description: V každodenním životě nás obklopují počítače (v autech, letadlech,
     v nemocnicích apod.). V mnoha případech na jejich spolehlivém fungování závisí
     naše zdraví či životy. Podíváme se na to, jak se dneska zajišťuje, že software
     v těchto počítačích dělá, co má, a i co se může stát, když se něco pokazí.
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 11:00:00.000000000 +02:00
 - :author: Tomáš Petrásek
-  :start: !ruby/object:DateTime 2013-07-01 12:00:00.000000000 +02:00
   :title: Zánik Země
+  :end: !ruby/object:DateTime 2013-07-01 12:00:00.000000000 +02:00
   :description: Život na Zemi bude zničen! Stane se naše Země druhou Venuší, nebo
     spíš sestrou planety Arrakis? Může naše planeta uniknout ohnivému hrobu v jícnu
     Slunce? Zapomeňte na Maye i Nostradama! Připravte se na apokalypsu, v níž se vypařují
     planety, vybuchují hvězdy a srážejí se galaxie!
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 12:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 12:00:00.000000000 +02:00
 - :author: Scarlett Rauschgoldová "Darth Zira"
-  :start: !ruby/object:DateTime 2013-07-01 13:00:00.000000000 +02:00
   :title: Smrtelné hříchy
+  :end: !ruby/object:DateTime 2013-07-01 13:00:00.000000000 +02:00
   :description: Umíte z hlavy bez zaváhání vyjmenovat sedm hlavních smrtelných hříchů
     podle křesťanství? A proč jsou považované za hříchy? Víte, jak na ně pohlížejí
     jiná náboženství? Satanismus je prý naopak vnímá jako pozitiva - je tomu tak opravdu?
     A není pouze sedm hříchů náhodou málo?
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 13:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 13:00:00.000000000 +02:00
 - :author: Petra Hyklová
-  :start: !ruby/object:DateTime 2013-07-01 14:00:00.000000000 +02:00
   :title: Potkan fantastický
+  :end: !ruby/object:DateTime 2013-07-01 14:00:00.000000000 +02:00
   :description: Popis nového živočišného druhu! Kde ho najít? Jak vypadá? Čím se liší
     od fádního potkana obyčejného?
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 14:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 14:00:00.000000000 +02:00
 - :author: Miroslav Havlín
-  :start: !ruby/object:DateTime 2013-07-01 15:00:00.000000000 +02:00
   :title: Kolik máme pohlaví?
+  :end: !ruby/object:DateTime 2013-07-01 15:00:00.000000000 +02:00
   :description: Na Venuši je to jasné – sedm. Ale na Zemi? Probereme různé úhly pohledu
     definující pohlaví a představíme si nejčastější intersexuální stavy.
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 15:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 15:00:00.000000000 +02:00
 - :author: Jana Filipenská "Phoenix"
-  :start: !ruby/object:DateTime 2013-07-01 16:00:00.000000000 +02:00
   :title: Čtyři druhy temperamentu
+  :end: !ruby/object:DateTime 2013-07-01 16:00:00.000000000 +02:00
   :description: Pojďme pochopit chování naší rodiny, partnerů a spolužáků. Přednáška
     prozradí rozdíly povahových typů a jak s nimi efektivně komunikovat.
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 16:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 16:00:00.000000000 +02:00
 - :author: Lenka Lukáčová "Blanca"
-  :start: !ruby/object:DateTime 2013-07-01 17:00:00.000000000 +02:00
   :title: Bible - co tím chtěl autor říct?
+  :end: !ruby/object:DateTime 2013-07-01 17:00:00.000000000 +02:00
   :description: V průběhu staletí se kolem různých biblických pasáží objevovalo mnoho
     různých výkladů, z nichž některé si poměrně významně protiřečili. V této přednášce
     si alespoˇn u některých takový "historický výkladový vývoj" ukážeme.
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 17:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 17:00:00.000000000 +02:00
 - :author: Josef Novák "Faskal"
-  :start: !ruby/object:DateTime 2013-07-01 18:00:00.000000000 +02:00
   :title: Extrémní podoby života
+  :end: !ruby/object:DateTime 2013-07-01 18:00:00.000000000 +02:00
   :description: Život na zemi má mnoho podob, můžeme jej najít vysoko v horách i hluboko
     v zemské kůře, v teplotách nižších než nula nebo vyšších než 100 stupňů, v destilované
     vodě i nasyceném roztoku soli a určitě snese víc alkoholu, než vy. Jak je to možné?
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 18:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 18:00:00.000000000 +02:00
 - :author: Filip Štaffa
-  :start: !ruby/object:DateTime 2013-07-01 19:00:00.000000000 +02:00
   :title: Hloupé chyby
+  :end: !ruby/object:DateTime 2013-07-01 19:00:00.000000000 +02:00
   :description: Každý dělá chyby. Musíme ale dělat i ty hloupé?
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 19:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 19:00:00.000000000 +02:00
 - :author: Lenka Ratajová "Kleio"
-  :start: !ruby/object:DateTime 2013-07-01 20:00:00.000000000 +02:00
   :title: Proč se tu tak jmenuje?
+  :end: !ruby/object:DateTime 2013-07-01 20:00:00.000000000 +02:00
   :description: Jména měst, vesnic i osad jak je možná neznáte. Fakta, záhady i omyly
     lidové etymologie. A jako bonus anketa o nejpodivnější obci u nás.
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 20:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 20:00:00.000000000 +02:00
 - :author: Tomáš Petrásek
-  :start: !ruby/object:DateTime 2013-07-01 21:00:00.000000000 +02:00
   :title: Světy mrtvých hvězd
+  :end: !ruby/object:DateTime 2013-07-01 21:00:00.000000000 +02:00
   :description: Když hvězda zemře - co se stane s jejími planetami? Čeká je mrazivý
     hrob, nebo netušená posmrtná existence? Navštívíme galaktické márnice a pokusíme
     se odhadnout, zda by i na světech dávno mrtvých sluncí nemohl existovat život.
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 21:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 21:00:00.000000000 +02:00
 - :author: Tomáš Mládek
-  :start: !ruby/object:DateTime 2013-07-01 23:00:00.000000000 +02:00
   :title: Lucidní snění
+  :end: !ruby/object:DateTime 2013-07-01 23:00:00.000000000 +02:00
   :description: Stalo se vám někdy, že máte šest prstů a tak jste se vznesli a odletěli
     směrem k Marsu? Vítejte ve světě lucidních snů… Od teorie, až po praktické návody.
     Letos s novou technikou pro navození lucidních snů!
   :length: 1h
   :day: 2013-07-01
-  :end: !ruby/object:DateTime 2013-07-01 23:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-01 23:00:00.000000000 +02:00
 2013-07-02:
 - :author: Festival fantazie "FF" + Dalibor Šmíd
-  :start: !ruby/object:DateTime 2013-07-02 10:00:00.000000000 +02:00
   :title: Karetní hra a renesanční malíři?
+  :end: !ruby/object:DateTime 2013-07-02 10:00:00.000000000 +02:00
   :description: aneb Vyrobte si svůj vlastní Dobble.  Oblíbená postřehová hra. Každá
     dvojice kartiček obsahuje jeden společný symbol. Jak se takový balíček sestaví?
     Porozumíte-li nečekané symetrii geometrického původu, která se v něm skrývá, můžete
     vytvořit nekonečně mnoho svých vlastních originálních Dobblů.
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 10:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 10:00:00.000000000 +02:00
 - :author: Miroslav Havlín
-  :start: !ruby/object:DateTime 2013-07-02 11:00:00.000000000 +02:00
   :title: ! 'Mentální anorexie: pohled lékaře'
+  :end: !ruby/object:DateTime 2013-07-02 11:00:00.000000000 +02:00
   :description: Mentální anorexie je vysoce medializované onemocnění, přesto veřejnost
     má o něm chabé povědomí. Představíme si jeho kořeny, příbuzné stavy, typický průběh
     onemocnění a řekneme si i o léčbě a prognóze. 
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 11:00:00.000000000 +02:00
 - :author: Miroslav Havlín
-  :start: !ruby/object:DateTime 2013-07-02 12:00:00.000000000 +02:00
   :title: ! 'Mentální anorexie: pohled pacientek'
+  :end: !ruby/object:DateTime 2013-07-02 12:00:00.000000000 +02:00
   :description: Komunita pacientek s mentální anorexii je internetově vysoce aktivní
     a na svých stránkách prozradí mnoho ze svých postojů a způsobu uvažování. Ukážeme
     si hlavní motivační zdroje, praktické návody jak obelstít okolí, podíváme se na
     jídelníčky a na závěr si ukážeme jejich výtvarná díla.
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 12:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 12:00:00.000000000 +02:00
 - :author: David Vávra "Destil"
-  :start: !ruby/object:DateTime 2013-07-02 13:00:00.000000000 +02:00
   :title: Google Glass
+  :end: !ruby/object:DateTime 2013-07-02 13:00:00.000000000 +02:00
   :description: Již příští rok si bude možné koupit chytré brýle od Googlu. Podle
     mnohých podobná zařízení (wearable computers) představují další technologický
     skok po smartphonech a tabletech. Co Google Glass umí, na co se hodí a na co ne?
     Poslechněte si zkušenosti z reálného používání brýlí.
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 13:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 13:00:00.000000000 +02:00
 - :author: Tomáš Mládek
-  :start: !ruby/object:DateTime 2013-07-02 14:00:00.000000000 +02:00
   :title: Umělé jazyky
+  :end: !ruby/object:DateTime 2013-07-02 14:00:00.000000000 +02:00
   :description: Ovlivňuje náš jazyk to, jak myslíme? Jak by měl vypadat univerzální
     jazyk? A je nějaký absolutně přesný jazyk? Od Esperanta přes Lojban po Tolkiena
     - aneb o všech možných jazycích, jen ne o těch, kterými se někde domluvíte.
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 14:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 14:00:00.000000000 +02:00
 - :author: Jitka Brandejská "Triss"
-  :start: !ruby/object:DateTime 2013-07-02 15:00:00.000000000 +02:00
   :title: Patenty a patentování
+  :end: !ruby/object:DateTime 2013-07-02 15:00:00.000000000 +02:00
   :description: Co to vlastně znamená mít patent? Jak ho lze získat a jaké jsou další
     možnosti ochrany toho, co jsme vymysleli? Bláznivé vynálezy a vynálezci.
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 15:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 15:00:00.000000000 +02:00
 - :author: Lenka Ratajová "Kleio"
-  :start: !ruby/object:DateTime 2013-07-02 16:00:00.000000000 +02:00
   :title: Klasické vs. odborné
+  :end: !ruby/object:DateTime 2013-07-02 16:00:00.000000000 +02:00
   :description: ! 'Osobní vhled do českého vzdělávacího systému a zkušenosti s oběma
     póly středoškolského vzdělávání vzbuzují neodbytně dvě otázky: Musíme být všichni
     chytří? A zbyde vůbec někdo, kdo bude pracovat rukama?'
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 16:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 16:00:00.000000000 +02:00
 - :author: Filip Štaffa
-  :start: !ruby/object:DateTime 2013-07-02 17:00:00.000000000 +02:00
   :title: Víno
+  :end: !ruby/object:DateTime 2013-07-02 17:00:00.000000000 +02:00
   :description: Pití vína se pomalu stává společenskou dovedností. Jak se vyhnout
     trapasům? Jak si víno nejlépe vychutnat? Co je to portské? Tato přednáška se Vám
     pokusí dát nejen základní znalosti na to, abyste se mohli tvářit jako pravý vinný
     snob, ale i moudrost na to, abyste to nedělali.
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 17:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 17:00:00.000000000 +02:00
 - :author: Josef Novák "Faskal"
-  :start: !ruby/object:DateTime 2013-07-02 18:00:00.000000000 +02:00
   :title: Vzestup a pád genové terapie
+  :end: !ruby/object:DateTime 2013-07-02 18:00:00.000000000 +02:00
   :description: Genová terapie byla ve svých počátcích vnímána jako zázračná léčba,
     kterou lze vyléčit všechny neduhy. Při úvodních experimentech však došlo k řadě
     neštěstí, a byla dlouho vnímána jako špatná cesta. Může znovu vstát z popela?
     Jaká jsou rizika, naděje a co se doteď povedlo na poli genové terapie?
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 18:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 18:00:00.000000000 +02:00
 - :author: Václav Semerád "Netopýr"
-  :start: !ruby/object:DateTime 2013-07-02 19:00:00.000000000 +02:00
   :title: Babylónská věž v mimoprostorech
+  :end: !ruby/object:DateTime 2013-07-02 19:00:00.000000000 +02:00
   :description: Zdá se vám také ujeté, že se v celém vesmíru mluví (i píše!) zásadně
     anglicky? Hrdina se nediví, že napíše anglicky nápis a místní obyvatelé to běžně
     čtou, pak se nejapně diví, že je doma! Vždyť se efektivně nedorozumíme ani na
     Zemi! Jak by vypadala domluva s mimozemšťany? Angličtina to snad nebude!
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 19:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 19:00:00.000000000 +02:00
 - :author: Eleni Dimelisová
-  :start: !ruby/object:DateTime 2013-07-02 20:00:00.000000000 +02:00
   :title: Kultura Inků
+  :end: !ruby/object:DateTime 2013-07-02 20:00:00.000000000 +02:00
   :description: Exkurze do minulosti! Přijďte nahlédnout do fascinujícího života obyvatel
     předkolumbovského impéria. Jak vypadala incká společnost, náboženství, architektura
     a každodenní život? Proč by nám přišlo nechutné být konkubínou inckého vládce?
     A proč bychom měli závidět královským mumiím? 
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 20:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 20:00:00.000000000 +02:00
 - :author: Tomáš Petrásek
-  :start: !ruby/object:DateTime 2013-07-02 21:00:00.000000000 +02:00
   :title: Europa
+  :end: !ruby/object:DateTime 2013-07-02 21:00:00.000000000 +02:00
   :description: Pod ledovým pancířem tohoto Jupiterova měsíce se nalézá více kapalné
     vody, než v oceánech naší Modré planety. Europa je svět s příslibem mimozemského
     života, ale také svět smrtelně nebezpečný. Co se asi skrývá pod jeho mlčenlivými
     ledovci?
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 21:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 21:00:00.000000000 +02:00
 - :author: Petra Hyklová
-  :start: !ruby/object:DateTime 2013-07-02 22:00:00.000000000 +02:00
   :title: Pohledy do nebe
+  :end: !ruby/object:DateTime 2013-07-02 22:00:00.000000000 +02:00
   :description: Nebe je stále stejné jako před tisíciletími. To jen člověk se mění
     a vidí je pokaždé jinak. Jak si představovali vesmír naši předkové? Co to o nich
     vypovídá? A jak vidíme vesmír dnes?
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 22:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 22:00:00.000000000 +02:00
 - :author: Scarlett Rauschgoldová "Darth Zira"
-  :start: !ruby/object:DateTime 2013-07-02 23:00:00.000000000 +02:00
   :title: Proč jít do swingers klubu
+  :end: !ruby/object:DateTime 2013-07-02 23:00:00.000000000 +02:00
   :description: ! 'V dnešní době padají mnohá sexuální tabu, ale když se řekne "swingers
     klub", i mnozí jinak liberálně smýšlející se vyděsí. Jak to v takovém podniku
     vlastně vypadá? A co tam vůbec může pohledávat člověk, který nijak netouží střídat
     partnery? Mnohem víc, než byste čekali!  Pozn.: Nevhodné do 18 let!'
   :length: 1h
   :day: 2013-07-02
-  :end: !ruby/object:DateTime 2013-07-02 23:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-02 23:00:00.000000000 +02:00
 2013-07-03:
 - :author: Festival fantazie "FF" + Kristýna Kuncová
-  :start: !ruby/object:DateTime 2013-07-03 10:00:00.000000000 +02:00
   :title: TEMNO (TEOrie MNOžin)
+  :end: !ruby/object:DateTime 2013-07-03 10:00:00.000000000 +02:00
   :description: Had Uroboros. Je rychlejší Zénón nebo jeho želva? Konečně nekonečno.
     Čeká Vás nejtemnější zákoutí matematiky. Teorie množin. Přednáška z cyklu MatFyz
     Expo.
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 10:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 10:00:00.000000000 +02:00
 - :author: Jan Červenka "Norek"
-  :start: !ruby/object:DateTime 2013-07-03 11:00:00.000000000 +02:00
   :title: Jak vylepšovat člověka?
+  :end: !ruby/object:DateTime 2013-07-03 11:00:00.000000000 +02:00
   :description: Vývoj biotechnologií a jejich aplikace mění náš pohled na člověka.
     Dělá člověka člověkem jeho biologické tělo nebo jeho duchovní hodnoty? A co když
     jsou hodnoty v rozporu s biologickou podmíněností života? Jak daleko zajít s úpravami
     lidské schránky a jaký vliv to má na naše chápání člověka?
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 11:00:00.000000000 +02:00
 - :author: Filip Štaffa
-  :start: !ruby/object:DateTime 2013-07-03 12:00:00.000000000 +02:00
   :title: Multiparadigmatické myšlení
+  :end: !ruby/object:DateTime 2013-07-03 12:00:00.000000000 +02:00
   :description: Co má společného kreacionismus a hypotéka? Obojí jsou naše paradigmata,
     náš pohled na to jak svět funguje. Na této přednášce se dozvíte nejen jak o paradigmatech
     přemýšlet, ale i to, jak se nestát (hypotékovým) fanatikem.
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 12:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 12:00:00.000000000 +02:00
 - :author: Michal Lukáč "Dragon Lord"
-  :start: !ruby/object:DateTime 2013-07-03 13:00:00.000000000 +02:00
   :title: Výběr z moderní počítačové grafiky
+  :end: !ruby/object:DateTime 2013-07-03 13:00:00.000000000 +02:00
   :description: ! '"Co vy tam vlastně děláte?" aneb výzkumník v oblasti počítačové
     grafiky předvede výběr nejzajímavějších publikací za poslední tři roky.'
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 13:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 13:00:00.000000000 +02:00
 - :author: Josef Novák "Faskal"
-  :start: !ruby/object:DateTime 2013-07-03 14:00:00.000000000 +02:00
   :title: Proteinové inženýrství
+  :end: !ruby/object:DateTime 2013-07-03 14:00:00.000000000 +02:00
   :description: Genetická modifikace je zajímavá, ale to pravé umění je modifikovat
     proteiny.  Jak vytvořit vlákno silnější než ocel, vymýšlet nové léky? Které metody
     se používají k určení 3D struktury proteinů, a jak se tyto znalosti používají
     k navrhování proteinů s novými vlastnostmi?
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 14:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 14:00:00.000000000 +02:00
 - :author: Ondřej Švejda
-  :start: !ruby/object:DateTime 2013-07-03 15:00:00.000000000 +02:00
   :title: Illumináti - skrytí vládci světa?
+  :end: !ruby/object:DateTime 2013-07-03 15:00:00.000000000 +02:00
   :description: ! '"Jsou všude kolem nás", ale nejsou to Transformeři! Vládnou světu
     a přitom o nich nikdo neví. Denně je vidíme a slyšíme a ani si to neuvědomujeme.
     Přijd´te si poslechnout, jak se nám až směšně nápadně zavrtávají Illumináti do
     podvědomí.'
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 15:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 15:00:00.000000000 +02:00
 - :author: Štěpán Sem "Emperor"
-  :start: !ruby/object:DateTime 2013-07-03 16:00:00.000000000 +02:00
   :title: Genetické algoritmy
+  :end: !ruby/object:DateTime 2013-07-03 16:00:00.000000000 +02:00
   :description: Genetické algoritmy a genetické programování spadají do skupiny výpočetních
     metod inspirovaných evoluční biologií. Lze je použít k řešení široké škály problémů,
     od přibližného vyčíslení π po optimalizaci výrobního programu či návrh strojů.
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 16:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 16:00:00.000000000 +02:00
 - :author: Jitka Brandejská "Triss"
-  :start: !ruby/object:DateTime 2013-07-03 17:00:00.000000000 +02:00
   :title: Chemie v jídle
+  :end: !ruby/object:DateTime 2013-07-03 17:00:00.000000000 +02:00
   :description: Chemie je všude! Co se děje v potravinách při vaření, jak funguje
     konzervace potravin a tak dále.
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 17:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 17:00:00.000000000 +02:00
 - :author: Kateřina Täuberová "Sathel"
-  :start: !ruby/object:DateTime 2013-07-03 18:00:00.000000000 +02:00
   :title: Argumentace a rétorika
+  :end: !ruby/object:DateTime 2013-07-03 18:00:00.000000000 +02:00
   :description: Snažili jste se někdy někoho přesvědčit a nešlo vám to? Možná jste
     měli špatné argumenty. Umíte poznat, který argument je silný a proč? Napadají
     vás ty nejlepší věty, až když je po všem? Myslíte si, že přesvědčování je talent?
     Nesmysl, všechno se dá naučit. A můžete začít právě touto přednáškou.
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 18:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 18:00:00.000000000 +02:00
 - :author: Tomáš Petrásek
-  :start: !ruby/object:DateTime 2013-07-03 19:00:00.000000000 +02:00
   :title: Červení trpaslíci
+  :end: !ruby/object:DateTime 2013-07-03 19:00:00.000000000 +02:00
   :description: Jak vypadá průměrná hvězda? Rozhodně ne jako naše Slunce! Typická
     hvězda je malá, rudá a divoká! Seznamte se s červenými trpaslíky a jejich planetami
     - těmi již objevenými i hypotetickými. Mohou se podobat Zemi?
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 19:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 19:00:00.000000000 +02:00
 - :author: Petra Hyklová
-  :start: !ruby/object:DateTime 2013-07-03 20:00:00.000000000 +02:00
   :title: Věci mezi nebem a zemí
+  :end: !ruby/object:DateTime 2013-07-03 20:00:00.000000000 +02:00
   :description: Ruští kosmonauti močí na kola autobusu, zatímco američtí hrají karty.
     Řadu 13 v letadlech některých aerolinek nenajdete. Přijďte si poslechnout vyprávění
     o neuvěřitelných historkách, prapodivných zvycích a absurdních pověrách ze světa
     letectví a kosmonautiky…
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 20:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 20:00:00.000000000 +02:00
 - :author: Jan Vlnas
-  :start: !ruby/object:DateTime 2013-07-03 21:00:00.000000000 +02:00
   :title: Realita hrou
+  :end: !ruby/object:DateTime 2013-07-03 21:00:00.000000000 +02:00
   :description: ! 'Realita je nudná. Málo epická. Měla by více fungovat jako hry.
     Nesouhlasíte? Herní design však pomalu proniká do všech činností, skrze gamifikaci
     či alternativní realitu. Hry mohou nejenom bavit, mají potenciál měnit svět. K
     lepšímu nebo k horšímu? [Achievement Get: Přečtená anotace, +2 Int]'
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 21:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 21:00:00.000000000 +02:00
 - :author: Lenka Ratajová "Kleio"
-  :start: !ruby/object:DateTime 2013-07-03 22:00:00.000000000 +02:00
   :title: Krásnější než láska mužů
+  :end: !ruby/object:DateTime 2013-07-03 22:00:00.000000000 +02:00
   :description: Romantické přátelství, láska, přirozenost vztahů mezi dvěma ženami
     v kontrastu velkých obav mužů z toho, že ženy nahradí jejich místo. Kde se vzalo
     přesvědčení, že dvě ženy jenom čekají, až přijde „ten pravý“?
   :length: 1h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 22:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 22:00:00.000000000 +02:00
 - :author: Tomáš Čapek "Charmer"
-  :start: !ruby/object:DateTime 2013-07-03 23:00:00.000000000 +02:00
   :title: Bill Hicks - Neúprosný
+  :end: !ruby/object:DateTime 2013-07-03 23:00:00.000000000 +02:00
   :description: Slavné vystoupení Billa Hickse z roku 1991 na montrealském festivalu
     komedie. Zde zazářil jako kometa pro neamerické publikum a odstartoval svá mezinárodní
     turné. Připravte se na humor chvílemi až hraničící s vymýtáním ďábla. Nevhodné
     pro slabší povahy.
-  :length: 1h
+  :length: 2h
   :day: 2013-07-03
-  :end: !ruby/object:DateTime 2013-07-03 23:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-03 23:00:00.000000000 +02:00
 2013-07-04:
 - :author: Filip Štaffa
-  :start: !ruby/object:DateTime 2013-07-04 09:00:00.000000000 +02:00
   :title: Praktická teorie her
+  :end: !ruby/object:DateTime 2013-07-04 09:00:00.000000000 +02:00
   :description: Každý z nás občas dělá rozhodnutí, nebo musí strpět rozhodnutí jiných.
     Co vám s tím pomůže? Pokud bych vám měl dát jedno doporučení - buďte šílení. Vyplatí
     se to. Na přednášce se dozvíte proč.
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 09:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 09:00:00.000000000 +02:00
 - :author: Jitka Brandejská "Triss"
-  :start: !ruby/object:DateTime 2013-07-04 10:00:00.000000000 +02:00
   :title: Peklo na talíři, díl další
+  :end: !ruby/object:DateTime 2013-07-04 10:00:00.000000000 +02:00
   :description: Víme, co jíme? Jak rozlišit kvalitní potraviny od těch méně kvalitních?
     Kdy zbytečně nepanikařit a zachovat si chladnou hlavu. Heslo zní - na nákup s
     lupou!
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 10:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 10:00:00.000000000 +02:00
 - :author: Tomáš Čapek "Charmer"
-  :start: !ruby/object:DateTime 2013-07-04 11:00:00.000000000 +02:00
   :title: Princip moci
+  :end: !ruby/object:DateTime 2013-07-04 11:00:00.000000000 +02:00
   :description: Princip moci je fenomén kombinující evoluční principy a lidské chování.
     Je přítomen na všech úrovních společnosti a ovlivňuje historii na každém kroku.
     Podíváme se na příčiny a následky principu moci kolem nás a nabídneme nápady,
     jak se s ním vypořádat na individuální i neosobní úrovni. 
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 11:00:00.000000000 +02:00
 - :author: Festival fantazie "FF" + Jindřich Libovický
-  :start: !ruby/object:DateTime 2013-07-04 12:00:00.000000000 +02:00
   :title: Matematická lingvistika
+  :end: !ruby/object:DateTime 2013-07-04 12:00:00.000000000 +02:00
   :description: Povídání o tom, jak zařídit, aby nám počítače rozuměly, aby si s námi
     povídaly, aby nám přeložily všechno, čemu nerozumíme, a aby nám pověděly, co se
     kde šustne. (Přednáška z programu MatFyz Expo.)
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 12:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 12:00:00.000000000 +02:00
 - :author: Jan Čečrdle "Kenny"
-  :start: !ruby/object:DateTime 2013-07-04 13:00:00.000000000 +02:00
   :title: Multiversum
+  :end: !ruby/object:DateTime 2013-07-04 13:00:00.000000000 +02:00
   :description: Úvahy o existenci multiversa byly především doménou sci-fi. Co když
     je však na této domněnce více pravdy, než se na první pohled zdá?
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 13:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 13:00:00.000000000 +02:00
 - :author: Miroslav Havlín
-  :start: !ruby/object:DateTime 2013-07-04 14:00:00.000000000 +02:00
   :title: Hormony a tromboembolická nemoc
+  :end: !ruby/object:DateTime 2013-07-04 14:00:00.000000000 +02:00
   :description: Vliv hormonálních léčeb na vznik tromboembolické nemoci je šlágrem
     poslední dekády. Rychle jdoucí poznání hodně předběhlo obecné povědomí, navíc
     deformované mediálními kampaněmi, což vedlo ke vzniku řady pověr. Probereme problematiku
     ve světle aktuálního poznání.
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 14:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 14:00:00.000000000 +02:00
 - :author: Jan Vlnas
-  :start: !ruby/object:DateTime 2013-07-04 15:00:00.000000000 +02:00
   :title: Internet je na porno – a na vzdělání
+  :end: !ruby/object:DateTime 2013-07-04 15:00:00.000000000 +02:00
   :description: Umíte najít na internetu porno? A co třeba kurzy práva z Harvardu
     nebo statistiky z Berkeley? Zadarmo a přínosnější, než s čím se potkáte na většině
     českých škol. Jak fungují on-line kurzy, kde se dají najít a jak si mezi nimi
     vybrat? A jaký dopad bude mít on-line vzdělání na „kamenné“ školy?
   :length: 1h
   :day: 2013-07-04
-  :end: !ruby/object:DateTime 2013-07-04 15:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-04 15:00:00.000000000 +02:00
 2013-07-05:
 - :author: Jan Průcha "Jerson"
-  :start: !ruby/object:DateTime 2013-07-05 10:00:00.000000000 +02:00
   :title: Nejhorší letadla světa
+  :end: !ruby/object:DateTime 2013-07-05 10:00:00.000000000 +02:00
   :description: Povídání o letadlech, která nikdy neměla vzniknout - příliš velká,
     těžká, pomalá, slabá, letadla která nedokázala vzlétnout, přistát, nebo která
     zabila všechny své piloty.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 10:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 10:00:00.000000000 +02:00
 - :author: Petra Hyklová
-  :start: !ruby/object:DateTime 2013-07-05 11:00:00.000000000 +02:00
   :title: Česká astronomie v dobách nedávných
+  :end: !ruby/object:DateTime 2013-07-05 11:00:00.000000000 +02:00
   :description: Rok 1882. Mezi Čechy a českými Němci roste napětí a na sedm desetiletí
     nastává období dvou univerzit. Jaké to mělo dopady na český astronomický výzkum?
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 11:00:00.000000000 +02:00
 - :author: Milan Pohl "kernel32"
-  :start: !ruby/object:DateTime 2013-07-05 12:00:00.000000000 +02:00
   :title: Svatojakubská cesta v moderní době
+  :end: !ruby/object:DateTime 2013-07-05 12:00:00.000000000 +02:00
   :description: Na mnohasetkilometrové výpravy se lidé vydávají z nejrůznějších pohnutek.
     Přednáška se pokusí přiblížit nejen fenomén poutnictví jako takový, ale především
     jednu z nejznámějších poutí - Svatojakubskou cestu do Santiaga. Součástí bude
     fotografický doprovod a osobní zkušenosti.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 12:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 12:00:00.000000000 +02:00
 - :author: Hana Mudrová
-  :start: !ruby/object:DateTime 2013-07-05 13:00:00.000000000 +02:00
   :title: Jenom sedí a koukají
+  :end: !ruby/object:DateTime 2013-07-05 13:00:00.000000000 +02:00
   :description: Exkurze do světa, který se vyvíjí a všichni se v něm učí, jak dál.
     Novinky v přístupu a přitom stále platí prastaré zásady, které se nějak vytratily
     z našich životů. Vítejte na (vám dosud velmi vzdálené) planetě Dědečkárna.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 13:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 13:00:00.000000000 +02:00
 - :author: Miroslav Mácha "Miwa Y"
-  :start: !ruby/object:DateTime 2013-07-05 14:00:00.000000000 +02:00
   :title: Mobilní sítě
+  :end: !ruby/object:DateTime 2013-07-05 14:00:00.000000000 +02:00
   :description: Mobilní sítě - o tom jak funguje a jak je organizovaná mobilní síť.
     Pokusím se ji zjednodušit pro netechniky, aby to pochopila i moje dcera.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 14:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 14:00:00.000000000 +02:00
 - :author: Petra Hyklová
-  :start: !ruby/object:DateTime 2013-07-05 15:00:00.000000000 +02:00
   :title: Kam s nimi?
+  :end: !ruby/object:DateTime 2013-07-05 15:00:00.000000000 +02:00
   :description: O kom je řeč? O dětech, které je těžké zařadit do současného školství
     – dětech s handicapem. Kam s takovými dětmi? Integrovat, anebo poslat do speciální
     školy? 
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 15:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 15:00:00.000000000 +02:00
 - :author: Tomáš Čapek "Charmer"
-  :start: !ruby/object:DateTime 2013-07-05 16:00:00.000000000 +02:00
   :title: Crowdfunding - financování budoucnosti
+  :end: !ruby/object:DateTime 2013-07-05 16:00:00.000000000 +02:00
   :description: Crowdfunding je moderní způsob investování, čerpající z prastarých
     principů. Dává každému svobodu realizovat svůj projekt, a to bez pomoci bankéřů,
     spekulantů, vydavatelů nebo strategických investorů. Probereme filozofii, principy
     a technologie, které za crowdfundingem stojí.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 16:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 16:00:00.000000000 +02:00
 - :author: Miroslav Havlín
-  :start: !ruby/object:DateTime 2013-07-05 17:00:00.000000000 +02:00
   :title: Antikoncepční mýty a pověry
+  :end: !ruby/object:DateTime 2013-07-05 17:00:00.000000000 +02:00
   :description: O žádné lékové skupině neběhá tolik mýtů, pověr, desinformací a blbostí
     jako o hormonální antikoncepci. Ve světle medicíny založené na důkazech budou
     probrány otázky hmotnostního nárůstu, onkologické problematiky, metabolické otázky,
     změny libida, vliv na budoucí plodnost a mnoho dalších.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 17:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 17:00:00.000000000 +02:00
 - :author: Jan Vlnas + Filip Štaffa, Kateřina Täuberová, Tomáš Mládek, Kristýna Onderková
-  :start: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
   :title: Ignite Show
+  :end: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
   :description: 20 snímků v prezentaci. 15 sekund na snímek. Dohromady 5 minut. Přesně
     tolik času mají naši přednášející k tomu, aby vás poučili a pobavili. Stihnou
     to?
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 18:00:00.000000000 +02:00
 - :author: Michal Kubánek "M-Majkl"
-  :start: !ruby/object:DateTime 2013-07-05 19:00:00.000000000 +02:00
   :title: Výsledky výzkumu na FF - temperament
+  :end: !ruby/object:DateTime 2013-07-05 19:00:00.000000000 +02:00
   :description: Minulý rok jsem realizoval s účastníky FF výzkum k diplomové práci
     na téma temperament a asociace. V této přednášce zveřejním výsledky, které budou
     zajisté pro mnohé překvapivé. Součástí přednášky bude i shrnutí, co je a co není
     temperament.
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 19:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 19:00:00.000000000 +02:00
 - :author: Kristýna Onderková "Navitas"
-  :start: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
   :title: Minimalismus
+  :end: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
   :description: ! '...jako životní styl. Proč a jak na to. Příběhy nejznámějších minimalistů
     i vlastní zkušenosti přednášející. Zajímá Vás kolik mám věcí?'
   :length: 1h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 20:00:00.000000000 +02:00
+- :author: Michal Hruška "Rico"
+  :title: Veselé príhody z dobývania vesmíru
+  :end: !ruby/object:DateTime 2013-07-05 21:00:00.000000000 +02:00
+  :description: Už vyše polstoročie sa ľudstvo vydáva za hranice atmosféry. Sú to
+    stovky misií a zákonite počas nich muselo prísť k “neštandardným” situáciám. A
+    keďže história dobývania vesmíru je plná týchto zaujímavých omylov, mylných predpokladov
+    a humorných príhod, rád by som sa s vami o ne podelil.
+  :length: 1h
+  :day: 2013-07-05
+  :start: !ruby/object:DateTime 2013-07-05 21:00:00.000000000 +02:00
 - :author: Tomáš Čapek "Charmer"
-  :start: !ruby/object:DateTime 2013-07-05 23:00:00.000000000 +02:00
   :title: Bill Hicks - Zjevení
+  :end: !ruby/object:DateTime 2013-07-05 22:00:00.000000000 +02:00
   :description: Poprvé na FF můžete vidět legendární vystoupení amerického komika
     Billa Hickse z roku 1992 v londýnském divadle Dominion, a to s originálním překladem.
     Jako obvykle, Billův humor je mládeži nepřístupný a slabším a prudérním povahám
     nebezpečný. Přijďte :)
-  :length: 1h
+  :length: 2h
   :day: 2013-07-05
-  :end: !ruby/object:DateTime 2013-07-05 23:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-05 22:00:00.000000000 +02:00
 2013-07-06:
 - :author: Miroslav Mácha "Miwa Y"
-  :start: !ruby/object:DateTime 2013-07-06 10:00:00.000000000 +02:00
   :title: Senzory v mobilu
+  :end: !ruby/object:DateTime 2013-07-06 10:00:00.000000000 +02:00
   :description: Jaké všechny informace je schopen mobil získat ze svého fyzického
     okolí. Jak to snímá a k čemu to používá.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 10:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 10:00:00.000000000 +02:00
 - :author: Miroslav Havlín
-  :start: !ruby/object:DateTime 2013-07-06 11:00:00.000000000 +02:00
   :title: Aktuality v antikoncepci
+  :end: !ruby/object:DateTime 2013-07-06 11:00:00.000000000 +02:00
   :description: Vše se vyvíjí – kontrola početí není výjimkou. Aktuální informace
     o novinkách v oblasti hormonální antikoncepce, nehormonálních metodik a legislativy.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 11:00:00.000000000 +02:00
 - :author: Edita Dufková
-  :start: !ruby/object:DateTime 2013-07-06 12:00:00.000000000 +02:00
   :title: Domluvíme se s mimozemšťany?
+  :end: !ruby/object:DateTime 2013-07-06 12:00:00.000000000 +02:00
   :description: Až k nám emzáci konečně přiletí, jakým jazykem s nimi budeme mluvit?
     Čeština to asi nebude... Dokážeme se ale vůbec shodnout na nějakém jazyce, na
     jednotných pojmech, na samotném procesu komunikace? Nebo narazíme na bariéru nepochopení,
     na nemožnost si porozumět a sdělit si něco víc, než že 1+1=2?
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 12:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 12:00:00.000000000 +02:00
 - :author: Hana Mudrová
-  :start: !ruby/object:DateTime 2013-07-06 13:00:00.000000000 +02:00
   :title: Cesty časem jako denní chleba
+  :end: !ruby/object:DateTime 2013-07-06 13:00:00.000000000 +02:00
   :description: Během své práce používám předměty z minulosti a společně se starými
     lidmi se vracíme do různých dob. Oni si mnohé připomenou, já se hodně dozvím.
     Pojďme si o tom povídat a hrát.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 13:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 13:00:00.000000000 +02:00
 - :author: Kristína Rebrová "kik"
-  :start: !ruby/object:DateTime 2013-07-06 14:00:00.000000000 +02:00
   :title: Kognitívna robotika
+  :end: !ruby/object:DateTime 2013-07-06 14:00:00.000000000 +02:00
   :description: Kognitívna robotika sa, narozdiel od štandardnej priemyselnej robotiky,
     zaoberá študovaním prirodzenej inteligencie pomocou metódy “skúmania budovaním”.
     Takýmto spôsobom vznikajú roboty, ktoré majú schopnosti učiť sa a vyvíjať sa,
     interagovať s prostredím a nakoniec aj s človekom.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 14:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 14:00:00.000000000 +02:00
 - :author: Filip Štaffa
-  :start: !ruby/object:DateTime 2013-07-06 15:00:00.000000000 +02:00
   :title: Ta věc na "S" co jí všichni dělají
+  :end: !ruby/object:DateTime 2013-07-06 15:00:00.000000000 +02:00
   :description: Statistika. Každý den říkáme věci jako "V té restauraci vaří špatně",
     "Schwarzenberg musí vyhrát protože ho volí všichni co znám" nebo "Kdo nemá aspoň
     [doplňte svůj nejvyšší dosažený titul] je dement". Děláme ji ale správně?
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 15:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 15:00:00.000000000 +02:00
 - :author: Jan Průcha "Jerson"
-  :start: !ruby/object:DateTime 2013-07-06 16:00:00.000000000 +02:00
   :title: Jak se seznámit po internetu
+  :end: !ruby/object:DateTime 2013-07-06 16:00:00.000000000 +02:00
   :description: Kdo se seznamuje přes internet a proč je to tak těžké? Co dělat a
     čemu se vyhnout na prvním setkání? (Obsahuje zkušenosti člověka, který všechny
     své partnerky našel na internetu.)
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 16:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 16:00:00.000000000 +02:00
 - :author: Veronika Sládková
-  :start: !ruby/object:DateTime 2013-07-06 17:00:00.000000000 +02:00
   :title: Právo pro každého
+  :end: !ruby/object:DateTime 2013-07-06 17:00:00.000000000 +02:00
   :description: Víte o tom, že od příštího roku přestává platit dosavadní civilní
     právo, tedy občanský, obchodní zákoník, zákon o rodině? Přednáška vás provede
     20 let (!) připravovaným novým kodexem, se všemi jeho kuriózními instituty jako
     pacht, smlouva o výměnku, dědická smlouva mezi zůstavitelem a dědici a jiné
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 17:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 17:00:00.000000000 +02:00
 - :author: Miroslav Mácha "Miwa Y"
-  :start: !ruby/object:DateTime 2013-07-06 18:00:00.000000000 +02:00
   :title: Kurvítko jako nezbytnost
+  :end: !ruby/object:DateTime 2013-07-06 18:00:00.000000000 +02:00
   :description: O dopadech na společnost a naplňování představ autorů distopií. Jake
     jsou požadavky na něj? Jak se technicky realizují? 
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 18:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 18:00:00.000000000 +02:00
 - :author: Tomáš Čapek "Charmer"
-  :start: !ruby/object:DateTime 2013-07-06 19:00:00.000000000 +02:00
   :title: Gangnam style
+  :end: !ruby/object:DateTime 2013-07-06 19:00:00.000000000 +02:00
   :description: První video v historii, které překonalo hranici jedné miliardy přehrání,
     a to za méně než půl roku, si jistě zaslouží vlastní pořad. Od té doby se ale
     mnohé odehrálo, mimojiné stovky různě povedených remixů. Prouzkomáme historii
     Gangnam stylu, prokládanou kvalitními tématickými klipy.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 19:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 19:00:00.000000000 +02:00
 - :author: Radim Červenka "Laco"
-  :start: !ruby/object:DateTime 2013-07-06 20:00:00.000000000 +02:00
   :title: Kniha a vědění
+  :end: !ruby/object:DateTime 2013-07-06 20:00:00.000000000 +02:00
   :description: Kniha jakožto médium a přenašeč informací zásadně ovlivnila naši civilizaci.
     Proměnila se od nesmírně vzácného luxusního zboží v tištěné masy dneška. S touto
     změnou se vyvíjel i styl studia. Nabízí se otázka, zda-li přinesl internet stejně
     rozsáhlou revoluci jako kniha a Guthenbergův knihtisk.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 20:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 20:00:00.000000000 +02:00
 - :author: Jan Vlnas
-  :start: !ruby/object:DateTime 2013-07-06 21:00:00.000000000 +02:00
   :title: Klikati krávu
+  :end: !ruby/object:DateTime 2013-07-06 21:00:00.000000000 +02:00
   :description: Aneb filipika proti hrám tzv. „sociálním.“ Máte krávu. Můžete na ní
     kliknout jednou za šest hodin. Proč byste to dělali? Ptejte se 4 milionů hráčů
     FarmVille… Mrkneme se na zoubek základním principům těchto her a zkusíme se zamyslet,
     zda lze tento koncept využít i smysluplněji.
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 21:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 21:00:00.000000000 +02:00
 - :author: Jiří Täuber "Boris"
-  :start: !ruby/object:DateTime 2013-07-06 22:00:00.000000000 +02:00
   :title: Kamery dnes a zítra
+  :end: !ruby/object:DateTime 2013-07-06 22:00:00.000000000 +02:00
   :description: Banky, obchody, ulice, dálnice, auta, telefony, helmy - tam všude
     můžeme vidět kamery. Poznáte se na záznamu? Kam se posouvá kamerová technologie?
     Jak nejlépe sledovat sousedy? Dá se sledování vyhnout? A je to vůbec k něčemu
     dobré?
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 22:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 22:00:00.000000000 +02:00
 - :author: Scarlett Rauschgoldová "Darth Zira"
-  :start: !ruby/object:DateTime 2013-07-06 23:00:00.000000000 +02:00
   :title: Chtíč, největší z hříchů
+  :end: !ruby/object:DateTime 2013-07-06 23:00:00.000000000 +02:00
   :description: ! 'Jestli se v něčem naprostá většina náboženství shoduje, tak v tendencích
     svým ovečkám regulovat sexuální život. Jak se v prostoru a čase měnily a mění
     pohledy na to, co se v posteli může a co nikoli? Pozn.: Ať každý zváží, zda na
     tuto přednášku vezme osobu mladší 15 let, za kterou je zodpovědný.'
   :length: 1h
   :day: 2013-07-06
-  :end: !ruby/object:DateTime 2013-07-06 23:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-06 23:00:00.000000000 +02:00
 2013-07-07:
 - :author: Hana Mudrová
-  :start: !ruby/object:DateTime 2013-07-07 10:00:00.000000000 +02:00
   :title: Domácí násilí - móda a nesmysl?
+  :end: !ruby/object:DateTime 2013-07-07 10:00:00.000000000 +02:00
   :description: Pochod staletími za odpovědí, proč to tady je  a proč nám to feministky
     a genderstudia strkají pod nos. Něco málo o nebezpečích, která z toho dnes vyplývají.
   :length: 1h
   :day: 2013-07-07
-  :end: !ruby/object:DateTime 2013-07-07 10:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-07 10:00:00.000000000 +02:00
 - :author: Jan Čečrdle "Kenny"
-  :start: !ruby/object:DateTime 2013-07-07 11:00:00.000000000 +02:00
   :title: Jaderné letectví a kosmonautika
+  :end: !ruby/object:DateTime 2013-07-07 11:00:00.000000000 +02:00
   :description: Každého určitě napadlo jak by to vypadalo, kdyby se vzduchem proháněla
     atomová letadla a na orbitě kroužily atomové raketoplány. Je to alespoň trochu
     možné nebo to zůstane navěky pouze v našich představách?
   :length: 1h
   :day: 2013-07-07
-  :end: !ruby/object:DateTime 2013-07-07 11:00:00.000000000 +02:00
+  :start: !ruby/object:DateTime 2013-07-07 11:00:00.000000000 +02:00
